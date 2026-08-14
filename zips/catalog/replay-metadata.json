@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-14T21:03:58.821667Z",
+  "generated_at": "2026-08-14T22:43:33.263322Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-14T21:03:58.821667Z",
+      "checked_at": "2026-08-14T22:43:33.263322Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-14T21:03:58.821667Z",
+      "checked_at": "2026-08-14T22:43:33.263322Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-14T21:03:58.821667Z",
+      "checked_at": "2026-08-14T22:43:33.263322Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-14T21:03:58.821667Z",
+      "checked_at": "2026-08-14T22:43:33.263322Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T21:03:58.821667Z",
+      "checked_at": "2026-08-14T22:43:33.263322Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T21:03:58.821667Z",
-      "records": 29
+      "checked_at": "2026-08-14T22:43:33.263322Z",
+      "records": 27
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T21:03:58.821667Z",
-      "records": 34
+      "checked_at": "2026-08-14T22:43:33.263322Z",
+      "records": 33
     }
   },
   "items": [
@@ -505,6 +505,18 @@
       "page_url": "https://acestrlms.pages.dev/indy/#20260815-1400-indycar-ontario-practice-2"
     },
     {
+      "provider": "Aces Live",
+      "series": "IndyCar",
+      "title": "Indycar - Ontario - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-08-15",
+      "event_time": "2026-08-15T14:00:00Z",
+      "event_date_label": "15 Aug 2026 14:00 UTC",
+      "last_modified": "",
+      "state": "scheduled",
+      "page_url": "https://acestrlms.pages.dev/indy/#20260815-1400-indycar-ontario-practice-1"
+    },
+    {
       "provider": "PitSport Live",
       "series": "IndyCar",
       "title": "IndyCar Series - Markham \u2014 Qualifying",
@@ -818,18 +830,6 @@
       "page_url": "https://acestrlms.pages.dev/trucks/#20260814-2337-nascar-truck-series-richmond-race"
     },
     {
-      "provider": "Aces Live",
-      "series": "NASCAR",
-      "title": "Nascar Cup Series - Richmond - Practice/Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-14",
-      "event_time": "2026-08-14T19:30:00Z",
-      "event_date_label": "14 Aug 2026 19:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/nasca/#20260814-1930-nascar-cup-series-richmond-practice-qualifying"
-    },
-    {
       "provider": "PitSport Live",
       "series": "NASCAR",
       "title": "NASCAR Truck Series - Richmond Raceway \u2014 Race: Black's Tire 250",
@@ -844,20 +844,6 @@
       "page_url": "https://pitsport.live/watch/2751c21e-4d1f-49c3-b2ca-8959321b9427"
     },
     {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "NASCAR Cup Series - Richmond Raceway \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-14",
-      "event_time": "2026-08-14T20:40:00Z",
-      "event_end_time": "2026-08-14T21:30:00Z",
-      "event_date_label": "14 Aug 2026 20:40 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/Y4K0XCZ2/03a50f075514.jpg",
-      "page_url": "https://pitsport.live/watch/143a851f-4c18-4090-918d-bbeee2150058"
-    },
-    {
       "provider": "NontonX Live",
       "series": "MotoGP",
       "title": "MotoGP Live",
@@ -869,18 +855,6 @@
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
     },
     {
-      "provider": "Aces Live",
-      "series": "IndyCar",
-      "title": "Indycar - Ontario - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-08-14",
-      "event_time": "2026-08-14T22:00:00Z",
-      "event_date_label": "14 Aug 2026 22:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "page_url": "https://acestrlms.pages.dev/indy/#20260814-2200-indycar-ontario-practice-1"
-    },
-    {
       "provider": "PitSport Live",
       "series": "IndyCar",
       "title": "IndyCar Series - Markham \u2014 Free Practice 1",
@@ -890,7 +864,7 @@
       "event_end_time": "2026-08-14T23:25:00Z",
       "event_date_label": "14 Aug 2026 22:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/rfTKrTvf/056a92facf2a.jpg",
       "page_url": "https://pitsport.live/watch/11cf3a10-ba4d-4959-be5f-13453a71ff08"
     },
@@ -904,18 +878,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 1",
-      "event_year": 2026,
-      "event_date": "2026-08-14",
-      "event_time": "2026-08-14T19:35:00Z",
-      "event_date_label": "14 Aug 2026 19:35 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260814-1935-european-rally-barum-czech-rally-zl-n-stage-1"
     },
     {
       "provider": "FullRaces",
