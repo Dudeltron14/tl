@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-14T17:43:22.643002Z",
+  "generated_at": "2026-08-14T19:16:49.363227Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-14T17:43:22.643002Z",
+      "checked_at": "2026-08-14T19:16:49.363227Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-14T17:43:22.643002Z",
+      "checked_at": "2026-08-14T19:16:49.363227Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-14T17:43:22.643002Z",
+      "checked_at": "2026-08-14T19:16:49.363227Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-14T17:43:22.643002Z",
+      "checked_at": "2026-08-14T19:16:49.363227Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T17:43:22.643002Z",
+      "checked_at": "2026-08-14T19:16:49.363227Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T17:43:22.643002Z",
+      "checked_at": "2026-08-14T19:16:49.363227Z",
       "records": 31
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T17:43:22.643002Z",
-      "records": 38
+      "checked_at": "2026-08-14T19:16:49.363227Z",
+      "records": 36
     }
   },
   "items": [
@@ -858,34 +858,6 @@
     {
       "provider": "PitSport Live",
       "series": "NASCAR",
-      "title": "NASCAR Truck Series - Richmond Raceway \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-14",
-      "event_time": "2026-08-14T18:05:00Z",
-      "event_end_time": "2026-08-14T18:55:00Z",
-      "event_date_label": "14 Aug 2026 18:05 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/R4cTdMJN/9bfcaff96896.jpg",
-      "page_url": "https://pitsport.live/watch/7edc9c9a-859c-4c51-bb99-4b6191586177"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "NASCAR Truck Series - Richmond Raceway \u2014 Free Practice",
-      "event_year": 2026,
-      "event_date": "2026-08-14",
-      "event_time": "2026-08-14T17:00:00Z",
-      "event_end_time": "2026-08-14T17:50:00Z",
-      "event_date_label": "14 Aug 2026 17:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/6RK0JBLP/8bbe7c214cc9.jpg",
-      "page_url": "https://pitsport.live/watch/7722a9ff-5385-4af7-81e4-9fe4faac977f"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
       "title": "NASCAR Cup Series - Richmond Raceway \u2014 Qualifying",
       "event_year": 2026,
       "event_date": "2026-08-14",
@@ -931,7 +903,7 @@
       "event_time": "2026-08-14T19:00:00Z",
       "event_date_label": "14 Aug 2026 19:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/indy/#20260814-1900-indycar-ontario-practice-1"
     },
     {
@@ -994,7 +966,7 @@
       "event_time": "2026-08-14T19:00:00Z",
       "event_date_label": "14 Aug 2026 19:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260814-1900-european-rally-barum-czech-rally-zl-n-opening"
     },
     {
