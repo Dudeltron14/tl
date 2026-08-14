@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-14T16:42:50.402014Z",
+  "generated_at": "2026-08-14T17:08:17.752156Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-14T16:42:50.402014Z",
+      "checked_at": "2026-08-14T17:08:17.752156Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-14T16:42:50.402014Z",
+      "checked_at": "2026-08-14T17:08:17.752156Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-14T16:42:50.402014Z",
+      "checked_at": "2026-08-14T17:08:17.752156Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-14T16:42:50.402014Z",
+      "checked_at": "2026-08-14T17:08:17.752156Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T16:42:50.402014Z",
+      "checked_at": "2026-08-14T17:08:17.752156Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T16:42:50.402014Z",
+      "checked_at": "2026-08-14T17:08:17.752156Z",
       "records": 31
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-14T16:42:50.402014Z",
+      "checked_at": "2026-08-14T17:08:17.752156Z",
       "records": 38
     }
   },
@@ -826,7 +826,7 @@
       "event_time": "2026-08-14T17:00:00Z",
       "event_date_label": "14 Aug 2026 17:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/trucks/#20260814-1700-nascar-truck-series-richmond-practice-qualifying"
     },
     {
@@ -879,7 +879,7 @@
       "event_end_time": "2026-08-14T17:50:00Z",
       "event_date_label": "14 Aug 2026 17:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/6RK0JBLP/8bbe7c214cc9.jpg",
       "page_url": "https://pitsport.live/watch/7722a9ff-5385-4af7-81e4-9fe4faac977f"
     },
