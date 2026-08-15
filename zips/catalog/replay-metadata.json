@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T07:00:25.273832Z",
+  "generated_at": "2026-08-15T08:47:52.670265Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T07:00:25.273832Z",
+      "checked_at": "2026-08-15T08:47:52.670265Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T07:00:25.273832Z",
+      "checked_at": "2026-08-15T08:47:52.670265Z",
       "records": 670
     },
     "OvertakeFans": {
-      "status": "stale",
-      "checked_at": "2026-08-15T07:00:25.273832Z",
+      "status": "ok",
+      "checked_at": "2026-08-15T08:47:52.670265Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T07:00:25.273832Z",
+      "checked_at": "2026-08-15T08:47:52.670265Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T07:00:25.273832Z",
+      "checked_at": "2026-08-15T08:47:52.670265Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T07:00:25.273832Z",
+      "checked_at": "2026-08-15T08:47:52.670265Z",
       "records": 27
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T07:00:25.273832Z",
-      "records": 31
+      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "records": 28
     }
   },
   "items": [
@@ -607,20 +607,6 @@
       "page_url": "https://pitsport.live/watch/63de77d1-945a-4663-8423-1221312d9e88"
     },
     {
-      "provider": "PitSport Live",
-      "series": "Formula E",
-      "title": "Formula E - Royal Docks and ExCeL \u2014 Free Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T07:30:00Z",
-      "event_end_time": "2026-08-15T08:25:00Z",
-      "event_date_label": "15 Aug 2026 07:30 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/R5yzCGf/e8afa4615c21.jpg",
-      "page_url": "https://pitsport.live/watch/69b8956d-54e7-4a21-a900-c84087d026ab"
-    },
-    {
       "provider": "Aces Live",
       "series": "Formula E",
       "title": "Formula E - London ePrix - Race 1",
@@ -653,7 +639,7 @@
       "event_time": "2026-08-15T07:30:00Z",
       "event_date_label": "15 Aug 2026 07:30 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/electric/#20260815-0730-formula-e-london-eprix-practice-2"
     },
     {
@@ -724,34 +710,6 @@
       "page_url": "https://pitsport.live/watch/06dd903c-22f2-4ccd-9876-11bca46b611d"
     },
     {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS3 - Troj\u00e1k 1",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T07:51:00Z",
-      "event_end_time": "2026-08-15T08:41:00Z",
-      "event_date_label": "15 Aug 2026 07:51 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/ab2d670a-ad72-4d26-b040-587da9b6b3ec"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS2 - Poho\u0159elice 1",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T06:48:00Z",
-      "event_end_time": "2026-08-15T07:38:00Z",
-      "event_date_label": "15 Aug 2026 06:48 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/c307ee25-d380-410a-8319-36721a94dac1"
-    },
-    {
       "provider": "Aces Live",
       "series": "Rally",
       "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 7",
@@ -808,7 +766,7 @@
       "event_time": "2026-08-15T07:51:00Z",
       "event_date_label": "15 Aug 2026 07:51 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260815-0751-european-rally-barum-czech-rally-zl-n-stage-3"
     },
     {
