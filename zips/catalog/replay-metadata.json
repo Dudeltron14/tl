@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T04:49:46.024677Z",
+  "generated_at": "2026-08-15T07:00:25.273832Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T04:49:46.024677Z",
+      "checked_at": "2026-08-15T07:00:25.273832Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T04:49:46.024677Z",
+      "checked_at": "2026-08-15T07:00:25.273832Z",
       "records": 670
     },
     "OvertakeFans": {
-      "status": "ok",
-      "checked_at": "2026-08-15T04:49:46.024677Z",
+      "status": "stale",
+      "checked_at": "2026-08-15T07:00:25.273832Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T04:49:46.024677Z",
+      "checked_at": "2026-08-15T07:00:25.273832Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T04:49:46.024677Z",
+      "checked_at": "2026-08-15T07:00:25.273832Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T04:49:46.024677Z",
+      "checked_at": "2026-08-15T07:00:25.273832Z",
       "records": 27
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T04:49:46.024677Z",
+      "checked_at": "2026-08-15T07:00:25.273832Z",
       "records": 31
     }
   },
@@ -747,7 +747,7 @@
       "event_end_time": "2026-08-15T07:38:00Z",
       "event_date_label": "15 Aug 2026 06:48 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
       "page_url": "https://pitsport.live/watch/c307ee25-d380-410a-8319-36721a94dac1"
     },
@@ -820,7 +820,7 @@
       "event_time": "2026-08-15T06:48:00Z",
       "event_date_label": "15 Aug 2026 06:48 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260815-0648-european-rally-barum-czech-rally-zl-n-stage-2"
     },
     {
