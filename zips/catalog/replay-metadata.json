@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T20:41:59.181321Z",
+  "generated_at": "2026-08-15T22:40:51.219317Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "checked_at": "2026-08-15T22:40:51.219317Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "checked_at": "2026-08-15T22:40:51.219317Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "checked_at": "2026-08-15T22:40:51.219317Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "checked_at": "2026-08-15T22:40:51.219317Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "checked_at": "2026-08-15T22:40:51.219317Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "checked_at": "2026-08-15T22:40:51.219317Z",
       "records": 15
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "checked_at": "2026-08-15T22:40:51.219317Z",
       "records": 19
     }
   },
@@ -524,7 +524,7 @@
       "event_end_time": "2026-08-15T23:55:00Z",
       "event_date_label": "15 Aug 2026 22:30 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/zT1NXTYf/630c0ce81487.jpg",
       "page_url": "https://pitsport.live/watch/51598b5b-1b72-4c8d-b8d8-36fd95477e36"
     },
