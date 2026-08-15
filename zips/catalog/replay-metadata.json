@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T18:49:18.828149Z",
+  "generated_at": "2026-08-15T20:41:59.181321Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "checked_at": "2026-08-15T20:41:59.181321Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "checked_at": "2026-08-15T20:41:59.181321Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "checked_at": "2026-08-15T20:41:59.181321Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "checked_at": "2026-08-15T20:41:59.181321Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "checked_at": "2026-08-15T20:41:59.181321Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "checked_at": "2026-08-15T20:41:59.181321Z",
       "records": 15
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T18:49:18.828149Z",
-      "records": 20
+      "checked_at": "2026-08-15T20:41:59.181321Z",
+      "records": 19
     }
   },
   "items": [
@@ -527,20 +527,6 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/zT1NXTYf/630c0ce81487.jpg",
       "page_url": "https://pitsport.live/watch/51598b5b-1b72-4c8d-b8d8-36fd95477e36"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Markham \u2014 Free Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T18:30:00Z",
-      "event_end_time": "2026-08-15T19:55:00Z",
-      "event_date_label": "15 Aug 2026 18:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/ksNs8bH8/35795f1be980.jpg",
-      "page_url": "https://pitsport.live/watch/60102355-cc0c-45ab-98dd-1ba288270d1b"
     },
     {
       "provider": "NontonX Live",
