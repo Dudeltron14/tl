@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T10:42:13.873440Z",
+  "generated_at": "2026-08-15T13:01:08.639713Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T10:42:13.873440Z",
+      "checked_at": "2026-08-15T13:01:08.639713Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T10:42:13.873440Z",
+      "checked_at": "2026-08-15T13:01:08.639713Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "stale",
-      "checked_at": "2026-08-15T10:42:13.873440Z",
+      "checked_at": "2026-08-15T13:01:08.639713Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T10:42:13.873440Z",
+      "checked_at": "2026-08-15T13:01:08.639713Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T10:42:13.873440Z",
+      "checked_at": "2026-08-15T13:01:08.639713Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T10:42:13.873440Z",
+      "checked_at": "2026-08-15T13:01:08.639713Z",
       "records": 27
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T10:42:13.873440Z",
-      "records": 28
+      "checked_at": "2026-08-15T13:01:08.639713Z",
+      "records": 26
     }
   },
   "items": [
@@ -556,9 +556,9 @@
       "title": "IndyCar Series - Markham \u2014 Qualifying",
       "event_year": 2026,
       "event_date": "2026-08-15",
-      "event_time": "2026-08-15T18:25:00Z",
-      "event_end_time": "2026-08-15T19:50:00Z",
-      "event_date_label": "15 Aug 2026 18:25 UTC",
+      "event_time": "2026-08-15T22:30:00Z",
+      "event_end_time": "2026-08-15T23:55:00Z",
+      "event_date_label": "15 Aug 2026 22:30 UTC",
       "last_modified": "",
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/zT1NXTYf/630c0ce81487.jpg",
@@ -570,13 +570,27 @@
       "title": "IndyCar Series - Markham \u2014 Free Practice 2",
       "event_year": 2026,
       "event_date": "2026-08-15",
-      "event_time": "2026-08-15T14:05:00Z",
-      "event_end_time": "2026-08-15T15:25:00Z",
-      "event_date_label": "15 Aug 2026 14:05 UTC",
+      "event_time": "2026-08-15T18:30:00Z",
+      "event_end_time": "2026-08-15T19:55:00Z",
+      "event_date_label": "15 Aug 2026 18:30 UTC",
       "last_modified": "",
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/ksNs8bH8/35795f1be980.jpg",
       "page_url": "https://pitsport.live/watch/60102355-cc0c-45ab-98dd-1ba288270d1b"
+    },
+    {
+      "provider": "PitSport Live",
+      "series": "IndyCar",
+      "title": "IndyCar Series - Markham \u2014 Free Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-08-15",
+      "event_time": "2026-08-15T14:05:00Z",
+      "event_end_time": "2026-08-15T15:30:00Z",
+      "event_date_label": "15 Aug 2026 14:05 UTC",
+      "last_modified": "",
+      "state": "scheduled",
+      "thumbnail": "https://i.ibb.co/rfTKrTvf/056a92facf2a.jpg",
+      "page_url": "https://pitsport.live/watch/11cf3a10-ba4d-4959-be5f-13453a71ff08"
     },
     {
       "provider": "PitSport Live",
@@ -591,20 +605,6 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/YBggwg0r/881a30157d24.jpg",
       "page_url": "https://pitsport.live/watch/e706834b-dc19-428b-9260-e31c21407d28"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Formula E",
-      "title": "Formula E - Royal Docks and ExCeL \u2014 Qualifying 1",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T09:40:00Z",
-      "event_end_time": "2026-08-15T10:50:00Z",
-      "event_date_label": "15 Aug 2026 09:40 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/mrn8Yj1n/53d06e802d3e.jpg",
-      "page_url": "https://pitsport.live/watch/63de77d1-945a-4663-8423-1221312d9e88"
     },
     {
       "provider": "Aces Live",
@@ -691,23 +691,9 @@
       "event_end_time": "2026-08-15T13:42:00Z",
       "event_date_label": "15 Aug 2026 12:52 UTC",
       "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/b20a5626-9966-4ec8-9b5b-73ac4f548a2b"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS4 - Bun\u010d 1",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T09:54:00Z",
-      "event_end_time": "2026-08-15T10:44:00Z",
-      "event_date_label": "15 Aug 2026 09:54 UTC",
-      "last_modified": "",
       "state": "live",
       "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/06dd903c-22f2-4ccd-9876-11bca46b611d"
+      "page_url": "https://pitsport.live/watch/b20a5626-9966-4ec8-9b5b-73ac4f548a2b"
     },
     {
       "provider": "Aces Live",
@@ -742,7 +728,7 @@
       "event_time": "2026-08-15T12:52:00Z",
       "event_date_label": "15 Aug 2026 12:52 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260815-1252-european-rally-barum-czech-rally-zl-n-stage-5"
     },
     {
@@ -778,7 +764,7 @@
       "event_time": "2026-08-15T06:48:00Z",
       "event_date_label": "15 Aug 2026 06:48 UTC",
       "last_modified": "",
-      "state": "live",
+      "state": "scheduled",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260815-0648-european-rally-barum-czech-rally-zl-n-stage-2"
     },
     {
@@ -794,20 +780,6 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/TqgMVtC4/817cf094b7a3.jpg",
       "page_url": "https://pitsport.live/watch/4b4ab611-2117-4b9a-8eda-e60605386608"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "WorldSBK",
-      "title": "British Superbike Championship - Thruxton \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T12:20:00Z",
-      "event_end_time": "2026-08-15T13:00:00Z",
-      "event_date_label": "15 Aug 2026 12:20 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/jvnWbv9Y/6eb5fd79eb30.jpg",
-      "page_url": "https://pitsport.live/watch/e800844d-486c-498d-8c9a-7b6e9745a22c"
     },
     {
       "provider": "FullRaces",
