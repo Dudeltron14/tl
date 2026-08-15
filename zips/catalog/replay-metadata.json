@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T16:44:16.384854Z",
+  "generated_at": "2026-08-15T18:49:18.828149Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T16:44:16.384854Z",
+      "checked_at": "2026-08-15T18:49:18.828149Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T16:44:16.384854Z",
+      "checked_at": "2026-08-15T18:49:18.828149Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-15T16:44:16.384854Z",
+      "checked_at": "2026-08-15T18:49:18.828149Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T16:44:16.384854Z",
+      "checked_at": "2026-08-15T18:49:18.828149Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T16:44:16.384854Z",
+      "checked_at": "2026-08-15T18:49:18.828149Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T16:44:16.384854Z",
-      "records": 17
+      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "records": 15
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T16:44:16.384854Z",
-      "records": 22
+      "checked_at": "2026-08-15T18:49:18.828149Z",
+      "records": 20
     }
   },
   "items": [
@@ -450,20 +450,8 @@
       "event_time": "2026-08-15T17:00:00Z",
       "event_date_label": "15 Aug 2026 17:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
-      "page_url": "https://acestrlms.pages.dev/cross/#20260815-1700-smx-supercross-26-unadilla-main-event"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "NASCAR",
-      "title": "Nascar Truck Series - Richmond - Race",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T16:03:00Z",
-      "event_date_label": "15 Aug 2026 16:03 UTC",
-      "last_modified": "",
       "state": "live",
-      "page_url": "https://acestrlms.pages.dev/trucks/#20260815-1603-nascar-truck-series-richmond-race"
+      "page_url": "https://acestrlms.pages.dev/cross/#20260815-1700-smx-supercross-26-unadilla-main-event"
     },
     {
       "provider": "Aces Live",
@@ -476,20 +464,6 @@
       "last_modified": "",
       "state": "scheduled",
       "page_url": "https://acestrlms.pages.dev/nasca/#20260815-2310-nascar-cup-series-richmond-race"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "NASCAR Truck Series - Richmond Raceway \u2014 Race: Black's Tire 250",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T16:00:00Z",
-      "event_end_time": "2026-08-15T18:35:00Z",
-      "event_date_label": "15 Aug 2026 16:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/pj1G9tLT/5e7aa76f354c.jpg",
-      "page_url": "https://pitsport.live/watch/2751c21e-4d1f-49c3-b2ca-8959321b9427"
     },
     {
       "provider": "PitSport Live",
@@ -537,7 +511,7 @@
       "event_time": "2026-08-15T18:30:00Z",
       "event_date_label": "15 Aug 2026 18:30 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/indy/#20260815-1830-indycar-ontario-practice-2"
     },
     {
@@ -564,7 +538,7 @@
       "event_end_time": "2026-08-15T19:55:00Z",
       "event_date_label": "15 Aug 2026 18:30 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/ksNs8bH8/35795f1be980.jpg",
       "page_url": "https://pitsport.live/watch/60102355-cc0c-45ab-98dd-1ba288270d1b"
     },
@@ -578,32 +552,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS7 - Bun\u010d 2",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T15:58:00Z",
-      "event_end_time": "2026-08-15T16:48:00Z",
-      "event_date_label": "15 Aug 2026 15:58 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/7fb99589-b528-4eca-94a2-7eb35c1645e6"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 7",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T15:58:00Z",
-      "event_date_label": "15 Aug 2026 15:58 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260815-1558-european-rally-barum-czech-rally-zl-n-stage-7"
     },
     {
       "provider": "FullRaces",
