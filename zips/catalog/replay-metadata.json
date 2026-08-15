@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T08:47:52.670265Z",
+  "generated_at": "2026-08-15T10:42:13.873440Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "checked_at": "2026-08-15T10:42:13.873440Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "checked_at": "2026-08-15T10:42:13.873440Z",
       "records": 670
     },
     "OvertakeFans": {
-      "status": "ok",
-      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "status": "stale",
+      "checked_at": "2026-08-15T10:42:13.873440Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "checked_at": "2026-08-15T10:42:13.873440Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "checked_at": "2026-08-15T10:42:13.873440Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "checked_at": "2026-08-15T10:42:13.873440Z",
       "records": 27
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T08:47:52.670265Z",
+      "checked_at": "2026-08-15T10:42:13.873440Z",
       "records": 28
     }
   },
@@ -602,7 +602,7 @@
       "event_end_time": "2026-08-15T10:50:00Z",
       "event_date_label": "15 Aug 2026 09:40 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/mrn8Yj1n/53d06e802d3e.jpg",
       "page_url": "https://pitsport.live/watch/63de77d1-945a-4663-8423-1221312d9e88"
     },
@@ -627,7 +627,7 @@
       "event_time": "2026-08-15T09:40:00Z",
       "event_date_label": "15 Aug 2026 09:40 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/electric/#20260815-0940-formula-e-london-eprix-qualifying-1"
     },
     {
@@ -705,7 +705,7 @@
       "event_end_time": "2026-08-15T10:44:00Z",
       "event_date_label": "15 Aug 2026 09:54 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
       "page_url": "https://pitsport.live/watch/06dd903c-22f2-4ccd-9876-11bca46b611d"
     },
@@ -754,7 +754,7 @@
       "event_time": "2026-08-15T09:54:00Z",
       "event_date_label": "15 Aug 2026 09:54 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260815-0954-european-rally-barum-czech-rally-zl-n-stage-4"
     },
     {
