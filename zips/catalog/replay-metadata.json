@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T18:48:56.546478Z",
+  "generated_at": "2026-08-16T20:41:39.589350Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-16T18:48:56.546478Z",
+      "checked_at": "2026-08-16T20:41:39.589350Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-16T18:48:56.546478Z",
+      "checked_at": "2026-08-16T20:41:39.589350Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-16T18:48:56.546478Z",
+      "checked_at": "2026-08-16T20:41:39.589350Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-16T18:48:56.546478Z",
+      "checked_at": "2026-08-16T20:41:39.589350Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T18:48:56.546478Z",
+      "checked_at": "2026-08-16T20:41:39.589350Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T18:48:56.546478Z",
-      "records": 1
+      "checked_at": "2026-08-16T20:41:39.589350Z",
+      "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T18:48:56.546478Z",
-      "records": 1
+      "checked_at": "2026-08-16T20:41:39.589350Z",
+      "records": 0
     }
   },
   "items": [
@@ -81,32 +81,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "IndyCar",
-      "title": "Indycar - Ontario - Race",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T16:17:00Z",
-      "event_date_label": "16 Aug 2026 16:17 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/indy/#20260816-1617-indycar-ontario-race"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Markham \u2014 Race: Ontario Honda Dealers Indy",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T16:22:00Z",
-      "event_end_time": "2026-08-16T18:57:00Z",
-      "event_date_label": "16 Aug 2026 16:22 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/twHgG66S/6c6f0a3cafe9.jpg",
-      "page_url": "https://pitsport.live/watch/d0f83021-6ce9-461d-9621-69b84230fca1"
     },
     {
       "provider": "NontonX Live",
