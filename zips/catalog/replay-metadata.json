@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T14:42:13.165609Z",
+  "generated_at": "2026-08-16T16:44:38.263564Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-16T14:42:13.165609Z",
+      "checked_at": "2026-08-16T16:44:38.263564Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-16T14:42:13.165609Z",
+      "checked_at": "2026-08-16T16:44:38.263564Z",
       "records": 670
     },
     "OvertakeFans": {
-      "status": "ok",
-      "checked_at": "2026-08-16T14:42:13.165609Z",
+      "status": "stale",
+      "checked_at": "2026-08-16T16:44:38.263564Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-16T14:42:13.165609Z",
+      "checked_at": "2026-08-16T16:44:38.263564Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T14:42:13.165609Z",
+      "checked_at": "2026-08-16T16:44:38.263564Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T14:42:13.165609Z",
-      "records": 3
+      "checked_at": "2026-08-16T16:44:38.263564Z",
+      "records": 1
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T14:42:13.165609Z",
-      "records": 6
+      "checked_at": "2026-08-16T16:44:38.263564Z",
+      "records": 1
     }
   },
   "items": [
@@ -91,7 +91,7 @@
       "event_time": "2026-08-16T16:17:00Z",
       "event_date_label": "16 Aug 2026 16:17 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/indy/#20260816-1617-indycar-ontario-race"
     },
     {
@@ -104,35 +104,9 @@
       "event_end_time": "2026-08-16T18:57:00Z",
       "event_date_label": "16 Aug 2026 16:22 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/twHgG66S/6c6f0a3cafe9.jpg",
       "page_url": "https://pitsport.live/watch/d0f83021-6ce9-461d-9621-69b84230fca1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Formula E",
-      "title": "Formula E - Royal Docks and ExCeL \u2014 Race 2: London E-Prix",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T14:05:00Z",
-      "event_end_time": "2026-08-16T14:55:00Z",
-      "event_date_label": "16 Aug 2026 14:05 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/kgCDwPkw/2e23e8c4b5f9.jpg",
-      "page_url": "https://pitsport.live/watch/4ba8f481-27f9-42c3-abb9-c15a0a46ebd0"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Formula E",
-      "title": "Formula E - London ePrix - Race 2",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T14:05:00Z",
-      "event_date_label": "16 Aug 2026 14:05 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/electric/#20260816-1405-formula-e-london-eprix-race-2"
     },
     {
       "provider": "NontonX Live",
@@ -144,74 +118,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Motocross",
-      "title": "FIM Motocross World Championship - Uddevalla \u2014 MXGP - Race 2",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T15:10:00Z",
-      "event_end_time": "2026-08-16T15:45:00Z",
-      "event_date_label": "16 Aug 2026 15:10 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/SjZVMv4/452edbc6affb.jpg",
-      "page_url": "https://pitsport.live/watch/f02ae5b8-bdaa-4bfa-bc3b-5305ec71debf"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Motocross",
-      "title": "FIM Motocross World Championship - Uddevalla \u2014 MX2 - Race 2",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T14:10:00Z",
-      "event_end_time": "2026-08-16T14:45:00Z",
-      "event_date_label": "16 Aug 2026 14:10 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/TBqngKd5/795a5566dc67.jpg",
-      "page_url": "https://pitsport.live/watch/fd8ea7d3-cc38-4313-aaad-36127dae8e7c"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS13 - Kate\u0159inice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T14:05:00Z",
-      "event_end_time": "2026-08-16T14:55:00Z",
-      "event_date_label": "16 Aug 2026 14:05 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/f409bc05-ca8e-445a-9e98-732738befe8c"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 13",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T14:05:00Z",
-      "event_date_label": "16 Aug 2026 14:05 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-1405-european-rally-barum-czech-rally-zl-n-stage-13"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "WorldSBK",
-      "title": "British Superbike Championship - Thruxton \u2014 Race 3",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T15:15:00Z",
-      "event_end_time": "2026-08-16T15:55:00Z",
-      "event_date_label": "16 Aug 2026 15:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/FkHMKzhY/d0d3ffa5fd26.jpg",
-      "page_url": "https://pitsport.live/watch/c062098f-887b-4bc0-a508-f4203f73361d"
     },
     {
       "provider": "FullRaces",
