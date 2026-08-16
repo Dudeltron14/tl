@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T22:40:51.219317Z",
+  "generated_at": "2026-08-16T01:59:01.421630Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,63 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-15T22:40:51.219317Z",
+      "checked_at": "2026-08-16T01:59:01.421630Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-15T22:40:51.219317Z",
+      "checked_at": "2026-08-16T01:59:01.421630Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-15T22:40:51.219317Z",
+      "checked_at": "2026-08-16T01:59:01.421630Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-15T22:40:51.219317Z",
+      "checked_at": "2026-08-16T01:59:01.421630Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T22:40:51.219317Z",
+      "checked_at": "2026-08-16T01:59:01.421630Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T22:40:51.219317Z",
-      "records": 15
+      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "records": 11
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-15T22:40:51.219317Z",
-      "records": 19
+      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "records": 18
     }
   },
   "items": [
+    {
+      "provider": "NontonX Live",
+      "series": "WorldSBK",
+      "title": "WorldSBK Live",
+      "event_year": 2026,
+      "event_date": "2026-08-16",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-08-16",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
     {
       "provider": "Aces Live",
       "series": "IndyCar",
@@ -189,6 +211,17 @@
       "last_modified": "",
       "state": "scheduled",
       "page_url": "https://acestrlms.pages.dev/electric/#20260816-0730-formula-e-london-eprix-practice-3"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-08-16",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "PitSport Live",
@@ -431,41 +464,6 @@
       "page_url": "https://pitsport.live/watch/9d6efcd3-0eca-4ae6-a336-ad65e832670d"
     },
     {
-      "provider": "NontonX Live",
-      "series": "WorldSBK",
-      "title": "WorldSBK Live",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Motocross",
-      "title": "SMX Supercross - #26 Unadilla - Main Event",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T17:00:00Z",
-      "event_date_label": "15 Aug 2026 17:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/cross/#20260815-1700-smx-supercross-26-unadilla-main-event"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "NASCAR",
-      "title": "Nascar Cup Series - Richmond - Race",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T23:10:00Z",
-      "event_date_label": "15 Aug 2026 23:10 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "page_url": "https://acestrlms.pages.dev/nasca/#20260815-2310-nascar-cup-series-richmond-race"
-    },
-    {
       "provider": "PitSport Live",
       "series": "NASCAR",
       "title": "NASCAR Cup Series - Richmond Raceway \u2014 Race: Cook Out 400",
@@ -475,69 +473,9 @@
       "event_end_time": "2026-08-16T02:30:00Z",
       "event_date_label": "15 Aug 2026 23:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/LX129cH2/4f1ad5ef6160.jpg",
       "page_url": "https://pitsport.live/watch/0591609b-1bfe-474c-9bb8-ea64f78a734a"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "IndyCar",
-      "title": "Indycar - Ontario - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T23:00:00Z",
-      "event_date_label": "15 Aug 2026 23:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "page_url": "https://acestrlms.pages.dev/indy/#20260815-2300-indycar-ontario-qualifying"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "IndyCar",
-      "title": "Indycar - Ontario - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T18:30:00Z",
-      "event_date_label": "15 Aug 2026 18:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/indy/#20260815-1830-indycar-ontario-practice-2"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Markham \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T22:30:00Z",
-      "event_end_time": "2026-08-15T23:55:00Z",
-      "event_date_label": "15 Aug 2026 22:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/zT1NXTYf/630c0ce81487.jpg",
-      "page_url": "https://pitsport.live/watch/51598b5b-1b72-4c8d-b8d8-36fd95477e36"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "FullRaces",
