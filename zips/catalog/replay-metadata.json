@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T01:59:01.421630Z",
+  "generated_at": "2026-08-16T03:14:59.472296Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "checked_at": "2026-08-16T03:14:59.472296Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "checked_at": "2026-08-16T03:14:59.472296Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "checked_at": "2026-08-16T03:14:59.472296Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "checked_at": "2026-08-16T03:14:59.472296Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "checked_at": "2026-08-16T03:14:59.472296Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T01:59:01.421630Z",
+      "checked_at": "2026-08-16T03:14:59.472296Z",
       "records": 11
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T01:59:01.421630Z",
-      "records": 18
+      "checked_at": "2026-08-16T03:14:59.472296Z",
+      "records": 17
     }
   },
   "items": [
@@ -462,20 +462,6 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/5gPTyDQb/7b00a44d773d.jpg",
       "page_url": "https://pitsport.live/watch/9d6efcd3-0eca-4ae6-a336-ad65e832670d"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "NASCAR Cup Series - Richmond Raceway \u2014 Race: Cook Out 400",
-      "event_year": 2026,
-      "event_date": "2026-08-15",
-      "event_time": "2026-08-15T23:00:00Z",
-      "event_end_time": "2026-08-16T02:30:00Z",
-      "event_date_label": "15 Aug 2026 23:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/LX129cH2/4f1ad5ef6160.jpg",
-      "page_url": "https://pitsport.live/watch/0591609b-1bfe-474c-9bb8-ea64f78a734a"
     },
     {
       "provider": "FullRaces",
