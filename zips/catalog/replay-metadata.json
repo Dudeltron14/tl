@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T13:03:32.483612Z",
+  "generated_at": "2026-08-16T14:42:13.165609Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-16T13:03:32.483612Z",
+      "checked_at": "2026-08-16T14:42:13.165609Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-16T13:03:32.483612Z",
+      "checked_at": "2026-08-16T14:42:13.165609Z",
       "records": 670
     },
     "OvertakeFans": {
-      "status": "stale",
-      "checked_at": "2026-08-16T13:03:32.483612Z",
+      "status": "ok",
+      "checked_at": "2026-08-16T14:42:13.165609Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-16T13:03:32.483612Z",
+      "checked_at": "2026-08-16T14:42:13.165609Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T13:03:32.483612Z",
+      "checked_at": "2026-08-16T14:42:13.165609Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T13:03:32.483612Z",
-      "records": 11
+      "checked_at": "2026-08-16T14:42:13.165609Z",
+      "records": 3
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T13:03:32.483612Z",
-      "records": 7
+      "checked_at": "2026-08-16T14:42:13.165609Z",
+      "records": 6
     }
   },
   "items": [
@@ -81,18 +81,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "IndyCar",
-      "title": "Indycar - Ontario - Warm-Up",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T12:30:00Z",
-      "event_date_label": "16 Aug 2026 12:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/indy/#20260816-1230-indycar-ontario-warm-up"
     },
     {
       "provider": "Aces Live",
@@ -130,7 +118,7 @@
       "event_end_time": "2026-08-16T14:55:00Z",
       "event_date_label": "16 Aug 2026 14:05 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/kgCDwPkw/2e23e8c4b5f9.jpg",
       "page_url": "https://pitsport.live/watch/4ba8f481-27f9-42c3-abb9-c15a0a46ebd0"
     },
@@ -143,32 +131,8 @@
       "event_time": "2026-08-16T14:05:00Z",
       "event_date_label": "16 Aug 2026 14:05 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/electric/#20260816-1405-formula-e-london-eprix-race-2"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Formula E",
-      "title": "Formula E - London ePrix - Qualifying 2",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T09:40:00Z",
-      "event_date_label": "16 Aug 2026 09:40 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/electric/#20260816-0940-formula-e-london-eprix-qualifying-2"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Formula E",
-      "title": "Formula E - London ePrix - Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T07:30:00Z",
-      "event_date_label": "16 Aug 2026 07:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/electric/#20260816-0730-formula-e-london-eprix-practice-3"
     },
     {
       "provider": "NontonX Live",
@@ -205,7 +169,7 @@
       "event_end_time": "2026-08-16T14:45:00Z",
       "event_date_label": "16 Aug 2026 14:10 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/TBqngKd5/795a5566dc67.jpg",
       "page_url": "https://pitsport.live/watch/fd8ea7d3-cc38-4313-aaad-36127dae8e7c"
     },
@@ -219,47 +183,9 @@
       "event_end_time": "2026-08-16T14:55:00Z",
       "event_date_label": "16 Aug 2026 14:05 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
       "page_url": "https://pitsport.live/watch/f409bc05-ca8e-445a-9e98-732738befe8c"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS12 - Semet\u00edn 2",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T12:32:00Z",
-      "event_end_time": "2026-08-16T13:22:00Z",
-      "event_date_label": "16 Aug 2026 12:32 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/0d872e56-a149-4f98-992e-c9cc4ed2d8ce"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 9",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T07:06:00Z",
-      "event_date_label": "16 Aug 2026 07:06 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-0706-european-rally-barum-czech-rally-zl-n-stage-9"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 8",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T05:58:00Z",
-      "event_date_label": "16 Aug 2026 05:58 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-0558-european-rally-barum-czech-rally-zl-n-stage-8"
     },
     {
       "provider": "Aces Live",
@@ -270,44 +196,8 @@
       "event_time": "2026-08-16T14:05:00Z",
       "event_date_label": "16 Aug 2026 14:05 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-1405-european-rally-barum-czech-rally-zl-n-stage-13"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 12",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T12:32:00Z",
-      "event_date_label": "16 Aug 2026 12:32 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-1232-european-rally-barum-czech-rally-zl-n-stage-12"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 11",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T11:24:00Z",
-      "event_date_label": "16 Aug 2026 11:24 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-1124-european-rally-barum-czech-rally-zl-n-stage-11"
-    },
-    {
-      "provider": "Aces Live",
-      "series": "Rally",
-      "title": "European Rally - Barum Czech Rally Zl\u00edn - Stage 10",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T08:05:00Z",
-      "event_date_label": "16 Aug 2026 08:05 UTC",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-0805-european-rally-barum-czech-rally-zl-n-stage-10"
     },
     {
       "provider": "PitSport Live",
