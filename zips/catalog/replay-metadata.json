@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T04:51:56.118345Z",
+  "generated_at": "2026-08-16T07:01:28.841591Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-16T04:51:56.118345Z",
+      "checked_at": "2026-08-16T07:01:28.841591Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-16T04:51:56.118345Z",
+      "checked_at": "2026-08-16T07:01:28.841591Z",
       "records": 670
     },
     "OvertakeFans": {
-      "status": "ok",
-      "checked_at": "2026-08-16T04:51:56.118345Z",
+      "status": "stale",
+      "checked_at": "2026-08-16T07:01:28.841591Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-16T04:51:56.118345Z",
+      "checked_at": "2026-08-16T07:01:28.841591Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T04:51:56.118345Z",
+      "checked_at": "2026-08-16T07:01:28.841591Z",
       "records": 3
     },
     "Aces Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T04:51:56.118345Z",
+      "checked_at": "2026-08-16T07:01:28.841591Z",
       "records": 11
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-16T04:51:56.118345Z",
-      "records": 17
+      "checked_at": "2026-08-16T07:01:28.841591Z",
+      "records": 16
     }
   },
   "items": [
@@ -296,20 +296,6 @@
     {
       "provider": "PitSport Live",
       "series": "Rally",
-      "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS8 - Pindula 1",
-      "event_year": 2026,
-      "event_date": "2026-08-16",
-      "event_time": "2026-08-16T05:58:00Z",
-      "event_end_time": "2026-08-16T06:48:00Z",
-      "event_date_label": "16 Aug 2026 05:58 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://www.millemotorsport.se/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-12-at-21.30.54.jpeg",
-      "page_url": "https://pitsport.live/watch/c539e92e-06dc-4913-b2b9-6acedca266e3"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
       "title": "European Rally Championship - Barum Czech Rally Zl\u00edn \u2014 SS13 - Kate\u0159inice 2",
       "event_year": 2026,
       "event_date": "2026-08-16",
@@ -384,7 +370,7 @@
       "event_time": "2026-08-16T05:58:00Z",
       "event_date_label": "16 Aug 2026 05:58 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "page_url": "https://acestrlms.pages.dev/r4lly/#20260816-0558-european-rally-barum-czech-rally-zl-n-stage-8"
     },
     {
