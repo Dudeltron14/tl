@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T14:55:05.199546Z",
+  "generated_at": "2026-08-19T16:49:18.895829Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-19T14:55:05.199546Z",
+      "checked_at": "2026-08-19T16:49:18.895829Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-19T14:55:05.199546Z",
+      "checked_at": "2026-08-19T16:49:18.895829Z",
       "records": 672
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-19T14:55:05.199546Z",
+      "checked_at": "2026-08-19T16:49:18.895829Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-19T14:55:05.199546Z",
+      "checked_at": "2026-08-19T16:49:18.895829Z",
       "records": 60
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-19T14:55:05.199546Z",
+      "checked_at": "2026-08-19T16:49:18.895829Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-19T14:55:05.199546Z",
+      "checked_at": "2026-08-19T16:49:18.895829Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-19T14:55:05.199546Z",
+      "checked_at": "2026-08-19T16:49:18.895829Z",
       "records": 26
     }
   },
@@ -71,7 +71,7 @@
       "event_date_label": "23 Aug 2026 09:55 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/chnRrY74/92aaa5004df6.jpg",
       "page_url": "https://pitsport.live/watch/a1f000ca-9250-45f7-965b-37548ee2bdde"
     },
     {
@@ -85,7 +85,7 @@
       "event_date_label": "23 Aug 2026 19:00 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/ksWfndD7/4515f12d8f01.jpg",
       "page_url": "https://pitsport.live/watch/8abd6968-37aa-4cf8-b918-d87bc6d424c6"
     },
     {
@@ -99,7 +99,7 @@
       "event_date_label": "23 Aug 2026 13:15 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/Y4FxLCN0/3d91fd4d54ec.jpg",
       "page_url": "https://pitsport.live/watch/8e4074e2-c30a-4c62-ab33-56d908dd010b"
     },
     {
@@ -113,7 +113,7 @@
       "event_date_label": "23 Aug 2026 17:13 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/3Lpwngs/dd5b4930428b.jpg",
       "page_url": "https://pitsport.live/watch/a4483a90-41a5-4b10-a802-d020a164e04b"
     },
     {
@@ -127,7 +127,7 @@
       "event_date_label": "23 Aug 2026 16:10 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/qY4gGFRc/a02b21864c67.jpg",
       "page_url": "https://pitsport.live/watch/9a18abe5-3486-4089-80ef-624766efb474"
     },
     {
@@ -141,7 +141,7 @@
       "event_date_label": "23 Aug 2026 15:10 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/7xHss0pv/d7f964b570a1.jpg",
       "page_url": "https://pitsport.live/watch/673f9945-8d57-4c0b-8496-f2b0a56e49cb"
     },
     {
@@ -155,7 +155,7 @@
       "event_date_label": "23 Aug 2026 12:15 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/4RsxWcpS/e8b7702966f4.jpg",
       "page_url": "https://pitsport.live/watch/0c07397f-09bc-4a8d-bab1-4e6df08dad4e"
     },
     {
@@ -169,7 +169,7 @@
       "event_date_label": "23 Aug 2026 14:10 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/rGR1xt6j/8647a1fc4df4.jpg",
       "page_url": "https://pitsport.live/watch/4cea5a80-d21f-473f-9b2f-60ab7e4c836d"
     },
     {
@@ -183,7 +183,7 @@
       "event_date_label": "23 Aug 2026 11:15 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/GQw9b3Ft/53bfbdcf4f79.jpg",
       "page_url": "https://pitsport.live/watch/e5a5d7e1-d9cc-4a8c-a56c-0123919ae7a0"
     },
     {
@@ -197,7 +197,7 @@
       "event_date_label": "23 Aug 2026 08:40 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/0VQkFzdL/812e650e04ea.jpg",
       "page_url": "https://pitsport.live/watch/e684c44b-e7e2-461c-8bc3-834cbd653d90"
     },
     {
@@ -211,7 +211,7 @@
       "event_date_label": "23 Aug 2026 18:00 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/cSSJYB1m/a277586684da.jpg",
       "page_url": "https://pitsport.live/watch/27442de9-a0ec-4784-9e68-0f9e43d033be"
     },
     {
@@ -225,7 +225,7 @@
       "event_date_label": "22 Aug 2026 16:00 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/GhzCKnV/0fcc2e617f61.jpg",
       "page_url": "https://pitsport.live/watch/af4c1e02-0d1f-461f-952e-f445a3b12d11"
     },
     {
@@ -239,7 +239,7 @@
       "event_date_label": "22 Aug 2026 08:15 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/zV1nNbyh/3aee1c3f3b53.jpg",
       "page_url": "https://pitsport.live/watch/32ae814b-e851-4aa5-9da3-be5b449323af"
     },
     {
@@ -253,7 +253,7 @@
       "event_date_label": "22 Aug 2026 17:30 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/0ysvqYZd/93135998e2b9.jpg",
       "page_url": "https://pitsport.live/watch/dbc27c98-6030-45b8-acb1-8b69d162cac9"
     },
     {
@@ -267,7 +267,7 @@
       "event_date_label": "22 Aug 2026 15:40 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/tP8ngD9V/892949b8fc59.jpg",
       "page_url": "https://pitsport.live/watch/7c03b330-e9bd-4516-949e-aad01f900fd7"
     },
     {
@@ -281,7 +281,7 @@
       "event_date_label": "22 Aug 2026 14:30 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/xKJbg01S/29a83674d37c.jpg",
       "page_url": "https://pitsport.live/watch/c33e73ae-602e-4e8f-848a-b6872fde2d05"
     },
     {
@@ -295,7 +295,7 @@
       "event_date_label": "22 Aug 2026 21:00 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/8Dvq7NdM/0d2f36c5baa0.jpg",
       "page_url": "https://pitsport.live/watch/4ad5a66e-4a74-442a-b110-6b8a1e848e3e"
     },
     {
@@ -309,7 +309,7 @@
       "event_date_label": "22 Aug 2026 17:05 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/zVfFV4Dw/de87e708e9e0.jpg",
       "page_url": "https://pitsport.live/watch/fb5b5741-be2f-4c6e-97e7-30200d50e21f"
     },
     {
@@ -323,7 +323,7 @@
       "event_date_label": "22 Aug 2026 13:05 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/67d97xdt/5d5b9fb14821.jpg",
       "page_url": "https://pitsport.live/watch/ebe8d68a-1523-4a18-9882-98ecde40cf5e"
     },
     {
@@ -337,7 +337,7 @@
       "event_date_label": "22 Aug 2026 20:50 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/qMydc5CB/c02bfad26b6e.jpg",
       "page_url": "https://pitsport.live/watch/0011e6d1-89da-46bf-8696-2fdf97490745"
     },
     {
@@ -351,7 +351,7 @@
       "event_date_label": "22 Aug 2026 12:35 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/C5ppkYkd/0655b46407a1.jpg",
       "page_url": "https://pitsport.live/watch/79bb0e4b-3fda-42ba-944c-562e84312b88"
     },
     {
@@ -365,7 +365,7 @@
       "event_date_label": "22 Aug 2026 07:20 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/qM4V6Bq9/7d8e75ad7c9d.jpg",
       "page_url": "https://pitsport.live/watch/88209f38-b655-48a3-8992-567e72ae9ac3"
     },
     {
@@ -379,7 +379,7 @@
       "event_date_label": "21 Aug 2026 16:00 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/HLpK9t2S/db26256c7592.jpg",
       "page_url": "https://pitsport.live/watch/907d7155-122e-4a0b-9957-d1897eb9d1d2"
     },
     {
@@ -393,7 +393,7 @@
       "event_date_label": "21 Aug 2026 21:05 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/LDZWrq0N/7150feeb87ae.jpg",
       "page_url": "https://pitsport.live/watch/edf49f41-10f9-4a80-801a-56d93e21b984"
     },
     {
@@ -407,7 +407,7 @@
       "event_date_label": "21 Aug 2026 20:00 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/bM3jVBV0/bcf7a69c0542.jpg",
       "page_url": "https://pitsport.live/watch/656fc861-040e-41f1-bf21-8ed34b6c7818"
     },
     {
@@ -421,7 +421,7 @@
       "event_date_label": "21 Aug 2026 12:00 UTC",
       "last_modified": "",
       "state": "scheduled",
-      "thumbnail": "",
+      "thumbnail": "https://i.ibb.co/ks8Bb3sp/eabf685008d8.jpg",
       "page_url": "https://pitsport.live/watch/a1df9904-d435-4eac-a1e0-e0bca2472b6d"
     },
     {
