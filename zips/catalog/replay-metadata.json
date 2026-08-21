@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T10:50:38.137300Z",
+  "generated_at": "2026-08-21T13:13:31.467495Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-21T10:50:38.137300Z",
+      "checked_at": "2026-08-21T13:13:31.467495Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-21T10:50:38.137300Z",
+      "checked_at": "2026-08-21T13:13:31.467495Z",
       "records": 672
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-21T10:50:38.137300Z",
+      "checked_at": "2026-08-21T13:13:31.467495Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-21T10:50:38.137300Z",
+      "checked_at": "2026-08-21T13:13:31.467495Z",
       "records": 59
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-21T10:50:38.137300Z",
+      "checked_at": "2026-08-21T13:13:31.467495Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-21T10:50:38.137300Z",
+      "checked_at": "2026-08-21T13:13:31.467495Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-21T10:50:38.137300Z",
-      "records": 26
+      "checked_at": "2026-08-21T13:13:31.467495Z",
+      "records": 25
     }
   },
   "items": [
@@ -199,6 +199,20 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/0VQkFzdL/812e650e04ea.jpg",
       "page_url": "https://pitsport.live/watch/e684c44b-e7e2-461c-8bc3-834cbd653d90"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "PitSport Live",
@@ -442,20 +456,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Formula 1",
-      "title": "F1 Academy - Zandvoort \u2014 Free Practice",
-      "event_year": 2026,
-      "event_date": "2026-08-21",
-      "event_time": "2026-08-21T12:00:00Z",
-      "event_end_time": "2026-08-21T12:40:00Z",
-      "event_date_label": "21 Aug 2026 12:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/ks8Bb3sp/eabf685008d8.jpg",
-      "page_url": "https://pitsport.live/watch/a1df9904-d435-4eac-a1e0-e0bca2472b6d"
     },
     {
       "provider": "FullRaces",
@@ -5815,20 +5815,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-practice-1",
       "state": "scheduled",
       "health": "indexed"
     },
