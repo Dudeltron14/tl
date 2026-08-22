@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T16:43:23.508653Z",
+  "generated_at": "2026-08-22T18:51:08.764062Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-22T16:43:23.508653Z",
+      "checked_at": "2026-08-22T18:51:08.764062Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-22T16:43:23.508653Z",
+      "checked_at": "2026-08-22T18:51:08.764062Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-22T16:43:23.508653Z",
+      "checked_at": "2026-08-22T18:51:08.764062Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-22T16:43:23.508653Z",
+      "checked_at": "2026-08-22T18:51:08.764062Z",
       "records": 56
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T16:43:23.508653Z",
+      "checked_at": "2026-08-22T18:51:08.764062Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-22T16:43:23.508653Z",
+      "checked_at": "2026-08-22T18:51:08.764062Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T16:43:23.508653Z",
-      "records": 15
+      "checked_at": "2026-08-22T18:51:08.764062Z",
+      "records": 14
     }
   },
   "items": [
@@ -330,7 +330,7 @@
       "event_end_time": "2026-08-22T20:05:00Z",
       "event_date_label": "22 Aug 2026 17:30 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/0ysvqYZd/93135998e2b9.jpg",
       "page_url": "https://pitsport.live/watch/dbc27c98-6030-45b8-acb1-8b69d162cac9"
     },
@@ -358,20 +358,6 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/8Dvq7NdM/0d2f36c5baa0.jpg",
       "page_url": "https://pitsport.live/watch/4ad5a66e-4a74-442a-b110-6b8a1e848e3e"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Streets of Washington D.C. \u2014 Free Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "event_time": "2026-08-22T17:05:00Z",
-      "event_end_time": "2026-08-22T18:25:00Z",
-      "event_date_label": "22 Aug 2026 17:05 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/zVfFV4Dw/de87e708e9e0.jpg",
-      "page_url": "https://pitsport.live/watch/fb5b5741-be2f-4c6e-97e7-30200d50e21f"
     },
     {
       "provider": "PitSport Live",
