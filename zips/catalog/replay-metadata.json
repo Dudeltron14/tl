@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T07:02:02.957962Z",
+  "generated_at": "2026-08-22T08:50:25.549649Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-22T07:02:02.957962Z",
+      "checked_at": "2026-08-22T08:50:25.549649Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-22T07:02:02.957962Z",
+      "checked_at": "2026-08-22T08:50:25.549649Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-22T07:02:02.957962Z",
+      "checked_at": "2026-08-22T08:50:25.549649Z",
       "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-22T07:02:02.957962Z",
+      "checked_at": "2026-08-22T08:50:25.549649Z",
       "records": 58
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T07:02:02.957962Z",
+      "checked_at": "2026-08-22T08:50:25.549649Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-22T07:02:02.957962Z",
+      "checked_at": "2026-08-22T08:50:25.549649Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T07:02:02.957962Z",
-      "records": 22
+      "checked_at": "2026-08-22T08:50:25.549649Z",
+      "records": 20
     }
   },
   "items": [
@@ -280,20 +280,6 @@
     },
     {
       "provider": "PitSport Live",
-      "series": "Sports Cars",
-      "title": "Porsche Supercup - Zandvoort \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "event_time": "2026-08-22T08:15:00Z",
-      "event_end_time": "2026-08-22T08:45:00Z",
-      "event_date_label": "22 Aug 2026 08:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/zV1nNbyh/3aee1c3f3b53.jpg",
-      "page_url": "https://pitsport.live/watch/32ae814b-e851-4aa5-9da3-be5b449323af"
-    },
-    {
-      "provider": "PitSport Live",
       "series": "NASCAR",
       "title": "NASCAR Truck Series - New Hampshire Motor Speedway \u2014 Race: Team EJP 175",
       "event_year": 2026,
@@ -425,20 +411,6 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/C5ppkYkd/0655b46407a1.jpg",
       "page_url": "https://pitsport.live/watch/79bb0e4b-3fda-42ba-944c-562e84312b88"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Formula 1",
-      "title": "F1 Academy - Zandvoort \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "event_time": "2026-08-22T07:20:00Z",
-      "event_end_time": "2026-08-22T07:50:00Z",
-      "event_date_label": "22 Aug 2026 07:20 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/qM4V6Bq9/7d8e75ad7c9d.jpg",
-      "page_url": "https://pitsport.live/watch/88209f38-b655-48a3-8992-567e72ae9ac3"
     },
     {
       "provider": "FullRaces",
