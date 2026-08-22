@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T20:42:26.762182Z",
+  "generated_at": "2026-08-22T22:41:17.620901Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-22T20:42:26.762182Z",
+      "checked_at": "2026-08-22T22:41:17.620901Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-22T20:42:26.762182Z",
+      "checked_at": "2026-08-22T22:41:17.620901Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-22T20:42:26.762182Z",
+      "checked_at": "2026-08-22T22:41:17.620901Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-22T20:42:26.762182Z",
+      "checked_at": "2026-08-22T22:41:17.620901Z",
       "records": 56
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T20:42:26.762182Z",
+      "checked_at": "2026-08-22T22:41:17.620901Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-22T20:42:26.762182Z",
+      "checked_at": "2026-08-22T22:41:17.620901Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T20:42:26.762182Z",
-      "records": 13
+      "checked_at": "2026-08-22T22:41:17.620901Z",
+      "records": 11
     }
   },
   "items": [
@@ -330,34 +330,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Streets of Washington D.C. \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "event_time": "2026-08-22T21:00:00Z",
-      "event_end_time": "2026-08-22T22:25:00Z",
-      "event_date_label": "22 Aug 2026 21:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/8Dvq7NdM/0d2f36c5baa0.jpg",
-      "page_url": "https://pitsport.live/watch/4ad5a66e-4a74-442a-b110-6b8a1e848e3e"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Sports Cars",
-      "title": "IMSA - Virginia Int. Raceway \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "event_time": "2026-08-22T20:50:00Z",
-      "event_end_time": "2026-08-22T21:25:00Z",
-      "event_date_label": "22 Aug 2026 20:50 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/qMydc5CB/c02bfad26b6e.jpg",
-      "page_url": "https://pitsport.live/watch/0011e6d1-89da-46bf-8696-2fdf97490745"
     },
     {
       "provider": "NontonX Live",
