@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T18:51:08.764062Z",
+  "generated_at": "2026-08-22T20:42:26.762182Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-22T18:51:08.764062Z",
+      "checked_at": "2026-08-22T20:42:26.762182Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-22T18:51:08.764062Z",
+      "checked_at": "2026-08-22T20:42:26.762182Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-22T18:51:08.764062Z",
+      "checked_at": "2026-08-22T20:42:26.762182Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-22T18:51:08.764062Z",
+      "checked_at": "2026-08-22T20:42:26.762182Z",
       "records": 56
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T18:51:08.764062Z",
+      "checked_at": "2026-08-22T20:42:26.762182Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-22T18:51:08.764062Z",
+      "checked_at": "2026-08-22T20:42:26.762182Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-22T18:51:08.764062Z",
-      "records": 14
+      "checked_at": "2026-08-22T20:42:26.762182Z",
+      "records": 13
     }
   },
   "items": [
@@ -319,20 +319,6 @@
       "page_url": "https://fullraces.com/sprint-qualifying-f1-2026-dutch-grand-prix-full-race-replay-august-21-2026-formula-1",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "NASCAR Truck Series - New Hampshire Motor Speedway \u2014 Race: Team EJP 175",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "event_time": "2026-08-22T17:30:00Z",
-      "event_end_time": "2026-08-22T20:05:00Z",
-      "event_date_label": "22 Aug 2026 17:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/0ysvqYZd/93135998e2b9.jpg",
-      "page_url": "https://pitsport.live/watch/dbc27c98-6030-45b8-acb1-8b69d162cac9"
     },
     {
       "provider": "NontonX Live",
