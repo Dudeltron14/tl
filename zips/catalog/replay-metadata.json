@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T20:42:01.493240Z",
+  "generated_at": "2026-08-23T22:40:57.650407Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-23T20:42:01.493240Z",
+      "checked_at": "2026-08-23T22:40:57.650407Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-23T20:42:01.493240Z",
+      "checked_at": "2026-08-23T22:40:57.650407Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-23T20:42:01.493240Z",
+      "checked_at": "2026-08-23T22:40:57.650407Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-23T20:42:01.493240Z",
+      "checked_at": "2026-08-23T22:40:57.650407Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T20:42:01.493240Z",
+      "checked_at": "2026-08-23T22:40:57.650407Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-23T20:42:01.493240Z",
+      "checked_at": "2026-08-23T22:40:57.650407Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T20:42:01.493240Z",
-      "records": 51
+      "checked_at": "2026-08-23T22:40:57.650407Z",
+      "records": 50
     }
   },
   "items": [
@@ -770,20 +770,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/wsbkplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "NASCAR Cup Series - New Hampshire Motor Speedway \u2014 Race: Dollar Tree 301",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_time": "2026-08-23T19:00:00Z",
-      "event_end_time": "2026-08-23T22:30:00Z",
-      "event_date_label": "23 Aug 2026 19:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/ksWfndD7/4515f12d8f01.jpg",
-      "page_url": "https://pitsport.live/watch/8abd6968-37aa-4cf8-b918-d87bc6d424c6"
     },
     {
       "provider": "NontonX Live",
