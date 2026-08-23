@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T10:43:49.052947Z",
+  "generated_at": "2026-08-23T13:04:24.466863Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-23T10:43:49.052947Z",
+      "checked_at": "2026-08-23T13:04:24.466863Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-23T10:43:49.052947Z",
+      "checked_at": "2026-08-23T13:04:24.466863Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-23T10:43:49.052947Z",
+      "checked_at": "2026-08-23T13:04:24.466863Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-23T10:43:49.052947Z",
-      "records": 56
+      "checked_at": "2026-08-23T13:04:24.466863Z",
+      "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T10:43:49.052947Z",
+      "checked_at": "2026-08-23T13:04:24.466863Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-23T10:43:49.052947Z",
+      "checked_at": "2026-08-23T13:04:24.466863Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T10:43:49.052947Z",
-      "records": 9
+      "checked_at": "2026-08-23T13:04:24.466863Z",
+      "records": 7
     }
   },
   "items": [
@@ -166,20 +166,6 @@
     {
       "provider": "PitSport Live",
       "series": "Motocross",
-      "title": "FIM Motocross World Championship - Arnhem \u2014 MXGP - Race 1",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_time": "2026-08-23T12:15:00Z",
-      "event_end_time": "2026-08-23T12:50:00Z",
-      "event_date_label": "23 Aug 2026 12:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/4RsxWcpS/e8b7702966f4.jpg",
-      "page_url": "https://pitsport.live/watch/0c07397f-09bc-4a8d-bab1-4e6df08dad4e"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Motocross",
       "title": "FIM Motocross World Championship - Arnhem \u2014 MX2 - Race 2",
       "event_year": 2026,
       "event_date": "2026-08-23",
@@ -190,20 +176,6 @@
       "state": "scheduled",
       "thumbnail": "https://i.ibb.co/rGR1xt6j/8647a1fc4df4.jpg",
       "page_url": "https://pitsport.live/watch/4cea5a80-d21f-473f-9b2f-60ab7e4c836d"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Motocross",
-      "title": "FIM Motocross World Championship - Arnhem \u2014 MX2 - Race 1",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_time": "2026-08-23T11:15:00Z",
-      "event_end_time": "2026-08-23T11:50:00Z",
-      "event_date_label": "23 Aug 2026 11:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "https://i.ibb.co/GQw9b3Ft/53bfbdcf4f79.jpg",
-      "page_url": "https://pitsport.live/watch/e5a5d7e1-d9cc-4a8c-a56c-0123919ae7a0"
     },
     {
       "provider": "OvertakeFans",
@@ -5663,20 +5635,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-post-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix - Race",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_time": "2026-08-23T13:00:00Z",
-      "event_date_label": "23 Aug 2026 13:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/12/#race",
       "state": "scheduled",
       "health": "indexed"
     },
