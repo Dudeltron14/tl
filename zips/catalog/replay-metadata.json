@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T18:50:52.969900Z",
+  "generated_at": "2026-08-23T20:42:01.493240Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-23T18:50:52.969900Z",
+      "checked_at": "2026-08-23T20:42:01.493240Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-23T18:50:52.969900Z",
+      "checked_at": "2026-08-23T20:42:01.493240Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-23T18:50:52.969900Z",
+      "checked_at": "2026-08-23T20:42:01.493240Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-23T18:50:52.969900Z",
+      "checked_at": "2026-08-23T20:42:01.493240Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T18:50:52.969900Z",
+      "checked_at": "2026-08-23T20:42:01.493240Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-23T18:50:52.969900Z",
+      "checked_at": "2026-08-23T20:42:01.493240Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T18:50:52.969900Z",
-      "records": 54
+      "checked_at": "2026-08-23T20:42:01.493240Z",
+      "records": 51
     }
   },
   "items": [
@@ -781,7 +781,7 @@
       "event_end_time": "2026-08-23T22:30:00Z",
       "event_date_label": "23 Aug 2026 19:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/ksWfndD7/4515f12d8f01.jpg",
       "page_url": "https://pitsport.live/watch/8abd6968-37aa-4cf8-b918-d87bc6d424c6"
     },
@@ -795,34 +795,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Streets of Washington D.C. \u2014 Race: Freedom 250 Grand Prix",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_time": "2026-08-23T17:13:00Z",
-      "event_end_time": "2026-08-23T19:48:00Z",
-      "event_date_label": "23 Aug 2026 17:13 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/3Lpwngs/dd5b4930428b.jpg",
-      "page_url": "https://pitsport.live/watch/a4483a90-41a5-4b10-a802-d020a164e04b"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Sports Cars",
-      "title": "IMSA - Virginia Int. Raceway \u2014 Race: Michelin GT Challenge",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_time": "2026-08-23T16:10:00Z",
-      "event_end_time": "2026-08-23T18:52:00Z",
-      "event_date_label": "23 Aug 2026 16:10 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/qY4gGFRc/a02b21864c67.jpg",
-      "page_url": "https://pitsport.live/watch/9a18abe5-3486-4089-80ef-624766efb474"
     },
     {
       "provider": "NontonX Live",
@@ -932,20 +904,6 @@
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-2026-post-sprint-qualifying-analysis",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "ARCA Menards Series - Springfield Mile \u2014 Race: Calypso 100",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_time": "2026-08-23T18:00:00Z",
-      "event_end_time": "2026-08-23T20:00:00Z",
-      "event_date_label": "23 Aug 2026 18:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "https://i.ibb.co/cSSJYB1m/a277586684da.jpg",
-      "page_url": "https://pitsport.live/watch/27442de9-a0ec-4784-9e68-0f9e43d033be"
     },
     {
       "provider": "FullRaces",
