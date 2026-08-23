@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T16:45:31.884723Z",
+  "generated_at": "2026-08-23T18:50:52.969900Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-23T16:45:31.884723Z",
+      "checked_at": "2026-08-23T18:50:52.969900Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-23T16:45:31.884723Z",
+      "checked_at": "2026-08-23T18:50:52.969900Z",
       "records": 676
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-23T16:45:31.884723Z",
+      "checked_at": "2026-08-23T18:50:52.969900Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-23T16:45:31.884723Z",
+      "checked_at": "2026-08-23T18:50:52.969900Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T16:45:31.884723Z",
+      "checked_at": "2026-08-23T18:50:52.969900Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-23T16:45:31.884723Z",
+      "checked_at": "2026-08-23T18:50:52.969900Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-23T16:45:31.884723Z",
+      "checked_at": "2026-08-23T18:50:52.969900Z",
       "records": 54
     }
   },
@@ -806,7 +806,7 @@
       "event_end_time": "2026-08-23T19:48:00Z",
       "event_date_label": "23 Aug 2026 17:13 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/3Lpwngs/dd5b4930428b.jpg",
       "page_url": "https://pitsport.live/watch/a4483a90-41a5-4b10-a802-d020a164e04b"
     },
@@ -860,6 +860,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-sprint",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Race",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-race",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -929,7 +943,7 @@
       "event_end_time": "2026-08-23T20:00:00Z",
       "event_date_label": "23 Aug 2026 18:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "https://i.ibb.co/cSSJYB1m/a277586684da.jpg",
       "page_url": "https://pitsport.live/watch/27442de9-a0ec-4784-9e68-0f9e43d033be"
     },
@@ -6223,20 +6237,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/13/#practice-1",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Race",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-race",
       "state": "scheduled",
       "health": "indexed"
     },
