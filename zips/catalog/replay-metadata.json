@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T01:54:43.674148Z",
+  "generated_at": "2026-08-25T03:14:34.399041Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-25T01:54:43.674148Z",
+      "checked_at": "2026-08-25T03:14:34.399041Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-25T01:54:43.674148Z",
+      "checked_at": "2026-08-25T03:14:34.399041Z",
       "records": 679
     },
     "OvertakeFans": {
-      "status": "ok",
-      "checked_at": "2026-08-25T01:54:43.674148Z",
-      "records": 862
+      "status": "stale",
+      "checked_at": "2026-08-25T03:14:34.399041Z",
+      "records": 863
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-25T01:54:43.674148Z",
+      "checked_at": "2026-08-25T03:14:34.399041Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-25T01:54:43.674148Z",
+      "checked_at": "2026-08-25T03:14:34.399041Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-25T01:54:43.674148Z",
+      "checked_at": "2026-08-25T03:14:34.399041Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-25T01:54:43.674148Z",
+      "checked_at": "2026-08-25T03:14:34.399041Z",
       "records": 50
     }
   },
@@ -801,104 +801,6 @@
       "event_date": "2026-08-23",
       "last_modified": "2026-08-23T22:24:12+03:00",
       "page_url": "https://fullraces.com/race-f1-2026-dutch-grand-prix-full-race-replay-august-23-2026-formula-1",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Sprint Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-sprint-qualifying",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Sprint",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-sprint",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Race",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-race",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-qualifying",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Pre-Sprint Qualifying Buildup",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-2026-pre-sprint-qualifying-buildup",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-practice-1",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Post-Sprint Qualifying Analysis",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-2026-post-sprint-qualifying-analysis",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -6220,6 +6122,90 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Weekend Warm-Up",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-weekend-warm-up",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Sprint Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-sprint-qualifying",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Sprint",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-sprint",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Race",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-race",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-qualifying",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Pre-Sprint Show",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-pre-sprint-show",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Dutch Grand Prix 2026 - Pre-Race Show",
       "event_year": 2026,
       "event_date": "2026-08-23",
@@ -6228,7 +6214,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-pre-race-show",
-      "state": "unavailable",
+      "state": "scheduled",
       "health": "indexed"
     },
     {
@@ -6242,7 +6228,35 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-pre-qualifying-show",
-      "state": "unavailable",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-practice-1",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Dutch Grand Prix 2026 - Post-Sprint Show",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "event_date_label": "21 AUG - 23 AUG 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-post-sprint-show",
+      "state": "scheduled",
       "health": "indexed"
     },
     {
@@ -6256,7 +6270,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-post-race-show",
-      "state": "unavailable",
+      "state": "scheduled",
       "health": "indexed"
     },
     {
@@ -6270,7 +6284,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-post-qualifying-show",
-      "state": "unavailable",
+      "state": "scheduled",
       "health": "indexed"
     },
     {
