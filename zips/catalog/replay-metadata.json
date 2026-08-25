@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T22:46:52.138535Z",
+  "generated_at": "2026-08-25T01:54:43.674148Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-24T22:46:52.138535Z",
+      "checked_at": "2026-08-25T01:54:43.674148Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-24T22:46:52.138535Z",
+      "checked_at": "2026-08-25T01:54:43.674148Z",
       "records": 679
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-24T22:46:52.138535Z",
+      "checked_at": "2026-08-25T01:54:43.674148Z",
       "records": 862
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-24T22:46:52.138535Z",
+      "checked_at": "2026-08-25T01:54:43.674148Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-24T22:46:52.138535Z",
+      "checked_at": "2026-08-25T01:54:43.674148Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-24T22:46:52.138535Z",
+      "checked_at": "2026-08-25T01:54:43.674148Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-24T22:46:52.138535Z",
+      "checked_at": "2026-08-25T01:54:43.674148Z",
       "records": 50
     }
   },
@@ -765,7 +765,7 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-08-24",
+      "event_date": "2026-08-25",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -776,7 +776,7 @@
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-08-24",
+      "event_date": "2026-08-25",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -787,7 +787,7 @@
       "series": "Formula 1",
       "title": "Formula 1 Live",
       "event_year": 2026,
-      "event_date": "2026-08-24",
+      "event_date": "2026-08-25",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
