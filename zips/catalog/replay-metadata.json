@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T22:47:51.132184Z",
+  "generated_at": "2026-08-26T02:00:45.325710Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-25T22:47:51.132184Z",
+      "checked_at": "2026-08-26T02:00:45.325710Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-25T22:47:51.132184Z",
-      "records": 679
+      "checked_at": "2026-08-26T02:00:45.325710Z",
+      "records": 682
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-25T22:47:51.132184Z",
+      "checked_at": "2026-08-26T02:00:45.325710Z",
       "records": 869
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-25T22:47:51.132184Z",
+      "checked_at": "2026-08-26T02:00:45.325710Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-25T22:47:51.132184Z",
+      "checked_at": "2026-08-26T02:00:45.325710Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-25T22:47:51.132184Z",
+      "checked_at": "2026-08-26T02:00:45.325710Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-25T22:47:51.132184Z",
+      "checked_at": "2026-08-26T02:00:45.325710Z",
       "records": 50
     }
   },
@@ -765,7 +765,7 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-08-25",
+      "event_date": "2026-08-26",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -776,7 +776,7 @@
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-08-25",
+      "event_date": "2026-08-26",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -787,7 +787,7 @@
       "series": "Formula 1",
       "title": "Formula 1 Live",
       "event_year": 2026,
-      "event_date": "2026-08-25",
+      "event_date": "2026-08-26",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -801,6 +801,39 @@
       "event_date": "2026-08-23",
       "last_modified": "2026-08-23T22:24:12+03:00",
       "page_url": "https://fullraces.com/race-f1-2026-dutch-grand-prix-full-race-replay-august-23-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "NASCAR",
+      "title": "NASCAR Dollar Tree 301 Full Race Replay August 23 2026",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "last_modified": "2026-08-23T13:08:33+03:00",
+      "page_url": "https://fullraces.com/nascar-dollar-tree-301-full-race-replay-august-23-2026",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "IndyCar",
+      "title": "Indycar Freedom 250 Grand Prix Of Washington Full Race Replay August 23 2026",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "last_modified": "2026-08-23T17:30:27+03:00",
+      "page_url": "https://fullraces.com/indycar-freedom-250-grand-prix-of-washington-full-race-replay-august-23-2026",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "F1 Academy",
+      "title": "F1 Academy Dutch Grand Prix Full Race Replay 2026 Formula 4",
+      "event_year": 2026,
+      "event_date": "2026-08-23",
+      "last_modified": "2026-08-23T11:05:04+03:00",
+      "page_url": "https://fullraces.com/f1-academy-dutch-grand-prix-full-race-replay-2026-formula-4",
       "state": "replay_available",
       "health": "indexed"
     },
