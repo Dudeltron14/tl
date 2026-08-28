@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T06:09:44.540081Z",
+  "generated_at": "2026-08-28T18:46:50.355423Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-28T06:09:44.540081Z",
+      "checked_at": "2026-08-28T18:46:50.355423Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-28T06:09:44.540081Z",
+      "checked_at": "2026-08-28T18:46:50.355423Z",
       "records": 682
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-28T06:09:44.540081Z",
+      "checked_at": "2026-08-28T18:46:50.355423Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-28T06:09:44.540081Z",
+      "checked_at": "2026-08-28T18:46:50.355423Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-28T06:09:44.540081Z",
+      "checked_at": "2026-08-28T18:46:50.355423Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-28T06:09:44.540081Z",
+      "checked_at": "2026-08-28T18:46:50.355423Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-28T06:09:44.540081Z",
-      "records": 48
+      "checked_at": "2026-08-28T18:46:50.355423Z",
+      "records": 37
     }
   },
   "items": [
@@ -508,20 +508,6 @@
     {
       "provider": "PitSport Live",
       "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SSS4 - Aut\u00f3dromo Alfredo Scheid 1",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T14:50:00Z",
-      "event_end_time": "2026-08-28T15:40:00Z",
-      "event_date_label": "28 Aug 2026 14:50 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/d5e2a1a5-c8ca-4bc7-a761-a852a76bad6d"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
       "title": "World Rally Championship - Rally del Paraguay \u2014 SS7 - Yerbateras 2",
       "event_year": 2026,
       "event_date": "2026-08-28",
@@ -543,65 +529,9 @@
       "event_end_time": "2026-08-28T19:02:00Z",
       "event_date_label": "28 Aug 2026 18:12 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/f889757d-bd98-47d5-be24-a56e16a04b47"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS5 - Cambyreta 2",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T17:19:00Z",
-      "event_end_time": "2026-08-28T18:09:00Z",
-      "event_date_label": "28 Aug 2026 17:19 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/7b94ada3-d5a3-40f0-8533-220a042755a1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS3 - Yerbateras 1",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T13:49:00Z",
-      "event_end_time": "2026-08-28T14:39:00Z",
-      "event_date_label": "28 Aug 2026 13:49 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/0867f67a-9aea-4658-b255-9b6f3efba145"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS2 - Nueva Alborada 1",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T12:56:00Z",
-      "event_end_time": "2026-08-28T13:46:00Z",
-      "event_date_label": "28 Aug 2026 12:56 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/5c63a732-9bef-471d-9f48-db3d7ca23446"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS1 - Cambyreta 1",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T12:03:00Z",
-      "event_end_time": "2026-08-28T12:53:00Z",
-      "event_date_label": "28 Aug 2026 12:03 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/9c878498-2188-4421-a3ea-a30aec4f25b8"
     },
     {
       "provider": "PitSport Live",
@@ -638,7 +568,7 @@
       "event_year": 2026,
       "event_date": "2026-08-28",
       "event_time": "2026-08-28T21:00:00Z",
-      "event_end_time": "2026-08-28T21:50:00Z",
+      "event_end_time": "2026-08-28T22:45:00Z",
       "event_date_label": "28 Aug 2026 21:00 UTC",
       "last_modified": "",
       "state": "scheduled",
@@ -655,90 +585,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "MotoGP - MotorLand Arag\u00f3n \u2014 Free Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T13:00:00Z",
-      "event_end_time": "2026-08-28T14:00:00Z",
-      "event_date_label": "28 Aug 2026 13:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/a9634ca2-2290-43c0-b0e8-b74ff26feeb7"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "MotoGP - MotorLand Arag\u00f3n \u2014 Free Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T08:45:00Z",
-      "event_end_time": "2026-08-28T09:30:00Z",
-      "event_date_label": "28 Aug 2026 08:45 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/891050f0-233e-4ceb-bc6d-53107bffff36"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto3 - MotorLand Arag\u00f3n \u2014 Free Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T11:15:00Z",
-      "event_end_time": "2026-08-28T11:50:00Z",
-      "event_date_label": "28 Aug 2026 11:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/402cb1ff-a4b4-44a8-b32a-7b68f3b17e0c"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto3 - MotorLand Arag\u00f3n \u2014 Free Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T07:00:00Z",
-      "event_end_time": "2026-08-28T07:35:00Z",
-      "event_date_label": "28 Aug 2026 07:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/ff2ce6a5-3f99-4781-9cfe-d3e01c2f6959"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto2 - MotorLand Arag\u00f3n \u2014 Free Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T12:05:00Z",
-      "event_end_time": "2026-08-28T12:45:00Z",
-      "event_date_label": "28 Aug 2026 12:05 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/88fcbb13-6482-41ae-8916-e6782683ff69"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto2 - MotorLand Arag\u00f3n \u2014 Free Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-08-28",
-      "event_time": "2026-08-28T07:50:00Z",
-      "event_end_time": "2026-08-28T08:30:00Z",
-      "event_date_label": "28 Aug 2026 07:50 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/8ad9779e-9802-44f1-b91b-1502ad1a8b95"
     },
     {
       "provider": "PitSport Live",
