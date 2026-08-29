@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T16:45:50.612093Z",
+  "generated_at": "2026-08-29T20:58:05.066978Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-29T16:45:50.612093Z",
+      "checked_at": "2026-08-29T20:58:05.066978Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-29T16:45:50.612093Z",
+      "checked_at": "2026-08-29T20:58:05.066978Z",
       "records": 682
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-29T16:45:50.612093Z",
+      "checked_at": "2026-08-29T20:58:05.066978Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-29T16:45:50.612093Z",
+      "checked_at": "2026-08-29T20:58:05.066978Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-29T16:45:50.612093Z",
+      "checked_at": "2026-08-29T20:58:05.066978Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-29T16:45:50.612093Z",
+      "checked_at": "2026-08-29T20:58:05.066978Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-29T16:45:50.612093Z",
-      "records": 21
+      "checked_at": "2026-08-29T20:58:05.066978Z",
+      "records": 17
     }
   },
   "items": [
@@ -283,62 +283,6 @@
     },
     {
       "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS16 - Trinidad 2",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T20:02:00Z",
-      "event_end_time": "2026-08-29T20:52:00Z",
-      "event_date_label": "29 Aug 2026 20:02 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/35112d8b-e0d7-4cf3-97ab-c09e6f643311"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS15 - Hohenau 2",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T19:05:00Z",
-      "event_end_time": "2026-08-29T19:55:00Z",
-      "event_date_label": "29 Aug 2026 19:05 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/9f4b7e81-758a-4036-badf-dc156f0876e5"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS14 - Bella Vista Sur 2",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T18:09:00Z",
-      "event_end_time": "2026-08-29T18:59:00Z",
-      "event_date_label": "29 Aug 2026 18:09 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/2bb6d5f8-581a-4c19-b57c-4bc7e23aba8c"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS13 - Bella Vista 2",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T17:16:00Z",
-      "event_end_time": "2026-08-29T18:06:00Z",
-      "event_date_label": "29 Aug 2026 17:16 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/11f417a8-31af-4883-8fbc-4c7a75adf103"
-    },
-    {
-      "provider": "PitSport Live",
       "series": "NASCAR",
       "title": "NASCAR Cup Series - Daytona Int. Speedway \u2014 Race: Coke Zero Sugar 400",
       "event_year": 2026,
@@ -372,7 +316,7 @@
       "event_end_time": "2026-08-29T21:25:00Z",
       "event_date_label": "29 Aug 2026 18:50 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/a05898b4-3e21-475b-95e7-2b91719d8190"
     },
