@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T02:50:13.072221Z",
+  "generated_at": "2026-08-29T11:08:47.017780Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,69 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-29T02:50:13.072221Z",
+      "checked_at": "2026-08-29T11:08:47.017780Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-29T02:50:13.072221Z",
+      "checked_at": "2026-08-29T11:08:47.017780Z",
       "records": 682
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-29T02:50:13.072221Z",
+      "checked_at": "2026-08-29T11:08:47.017780Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-29T02:50:13.072221Z",
+      "checked_at": "2026-08-29T11:08:47.017780Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-29T02:50:13.072221Z",
+      "checked_at": "2026-08-29T11:08:47.017780Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-29T02:50:13.072221Z",
+      "checked_at": "2026-08-29T11:08:47.017780Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-29T02:50:13.072221Z",
-      "records": 30
+      "checked_at": "2026-08-29T11:08:47.017780Z",
+      "records": 29
     }
   },
   "items": [
+    {
+      "provider": "PitSport Live",
+      "series": "WorldSBK",
+      "title": "British Superbike Championship - Cadwell Park \u2014 Race 3",
+      "event_year": 2026,
+      "event_date": "2026-08-31",
+      "event_time": "2026-08-31T15:15:00Z",
+      "event_end_time": "2026-08-31T15:55:00Z",
+      "event_date_label": "31 Aug 2026 15:15 UTC",
+      "last_modified": "",
+      "state": "scheduled",
+      "thumbnail": "",
+      "page_url": "https://pitsport.live/watch/b78b04df-f3e9-4202-a68f-b240d2838df7"
+    },
+    {
+      "provider": "PitSport Live",
+      "series": "WorldSBK",
+      "title": "British Superbike Championship - Cadwell Park \u2014 Race 2",
+      "event_year": 2026,
+      "event_date": "2026-08-31",
+      "event_time": "2026-08-31T12:15:00Z",
+      "event_end_time": "2026-08-31T12:45:00Z",
+      "event_date_label": "31 Aug 2026 12:15 UTC",
+      "last_modified": "",
+      "state": "scheduled",
+      "thumbnail": "",
+      "page_url": "https://pitsport.live/watch/4f4cec8f-a19e-41da-aac5-c4bab50f3494"
+    },
     {
       "provider": "PitSport Live",
       "series": "Rally",
@@ -199,6 +227,34 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/83caf133-b954-497e-a505-ff517ce0bc27"
+    },
+    {
+      "provider": "PitSport Live",
+      "series": "WorldSBK",
+      "title": "British Superbike Championship - Cadwell Park \u2014 Race 1",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "event_time": "2026-08-30T15:15:00Z",
+      "event_end_time": "2026-08-30T15:55:00Z",
+      "event_date_label": "30 Aug 2026 15:15 UTC",
+      "last_modified": "",
+      "state": "scheduled",
+      "thumbnail": "",
+      "page_url": "https://pitsport.live/watch/517a1d61-03cd-45b1-9c0a-4340140ab497"
+    },
+    {
+      "provider": "PitSport Live",
+      "series": "WorldSBK",
+      "title": "British Superbike Championship - Cadwell Park \u2014 Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "event_time": "2026-08-30T12:15:00Z",
+      "event_end_time": "2026-08-30T12:55:00Z",
+      "event_date_label": "30 Aug 2026 12:15 UTC",
+      "last_modified": "",
+      "state": "scheduled",
+      "thumbnail": "",
+      "page_url": "https://pitsport.live/watch/df1e5564-1d97-4d0a-b890-5900ae272503"
     },
     {
       "provider": "NontonX Live",
@@ -379,34 +435,6 @@
     {
       "provider": "PitSport Live",
       "series": "MotoGP",
-      "title": "MotoGP - MotorLand Arag\u00f3n \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T08:50:00Z",
-      "event_end_time": "2026-08-29T09:30:00Z",
-      "event_date_label": "29 Aug 2026 08:50 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/f899b8d9-e022-4a5a-baf1-3af880222d7d"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "MotoGP - MotorLand Arag\u00f3n \u2014 Free Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T08:10:00Z",
-      "event_end_time": "2026-08-29T08:40:00Z",
-      "event_date_label": "29 Aug 2026 08:10 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/27aa0eea-c5f5-473f-8ae5-036230204a49"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
       "title": "Moto3 - MotorLand Arag\u00f3n \u2014 Qualifying",
       "event_year": 2026,
       "event_date": "2026-08-29",
@@ -414,23 +442,9 @@
       "event_end_time": "2026-08-29T11:25:00Z",
       "event_date_label": "29 Aug 2026 10:45 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/5c61794d-75bb-426c-b1b1-f2a8106cd568"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto3 - MotorLand Arag\u00f3n \u2014 Free Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T06:40:00Z",
-      "event_end_time": "2026-08-29T07:10:00Z",
-      "event_date_label": "29 Aug 2026 06:40 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/e00cf09a-f7d9-40a8-b3be-dbf7a3bb25a6"
     },
     {
       "provider": "PitSport Live",
@@ -445,20 +459,6 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/2e806d5d-97ce-4af6-afb1-d31acbd34083"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto2 - MotorLand Arag\u00f3n \u2014 Free Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T07:25:00Z",
-      "event_end_time": "2026-08-29T07:55:00Z",
-      "event_date_label": "29 Aug 2026 07:25 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/2cdddeea-aba5-4202-92da-299ae8f39adb"
     },
     {
       "provider": "PitSport Live",
@@ -498,20 +498,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "ARCA Menards Series - Madison Int'l Speedway \u2014 Race: Atlas 200",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T01:00:00Z",
-      "event_end_time": "2026-08-29T03:00:00Z",
-      "event_date_label": "29 Aug 2026 01:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/b35c1c6e-e721-4ff7-a6b9-b27566ae6379"
     },
     {
       "provider": "FullRaces",
