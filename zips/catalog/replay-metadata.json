@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T20:58:05.066978Z",
+  "generated_at": "2026-08-30T00:23:35.657848Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-29T20:58:05.066978Z",
+      "checked_at": "2026-08-30T00:23:35.657848Z",
       "records": 114
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-29T20:58:05.066978Z",
-      "records": 682
+      "checked_at": "2026-08-30T00:23:35.657848Z",
+      "records": 683
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-29T20:58:05.066978Z",
+      "checked_at": "2026-08-30T00:23:35.657848Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-29T20:58:05.066978Z",
+      "checked_at": "2026-08-30T00:23:35.657848Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-29T20:58:05.066978Z",
+      "checked_at": "2026-08-30T00:23:35.657848Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-29T20:58:05.066978Z",
+      "checked_at": "2026-08-30T00:23:35.657848Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-29T20:58:05.066978Z",
-      "records": 17
+      "checked_at": "2026-08-30T00:23:35.657848Z",
+      "records": 16
     }
   },
   "items": [
@@ -87,6 +87,17 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/4f4cec8f-a19e-41da-aac5-c4bab50f3494"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "WorldSBK",
+      "title": "WorldSBK Live",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
     },
     {
       "provider": "PitSport Live",
@@ -157,6 +168,17 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/f7463f4e-6429-44e0-9da8-54c4640cea3e"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
     },
     {
       "provider": "PitSport Live",
@@ -230,6 +252,31 @@
     },
     {
       "provider": "PitSport Live",
+      "series": "IndyCar",
+      "title": "IndyCar Series - Milwaukee Mile \u2014 Race 1 : Snap-On Makers and Fixers 250",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "event_time": "2026-08-30T13:00:00Z",
+      "event_end_time": "2026-08-30T17:25:00Z",
+      "event_date_label": "30 Aug 2026 13:00 UTC",
+      "last_modified": "",
+      "state": "scheduled",
+      "thumbnail": "",
+      "page_url": "https://pitsport.live/watch/a05898b4-3e21-475b-95e7-2b91719d8190"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
+    {
+      "provider": "PitSport Live",
       "series": "WorldSBK",
       "title": "British Superbike Championship - Cadwell Park \u2014 Race 1",
       "event_year": 2026,
@@ -257,31 +304,6 @@
       "page_url": "https://pitsport.live/watch/df1e5564-1d97-4d0a-b890-5900ae272503"
     },
     {
-      "provider": "NontonX Live",
-      "series": "WorldSBK",
-      "title": "WorldSBK Live",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SSS17 - Encarnaci\u00f3n Costanera",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T21:05:00Z",
-      "event_end_time": "2026-08-29T21:55:00Z",
-      "event_date_label": "29 Aug 2026 21:05 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/0339d79b-c50a-4771-8734-f94fabde833a"
-    },
-    {
       "provider": "PitSport Live",
       "series": "NASCAR",
       "title": "NASCAR Cup Series - Daytona Int. Speedway \u2014 Race: Coke Zero Sugar 400",
@@ -291,45 +313,20 @@
       "event_end_time": "2026-08-30T03:00:00Z",
       "event_date_label": "29 Aug 2026 23:30 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/db31d5b6-f7d3-4c4d-9af7-ede0a0b81013"
     },
     {
-      "provider": "NontonX Live",
+      "provider": "FullRaces",
       "series": "MotoGP",
-      "title": "MotoGP Live",
+      "title": "MOTOGP Grand Prix Of Aragon Spain 2026 Full Race Replay",
       "event_year": 2026,
       "event_date": "2026-08-29",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Milwaukee Mile \u2014 Race 1 : Snap-On Makers and Fixers 250",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T18:50:00Z",
-      "event_end_time": "2026-08-29T21:25:00Z",
-      "event_date_label": "29 Aug 2026 18:50 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/a05898b4-3e21-475b-95e7-2b91719d8190"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
+      "last_modified": "2026-08-29T18:31:35+03:00",
+      "page_url": "https://fullraces.com/motogp-grand-prix-of-aragon-spain-2026-full-race-replay",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "FullRaces",
