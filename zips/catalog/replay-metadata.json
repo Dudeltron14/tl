@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T08:21:42.140417Z",
+  "generated_at": "2026-08-30T14:53:16.569978Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "checked_at": "2026-08-30T14:53:16.569978Z",
       "records": 115
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "checked_at": "2026-08-30T14:53:16.569978Z",
       "records": 683
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "checked_at": "2026-08-30T14:53:16.569978Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "checked_at": "2026-08-30T14:53:16.569978Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "checked_at": "2026-08-30T14:53:16.569978Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "checked_at": "2026-08-30T14:53:16.569978Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T08:21:42.140417Z",
-      "records": 14
+      "checked_at": "2026-08-30T14:53:16.569978Z",
+      "records": 7
     }
   },
   "items": [
@@ -123,51 +123,9 @@
       "event_end_time": "2026-08-30T15:33:00Z",
       "event_date_label": "30 Aug 2026 14:43 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/c5a4878d-2de8-464c-8074-c196f33c2ae6"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS20 - Artigas Oeste",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T13:51:00Z",
-      "event_end_time": "2026-08-30T14:41:00Z",
-      "event_date_label": "30 Aug 2026 13:51 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/3f6cb11c-7619-45b6-9fba-d5aa2bb97040"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS19 - Artigas 1",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T11:38:00Z",
-      "event_end_time": "2026-08-30T12:28:00Z",
-      "event_date_label": "30 Aug 2026 11:38 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/ee9e2730-6116-4159-b8ac-b0294b068600"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS18 - Encarnaci\u00f3n 1",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T10:05:00Z",
-      "event_end_time": "2026-08-30T10:55:00Z",
-      "event_date_label": "30 Aug 2026 10:05 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/f7463f4e-6429-44e0-9da8-54c4640cea3e"
     },
     {
       "provider": "NontonX Live",
@@ -179,48 +137,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "MotoGP - MotorLand Arag\u00f3n \u2014 Race: Grand Prix of Aragon",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T12:00:00Z",
-      "event_end_time": "2026-08-30T12:45:00Z",
-      "event_date_label": "30 Aug 2026 12:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/675bae99-b7d3-458d-84fe-22680da6ae15"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto3 - MotorLand Arag\u00f3n \u2014 Race: Grand Prix of Aragon",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T09:00:00Z",
-      "event_end_time": "2026-08-30T09:45:00Z",
-      "event_date_label": "30 Aug 2026 09:00 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/ad7e64a4-ef5b-4f1f-bef7-91b57dc98504"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
-      "title": "Moto2 - MotorLand Arag\u00f3n \u2014 Race: Grand Prix of Aragon",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T10:15:00Z",
-      "event_end_time": "2026-08-30T11:00:00Z",
-      "event_date_label": "30 Aug 2026 10:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/7ebe8130-7448-4ba2-8963-14906bd646e5"
     },
     {
       "provider": "NontonX",
@@ -253,9 +169,9 @@
       "title": "IndyCar Series - Milwaukee Mile \u2014 Race 1 : Snap-On Makers and Fixers 250",
       "event_year": 2026,
       "event_date": "2026-08-30",
-      "event_time": "2026-08-30T13:00:00Z",
-      "event_end_time": "2026-08-30T17:25:00Z",
-      "event_date_label": "30 Aug 2026 13:00 UTC",
+      "event_time": "2026-08-30T22:00:00Z",
+      "event_end_time": "2026-08-31T01:25:00Z",
+      "event_date_label": "30 Aug 2026 22:00 UTC",
       "last_modified": "",
       "state": "scheduled",
       "thumbnail": "",
@@ -285,20 +201,6 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/517a1d61-03cd-45b1-9c0a-4340140ab497"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "WorldSBK",
-      "title": "British Superbike Championship - Cadwell Park \u2014 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T12:15:00Z",
-      "event_end_time": "2026-08-30T12:55:00Z",
-      "event_date_label": "30 Aug 2026 12:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/df1e5564-1d97-4d0a-b890-5900ae272503"
     },
     {
       "provider": "FullRaces",
