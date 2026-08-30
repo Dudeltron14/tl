@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T00:23:35.657848Z",
+  "generated_at": "2026-08-30T08:21:42.140417Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-30T00:23:35.657848Z",
-      "records": 114
+      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "records": 115
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-30T00:23:35.657848Z",
+      "checked_at": "2026-08-30T08:21:42.140417Z",
       "records": 683
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-30T00:23:35.657848Z",
+      "checked_at": "2026-08-30T08:21:42.140417Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-30T00:23:35.657848Z",
+      "checked_at": "2026-08-30T08:21:42.140417Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T00:23:35.657848Z",
+      "checked_at": "2026-08-30T08:21:42.140417Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-30T00:23:35.657848Z",
+      "checked_at": "2026-08-30T08:21:42.140417Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T00:23:35.657848Z",
-      "records": 16
+      "checked_at": "2026-08-30T08:21:42.140417Z",
+      "records": 14
     }
   },
   "items": [
@@ -183,20 +183,6 @@
     {
       "provider": "PitSport Live",
       "series": "MotoGP",
-      "title": "MotoGP - MotorLand Arag\u00f3n \u2014 Warm-Up",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T07:40:00Z",
-      "event_end_time": "2026-08-30T07:50:00Z",
-      "event_date_label": "30 Aug 2026 07:40 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/b37b391d-cb4c-4604-b7af-807f3e4e8886"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "MotoGP",
       "title": "MotoGP - MotorLand Arag\u00f3n \u2014 Race: Grand Prix of Aragon",
       "event_year": 2026,
       "event_date": "2026-08-30",
@@ -235,6 +221,17 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/7ebe8130-7448-4ba2-8963-14906bd646e5"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Sprint Aragon 2026",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "last_modified": "2026-08-30T03:54:14Z",
+      "page_url": "https://replay.nontonx.com/2026/08/siaran-ulang-motogp-sprint-aragon-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "PitSport Live",
@@ -302,20 +299,6 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/df1e5564-1d97-4d0a-b890-5900ae272503"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "NASCAR",
-      "title": "NASCAR Cup Series - Daytona Int. Speedway \u2014 Race: Coke Zero Sugar 400",
-      "event_year": 2026,
-      "event_date": "2026-08-29",
-      "event_time": "2026-08-29T23:30:00Z",
-      "event_end_time": "2026-08-30T03:00:00Z",
-      "event_date_label": "29 Aug 2026 23:30 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/db31d5b6-f7d3-4c4d-9af7-ede0a0b81013"
     },
     {
       "provider": "FullRaces",
