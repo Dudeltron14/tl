@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T14:53:16.569978Z",
+  "generated_at": "2026-08-30T19:20:43.022424Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-30T14:53:16.569978Z",
+      "checked_at": "2026-08-30T19:20:43.022424Z",
       "records": 115
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-30T14:53:16.569978Z",
+      "checked_at": "2026-08-30T19:20:43.022424Z",
       "records": 683
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-30T14:53:16.569978Z",
+      "checked_at": "2026-08-30T19:20:43.022424Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-30T14:53:16.569978Z",
+      "checked_at": "2026-08-30T19:20:43.022424Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T14:53:16.569978Z",
+      "checked_at": "2026-08-30T19:20:43.022424Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-30T14:53:16.569978Z",
+      "checked_at": "2026-08-30T19:20:43.022424Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T14:53:16.569978Z",
-      "records": 7
+      "checked_at": "2026-08-30T19:20:43.022424Z",
+      "records": 4
     }
   },
   "items": [
@@ -100,34 +100,6 @@
       "page_url": "https://esp32.nontonx.com/wsbkplayer1"
     },
     {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS22 - Encarnaci\u00f3n 2 [Power Stage]",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T17:15:00Z",
-      "event_end_time": "2026-08-30T18:05:00Z",
-      "event_date_label": "30 Aug 2026 17:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/6a93b1e5-90ab-447f-a685-4904e208b6f9"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "Rally",
-      "title": "World Rally Championship - Rally del Paraguay \u2014 SS21 - Artigas 2",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T14:43:00Z",
-      "event_end_time": "2026-08-30T15:33:00Z",
-      "event_date_label": "30 Aug 2026 14:43 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/c5a4878d-2de8-464c-8074-c196f33c2ae6"
-    },
-    {
       "provider": "NontonX Live",
       "series": "MotoGP",
       "title": "MotoGP Live",
@@ -159,7 +131,7 @@
       "event_end_time": "2026-08-30T19:55:00Z",
       "event_date_label": "30 Aug 2026 17:20 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/83caf133-b954-497e-a505-ff517ce0bc27"
     },
@@ -187,20 +159,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "WorldSBK",
-      "title": "British Superbike Championship - Cadwell Park \u2014 Race 1",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T15:15:00Z",
-      "event_end_time": "2026-08-30T15:55:00Z",
-      "event_date_label": "30 Aug 2026 15:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/517a1d61-03cd-45b1-9c0a-4340140ab497"
     },
     {
       "provider": "FullRaces",
