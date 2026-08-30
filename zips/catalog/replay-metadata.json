@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T19:20:43.022424Z",
+  "generated_at": "2026-08-30T22:48:22.262133Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-30T19:20:43.022424Z",
+      "checked_at": "2026-08-30T22:48:22.262133Z",
       "records": 115
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-30T19:20:43.022424Z",
+      "checked_at": "2026-08-30T22:48:22.262133Z",
       "records": 683
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-30T19:20:43.022424Z",
+      "checked_at": "2026-08-30T22:48:22.262133Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-30T19:20:43.022424Z",
+      "checked_at": "2026-08-30T22:48:22.262133Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T19:20:43.022424Z",
+      "checked_at": "2026-08-30T22:48:22.262133Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-30T19:20:43.022424Z",
+      "checked_at": "2026-08-30T22:48:22.262133Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T19:20:43.022424Z",
-      "records": 4
+      "checked_at": "2026-08-30T22:48:22.262133Z",
+      "records": 3
     }
   },
   "items": [
@@ -124,20 +124,6 @@
     {
       "provider": "PitSport Live",
       "series": "IndyCar",
-      "title": "IndyCar Series - Milwaukee Mile \u2014 Race 2 : Snap-On Milwaukee Mile 250",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T17:20:00Z",
-      "event_end_time": "2026-08-30T19:55:00Z",
-      "event_date_label": "30 Aug 2026 17:20 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/83caf133-b954-497e-a505-ff517ce0bc27"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
       "title": "IndyCar Series - Milwaukee Mile \u2014 Race 1 : Snap-On Makers and Fixers 250",
       "event_year": 2026,
       "event_date": "2026-08-30",
@@ -145,7 +131,7 @@
       "event_end_time": "2026-08-31T01:25:00Z",
       "event_date_label": "30 Aug 2026 22:00 UTC",
       "last_modified": "",
-      "state": "scheduled",
+      "state": "live",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/a05898b4-3e21-475b-95e7-2b91719d8190"
     },
