@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T22:48:22.262133Z",
+  "generated_at": "2026-08-31T05:42:25.051860Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,85 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-30T22:48:22.262133Z",
-      "records": 115
+      "checked_at": "2026-08-31T05:42:25.051860Z",
+      "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-30T22:48:22.262133Z",
+      "checked_at": "2026-08-31T05:42:25.051860Z",
       "records": 683
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-30T22:48:22.262133Z",
+      "checked_at": "2026-08-31T05:42:25.051860Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-30T22:48:22.262133Z",
+      "checked_at": "2026-08-31T05:42:25.051860Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T22:48:22.262133Z",
+      "checked_at": "2026-08-31T05:42:25.051860Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-30T22:48:22.262133Z",
+      "checked_at": "2026-08-31T05:42:25.051860Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-30T22:48:22.262133Z",
-      "records": 3
+      "checked_at": "2026-08-31T05:42:25.051860Z",
+      "records": 2
     }
   },
   "items": [
+    {
+      "provider": "NontonX Live",
+      "series": "WorldSBK",
+      "title": "WorldSBK Live",
+      "event_year": 2026,
+      "event_date": "2026-08-31",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-08-31",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Race Aragon 2026",
+      "event_year": 2026,
+      "event_date": "2026-08-31",
+      "last_modified": "2026-08-31T00:52:22Z",
+      "page_url": "https://replay.nontonx.com/2026/08/siaran-ulang-motogp-race-aragon-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-08-31",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
     {
       "provider": "PitSport Live",
       "series": "WorldSBK",
@@ -89,28 +133,6 @@
       "page_url": "https://pitsport.live/watch/4f4cec8f-a19e-41da-aac5-c4bab50f3494"
     },
     {
-      "provider": "NontonX Live",
-      "series": "WorldSBK",
-      "title": "WorldSBK Live",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
       "provider": "NontonX",
       "series": "MotoGP",
       "title": "MOTOGP Sprint Aragon 2026",
@@ -120,31 +142,6 @@
       "page_url": "https://replay.nontonx.com/2026/08/siaran-ulang-motogp-sprint-aragon-2026.html",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "IndyCar",
-      "title": "IndyCar Series - Milwaukee Mile \u2014 Race 1 : Snap-On Makers and Fixers 250",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_time": "2026-08-30T22:00:00Z",
-      "event_end_time": "2026-08-31T01:25:00Z",
-      "event_date_label": "30 Aug 2026 22:00 UTC",
-      "last_modified": "",
-      "state": "live",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/a05898b4-3e21-475b-95e7-2b91719d8190"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-08-30",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "FullRaces",
