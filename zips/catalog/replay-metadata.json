@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T13:58:40.131853Z",
+  "generated_at": "2026-08-31T20:09:13.497867Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,38 +25,38 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-31T13:58:40.131853Z",
+      "checked_at": "2026-08-31T20:09:13.497867Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-31T13:58:40.131853Z",
+      "checked_at": "2026-08-31T20:09:13.497867Z",
       "records": 683
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-31T13:58:40.131853Z",
+      "checked_at": "2026-08-31T20:09:13.497867Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-31T13:58:40.131853Z",
+      "checked_at": "2026-08-31T20:09:13.497867Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-31T13:58:40.131853Z",
+      "checked_at": "2026-08-31T20:09:13.497867Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-31T13:58:40.131853Z",
+      "checked_at": "2026-08-31T20:09:13.497867Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-31T13:58:40.131853Z",
-      "records": 1
+      "checked_at": "2026-08-31T20:09:13.497867Z",
+      "records": 0
     }
   },
   "items": [
@@ -103,20 +103,6 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
-    },
-    {
-      "provider": "PitSport Live",
-      "series": "WorldSBK",
-      "title": "British Superbike Championship - Cadwell Park \u2014 Race 3",
-      "event_year": 2026,
-      "event_date": "2026-08-31",
-      "event_time": "2026-08-31T15:15:00Z",
-      "event_end_time": "2026-08-31T15:55:00Z",
-      "event_date_label": "31 Aug 2026 15:15 UTC",
-      "last_modified": "",
-      "state": "scheduled",
-      "thumbnail": "",
-      "page_url": "https://pitsport.live/watch/b78b04df-f3e9-4202-a68f-b240d2838df7"
     },
     {
       "provider": "NontonX",
