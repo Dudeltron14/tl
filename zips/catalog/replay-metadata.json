@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T23:53:30.386551Z",
+  "generated_at": "2026-09-01T05:15:43.218669Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-08-31T23:53:30.386551Z",
+      "checked_at": "2026-09-01T05:15:43.218669Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-08-31T23:53:30.386551Z",
-      "records": 683
+      "checked_at": "2026-09-01T05:15:43.218669Z",
+      "records": 685
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-08-31T23:53:30.386551Z",
+      "checked_at": "2026-09-01T05:15:43.218669Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-08-31T23:53:30.386551Z",
+      "checked_at": "2026-09-01T05:15:43.218669Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-08-31T23:53:30.386551Z",
+      "checked_at": "2026-09-01T05:15:43.218669Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-08-31T23:53:30.386551Z",
+      "checked_at": "2026-09-01T05:15:43.218669Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-08-31T23:53:30.386551Z",
+      "checked_at": "2026-09-01T05:15:43.218669Z",
       "records": 0
     }
   },
@@ -65,7 +65,7 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-08-31",
+      "event_date": "2026-09-01",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -76,11 +76,22 @@
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-08-31",
+      "event_date": "2026-09-01",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-09-01",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
@@ -94,15 +105,26 @@
       "health": "indexed"
     },
     {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
+      "provider": "FullRaces",
+      "series": "IndyCar",
+      "title": "Indycar Snap On Milwaukee Mile 250 Full Race Replay August 29 30 2026",
       "event_year": 2026,
       "event_date": "2026-08-31",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
+      "last_modified": "2026-08-31T10:22:20+03:00",
+      "page_url": "https://fullraces.com/indycar-snap-on-milwaukee-mile-250-full-race-replay-august-29-30-2026",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "NASCAR",
+      "title": "NASCAR Coke Zero Sugar 400 Full Race Replay August 29 2026",
+      "event_year": 2026,
+      "event_date": "2026-08-30",
+      "last_modified": "2026-08-30T15:18:41+03:00",
+      "page_url": "https://fullraces.com/nascar-coke-zero-sugar-400-full-race-replay-august-29-2026",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "NontonX",
@@ -120,8 +142,8 @@
       "series": "MotoGP",
       "title": "MOTOGP Grand Prix Of Aragon Spain 2026 Full Race Replay",
       "event_year": 2026,
-      "event_date": "2026-08-29",
-      "last_modified": "2026-08-29T18:31:35+03:00",
+      "event_date": "2026-08-30",
+      "last_modified": "2026-08-30T18:35:59+03:00",
       "page_url": "https://fullraces.com/motogp-grand-prix-of-aragon-spain-2026-full-race-replay",
       "state": "replay_available",
       "health": "indexed"
