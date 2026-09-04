@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T21:06:12.804207Z",
+  "generated_at": "2026-09-04T00:08:45.499278Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-03T21:06:12.804207Z",
+      "checked_at": "2026-09-04T00:08:45.499278Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-03T21:06:12.804207Z",
+      "checked_at": "2026-09-04T00:08:45.499278Z",
       "records": 685
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-03T21:06:12.804207Z",
+      "checked_at": "2026-09-04T00:08:45.499278Z",
       "records": 890
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-03T21:06:12.804207Z",
+      "checked_at": "2026-09-04T00:08:45.499278Z",
       "records": 55
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-03T21:06:12.804207Z",
+      "checked_at": "2026-09-04T00:08:45.499278Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-03T21:06:12.804207Z",
+      "checked_at": "2026-09-04T00:08:45.499278Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "ok",
-      "checked_at": "2026-09-03T21:06:12.804207Z",
+      "checked_at": "2026-09-04T00:08:45.499278Z",
       "records": 59
     }
   },
@@ -775,6 +775,17 @@
       "page_url": "https://pitsport.live/watch/3f98e30b-9c38-4ad4-af0e-1d119c802a81"
     },
     {
+      "provider": "NontonX Live",
+      "series": "WorldSBK",
+      "title": "WorldSBK Live",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
       "provider": "PitSport Live",
       "series": "Sports Cars",
       "title": "Porsche Supercup - Monza \u2014 Free Practice",
@@ -789,6 +800,17 @@
       "page_url": "https://pitsport.live/watch/32c6011d-2bcd-41d3-8a58-9109e98189bc"
     },
     {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
       "provider": "PitSport Live",
       "series": "IndyCar",
       "title": "IndyCar Series - Laguna Seca \u2014 Free Practice 1",
@@ -801,6 +823,17 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/c30fe878-7b80-420a-869c-d7f8fd1ec625"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "PitSport Live",
@@ -885,39 +918,6 @@
       "state": "scheduled",
       "thumbnail": "",
       "page_url": "https://pitsport.live/watch/659eb2f5-66b1-4cb3-a2df-4035cd099b9c"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "WorldSBK",
-      "title": "WorldSBK Live",
-      "event_year": 2026,
-      "event_date": "2026-09-03",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-09-03",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-09-03",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
