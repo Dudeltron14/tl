@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T11:24:03.214117Z",
+  "generated_at": "2026-09-04T16:25:45.955265Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,69 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-04T11:24:03.214117Z",
+      "checked_at": "2026-09-04T16:25:45.955265Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-04T11:24:03.214117Z",
+      "checked_at": "2026-09-04T16:25:45.955265Z",
       "records": 685
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-04T11:24:03.214117Z",
-      "records": 890
+      "checked_at": "2026-09-04T16:25:45.955265Z",
+      "records": 880
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-04T11:24:03.214117Z",
-      "records": 54
+      "checked_at": "2026-09-04T16:25:45.955265Z",
+      "records": 53
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-04T11:24:03.214117Z",
+      "checked_at": "2026-09-04T16:25:45.955265Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-04T11:24:03.214117Z",
+      "checked_at": "2026-09-04T16:25:45.955265Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-04T11:24:03.214117Z",
+      "checked_at": "2026-09-04T16:25:45.955265Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - Practice 2",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
     {
       "provider": "NontonX Live",
       "series": "WorldSBK",
@@ -209,20 +237,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Sprint",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-sprint",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Dutch Grand Prix 2026 - Race",
       "event_year": 2026,
       "event_date": "2026-08-23",
@@ -231,20 +245,6 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-race",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": true,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-formula-1-qualifying",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -5636,20 +5636,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - Weekend Warm-Up",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-weekend-warm-up",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Italian Grand Prix 2026 - Race",
       "event_year": 2026,
       "event_date": "2026-09-06",
@@ -5714,34 +5700,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-1",
       "state": "scheduled",
       "health": "indexed"
     },
@@ -5832,34 +5790,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - F3 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-3-qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - F3 Practice",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-3-practice",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Italian Grand Prix 2026 - F3 Feature Race",
       "event_year": 2026,
       "event_date": "2026-09-06",
@@ -5896,20 +5826,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-2-qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - F2 Practice",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-2-practice",
       "state": "scheduled",
       "health": "indexed"
     },
@@ -5967,76 +5883,6 @@
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/13/#practice-3",
       "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-09-04",
-      "event_time": "2026-09-04T14:00:00Z",
-      "event_date_label": "04 Sep 2026 14:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/13/#practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Pre-Race Show",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-pre-race-show",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Pre-Qualifying Show",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-pre-qualifying-show",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Post-Race Show",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-post-race-show",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Dutch Grand Prix 2026 - Post-Qualifying Show",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "event_date_label": "21 AUG - 23 AUG 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-post-qualifying-show",
-      "state": "unavailable",
       "health": "indexed"
     },
     {
