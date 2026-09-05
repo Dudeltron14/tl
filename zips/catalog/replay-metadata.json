@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05T04:35:23.886134Z",
+  "generated_at": "2026-09-05T10:40:20.878057Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-05T04:35:23.886134Z",
+      "checked_at": "2026-09-05T10:40:20.878057Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-05T04:35:23.886134Z",
+      "checked_at": "2026-09-05T10:40:20.878057Z",
       "records": 691
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-05T04:35:23.886134Z",
+      "checked_at": "2026-09-05T10:40:20.878057Z",
       "records": 880
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-05T04:35:23.886134Z",
-      "records": 53
+      "checked_at": "2026-09-05T10:40:20.878057Z",
+      "records": 52
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-05T04:35:23.886134Z",
+      "checked_at": "2026-09-05T10:40:20.878057Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T04:35:23.886134Z",
+      "checked_at": "2026-09-05T10:40:20.878057Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T04:35:23.886134Z",
+      "checked_at": "2026-09-05T10:40:20.878057Z",
       "records": 0
     }
   },
@@ -5934,20 +5934,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/13/#qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix - Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-09-05",
-      "event_time": "2026-09-05T10:30:00Z",
-      "event_date_label": "05 Sep 2026 10:30 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/13/#practice-3",
       "state": "scheduled",
       "health": "indexed"
     },
