@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05T10:40:20.878057Z",
+  "generated_at": "2026-09-05T15:18:10.765774Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,55 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-05T10:40:20.878057Z",
+      "checked_at": "2026-09-05T15:18:10.765774Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-05T10:40:20.878057Z",
+      "checked_at": "2026-09-05T15:18:10.765774Z",
       "records": 691
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-05T10:40:20.878057Z",
-      "records": 880
+      "checked_at": "2026-09-05T15:18:10.765774Z",
+      "records": 873
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-05T10:40:20.878057Z",
-      "records": 52
+      "checked_at": "2026-09-05T15:18:10.765774Z",
+      "records": 51
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-05T10:40:20.878057Z",
+      "checked_at": "2026-09-05T15:18:10.765774Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T10:40:20.878057Z",
+      "checked_at": "2026-09-05T15:18:10.765774Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T10:40:20.878057Z",
+      "checked_at": "2026-09-05T15:18:10.765774Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - Practice 3",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-3",
+      "state": "replay_available",
+      "health": "indexed"
+    },
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
@@ -5744,34 +5758,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - Pre-Qualifying Show",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Italian Grand Prix 2026 - Post-Race Show",
       "event_year": 2026,
       "event_date": "2026-09-06",
@@ -5780,20 +5766,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-post-race-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - Post-Qualifying Show",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-post-qualifying-show",
       "state": "scheduled",
       "health": "indexed"
     },
@@ -5814,48 +5786,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - PSC Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-psc-qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - PSC Practice",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-psc-practice",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - F3 Sprint Race",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-3-sprint-race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Italian Grand Prix 2026 - F3 Feature Race",
       "event_year": 2026,
       "event_date": "2026-09-06",
@@ -5864,34 +5794,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-3-feature-race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - F2 Sprint Race",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-2-sprint-race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix 2026 - F2 Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-09-06",
-      "event_date_label": "4 SEP - 6 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-2-qualifying",
       "state": "scheduled",
       "health": "indexed"
     },
@@ -5920,20 +5822,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/13/#race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Italian Grand Prix - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-09-05",
-      "event_time": "2026-09-05T14:00:00Z",
-      "event_date_label": "05 Sep 2026 14:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/13/#qualifying",
       "state": "scheduled",
       "health": "indexed"
     },
