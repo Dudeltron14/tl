@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05T00:08:52.968481Z",
+  "generated_at": "2026-09-05T04:35:23.886134Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-05T00:08:52.968481Z",
+      "checked_at": "2026-09-05T04:35:23.886134Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-05T00:08:52.968481Z",
-      "records": 685
+      "checked_at": "2026-09-05T04:35:23.886134Z",
+      "records": 691
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-05T00:08:52.968481Z",
+      "checked_at": "2026-09-05T04:35:23.886134Z",
       "records": 880
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-05T00:08:52.968481Z",
+      "checked_at": "2026-09-05T04:35:23.886134Z",
       "records": 53
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-05T00:08:52.968481Z",
+      "checked_at": "2026-09-05T04:35:23.886134Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T00:08:52.968481Z",
+      "checked_at": "2026-09-05T04:35:23.886134Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T00:08:52.968481Z",
+      "checked_at": "2026-09-05T04:35:23.886134Z",
       "records": 0
     }
   },
@@ -100,6 +100,28 @@
       "page_url": "https://esp32.nontonx.com/wsbkplayer1"
     },
     {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Sprint Qualifying F1 2026 Dutch Grand Prix Full Race Replay August 21 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-05",
+      "last_modified": "2026-09-05T01:11:41+03:00",
+      "page_url": "https://fullraces.com/sprint-qualifying-f1-2026-dutch-grand-prix-full-race-replay-august-21-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Sprint F1 2026 Dutch Grand Prix Full Race Replay August 22 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-05",
+      "last_modified": "2026-09-05T01:11:07+03:00",
+      "page_url": "https://fullraces.com/sprint-f1-2026-dutch-grand-prix-full-race-replay-august-22-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
       "provider": "NontonX Live",
       "series": "MotoGP",
       "title": "MotoGP Live",
@@ -120,6 +142,105 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "1st Practice F1 2026 Dutch Grand Prix Full Race Replay August 21 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-05",
+      "last_modified": "2026-09-05T01:15:10+03:00",
+      "page_url": "https://fullraces.com/1st-practice-f1-2026-dutch-grand-prix-full-race-replay-august-21-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Race F1 2026 Dutch Grand Prix Full Race Replay August 23 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "last_modified": "2026-09-04T23:48:32+03:00",
+      "page_url": "https://fullraces.com/race-f1-2026-dutch-grand-prix-full-race-replay-august-23-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Qualifying F1 2026 Dutch Grand Prix Full Race Replay August 22 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "last_modified": "2026-09-04T23:46:00+03:00",
+      "page_url": "https://fullraces.com/qualifying-f1-2026-dutch-grand-prix-full-race-replay-august-22-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 3",
+      "title": "Formula 3 Italian Grand Prix Full Race Replay 2026 F3 Championship",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "last_modified": "2026-09-04T18:20:49+03:00",
+      "page_url": "https://fullraces.com/formula-3-italian-grand-prix-full-race-replay-2026-f3-championship",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 2",
+      "title": "Formula 2 Italian Grand Prix Full Race Replay 2026 F2 Championship",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "last_modified": "2026-09-04T18:20:56+03:00",
+      "page_url": "https://fullraces.com/formula-2-italian-grand-prix-full-race-replay-2026-f2-championship",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "2nd Practice F1 2026 Italian Grand Prix Full Race Replay September 4 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "last_modified": "2026-09-04T20:31:47+03:00",
+      "page_url": "https://fullraces.com/2nd-practice-f1-2026-italian-grand-prix-full-race-replay-september-4-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "1st Practice F1 2026 Italian Grand Prix Full Race Replay September 4 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-04",
+      "last_modified": "2026-09-04T17:10:35+03:00",
+      "page_url": "https://fullraces.com/1st-practice-f1-2026-italian-grand-prix-full-race-replay-september-4-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Paddock Uncut F1 2026 Italian Grand Prix Full Replay September 3 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-03",
+      "last_modified": "2026-09-03T23:57:08+03:00",
+      "page_url": "https://fullraces.com/paddock-uncut-f1-2026-italian-grand-prix-full-replay-september-3-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Drivers Press Conference F1 2026 Italian Grand Prix Full Replay September 3 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-03",
+      "last_modified": "2026-09-03T23:56:34+03:00",
+      "page_url": "https://fullraces.com/drivers-press-conference-f1-2026-italian-grand-prix-full-replay-september-3-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "NontonX",
@@ -173,17 +294,6 @@
       "event_date": "2026-08-30",
       "last_modified": "2026-08-30T18:35:59+03:00",
       "page_url": "https://fullraces.com/motogp-grand-prix-of-aragon-spain-2026-full-race-replay",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "FullRaces",
-      "series": "Formula 1",
-      "title": "Race F1 2026 Dutch Grand Prix Full Race Replay August 23 2026 Formula 1",
-      "event_year": 2026,
-      "event_date": "2026-08-23",
-      "last_modified": "2026-08-23T22:24:12+03:00",
-      "page_url": "https://fullraces.com/race-f1-2026-dutch-grand-prix-full-race-replay-august-23-2026-formula-1",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -385,50 +495,6 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(16).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-dutch-grand-prix-2026-f1-sprint",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "FullRaces",
-      "series": "Formula 1",
-      "title": "Sprint Qualifying F1 2026 Dutch Grand Prix Full Race Replay August 21 2026 Formula 1",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "last_modified": "2026-08-22T00:40:05+03:00",
-      "page_url": "https://fullraces.com/sprint-qualifying-f1-2026-dutch-grand-prix-full-race-replay-august-21-2026-formula-1",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "FullRaces",
-      "series": "Formula 1",
-      "title": "Sprint F1 2026 Dutch Grand Prix Full Race Replay August 22 2026 Formula 1",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "last_modified": "2026-08-22T15:46:22+03:00",
-      "page_url": "https://fullraces.com/sprint-f1-2026-dutch-grand-prix-full-race-replay-august-22-2026-formula-1",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "FullRaces",
-      "series": "Formula 1",
-      "title": "Qualifying F1 2026 Dutch Grand Prix Full Race Replay August 22 2026 Formula 1",
-      "event_year": 2026,
-      "event_date": "2026-08-22",
-      "last_modified": "2026-08-22T23:19:14+03:00",
-      "page_url": "https://fullraces.com/qualifying-f1-2026-dutch-grand-prix-full-race-replay-august-22-2026-formula-1",
-      "state": "replay_available",
-      "health": "indexed"
-    },
-    {
-      "provider": "FullRaces",
-      "series": "Formula 1",
-      "title": "1st Practice F1 2026 Dutch Grand Prix Full Race Replay August 21 2026 Formula 1",
-      "event_year": 2026,
-      "event_date": "2026-08-21",
-      "last_modified": "2026-08-21T16:25:06+03:00",
-      "page_url": "https://fullraces.com/1st-practice-f1-2026-dutch-grand-prix-full-race-replay-august-21-2026-formula-1",
       "state": "replay_available",
       "health": "indexed"
     },
