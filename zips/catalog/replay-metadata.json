@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05T23:56:54.340112Z",
+  "generated_at": "2026-09-06T04:45:19.188602Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,63 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-05T23:56:54.340112Z",
+      "checked_at": "2026-09-06T04:45:19.188602Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-05T23:56:54.340112Z",
+      "checked_at": "2026-09-06T04:45:19.188602Z",
       "records": 691
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-05T23:56:54.340112Z",
-      "records": 873
+      "checked_at": "2026-09-06T04:45:19.188602Z",
+      "records": 875
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-05T23:56:54.340112Z",
+      "checked_at": "2026-09-06T04:45:19.188602Z",
       "records": 51
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-05T23:56:54.340112Z",
+      "checked_at": "2026-09-06T04:45:19.188602Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T23:56:54.340112Z",
+      "checked_at": "2026-09-06T04:45:19.188602Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-05T23:56:54.340112Z",
+      "checked_at": "2026-09-06T04:45:19.188602Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "NontonX Live",
+      "series": "WorldSBK",
+      "title": "WorldSBK Live",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
@@ -117,15 +139,43 @@
       "health": "indexed"
     },
     {
-      "provider": "NontonX Live",
-      "series": "WorldSBK",
-      "title": "WorldSBK Live",
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - Paddock Uncut",
       "event_year": 2026,
-      "event_date": "2026-09-05",
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-2026-paddock-uncut",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - F1 Show",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-2026-f1-show",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
-      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "FullRaces",
@@ -148,28 +198,6 @@
       "page_url": "https://fullraces.com/sprint-f1-2026-dutch-grand-prix-full-race-replay-august-22-2026-formula-1",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-09-05",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-09-05",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "FullRaces",
