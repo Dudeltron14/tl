@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T04:48:36.401053Z",
+  "generated_at": "2026-09-07T12:41:02.168463Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-07T04:48:36.401053Z",
+      "checked_at": "2026-09-07T12:41:02.168463Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-07T04:48:36.401053Z",
+      "checked_at": "2026-09-07T12:41:02.168463Z",
       "records": 695
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-07T04:48:36.401053Z",
-      "records": 883
+      "checked_at": "2026-09-07T12:41:02.168463Z",
+      "records": 886
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-07T04:48:36.401053Z",
+      "checked_at": "2026-09-07T12:41:02.168463Z",
       "records": 50
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-07T04:48:36.401053Z",
+      "checked_at": "2026-09-07T12:41:02.168463Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-07T04:48:36.401053Z",
+      "checked_at": "2026-09-07T12:41:02.168463Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-07T04:48:36.401053Z",
+      "checked_at": "2026-09-07T12:41:02.168463Z",
       "records": 0
     }
   },
@@ -162,6 +162,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - Teds Race Notebook",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-2026-teds-race-notebook",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Italian Grand Prix 2026 - Teds Qualifying Notebook",
       "event_year": 2026,
       "event_date": "2026-09-06",
@@ -198,6 +212,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - Pre-Race Buildup",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-2026-pre-race-buildup",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -254,6 +282,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Italian Grand Prix 2026 - Post-Race Analysis",
+      "event_year": 2026,
+      "event_date": "2026-09-06",
+      "event_date_label": "4 SEP - 6 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(17).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-italian-grand-prix-2026-post-race-analysis",
       "state": "replay_available",
       "health": "indexed"
     },
