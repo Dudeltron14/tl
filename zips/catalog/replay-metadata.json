@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T16:32:51.070722Z",
+  "generated_at": "2026-09-11T21:00:58.499980Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,55 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-11T16:32:51.070722Z",
+      "checked_at": "2026-09-11T21:00:58.499980Z",
       "records": 116
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-11T16:32:51.070722Z",
+      "checked_at": "2026-09-11T21:00:58.499980Z",
       "records": 699
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-11T16:32:51.070722Z",
+      "checked_at": "2026-09-11T21:00:58.499980Z",
       "records": 886
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-11T16:32:51.070722Z",
+      "checked_at": "2026-09-11T21:00:58.499980Z",
       "records": 48
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-11T16:32:51.070722Z",
+      "checked_at": "2026-09-11T21:00:58.499980Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-11T16:32:51.070722Z",
+      "checked_at": "2026-09-11T21:00:58.499980Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-11T16:32:51.070722Z",
+      "checked_at": "2026-09-11T21:00:58.499980Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Spanish Grand Prix 2026 - Practice 2",
+      "event_year": 2026,
+      "event_date": "2026-09-13",
+      "event_date_label": "11 SEP - 13 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-practice-2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
@@ -5966,20 +5980,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Spanish Grand Prix 2026 - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-09-13",
-      "event_date_label": "11 SEP - 13 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-practice-2",
       "state": "scheduled",
       "health": "indexed"
     },
