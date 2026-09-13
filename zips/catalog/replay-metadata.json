@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13T11:58:09.626077Z",
+  "generated_at": "2026-09-13T16:23:43.853750Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-13T11:58:09.626077Z",
+      "checked_at": "2026-09-13T16:23:43.853750Z",
       "records": 117
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-13T11:58:09.626077Z",
+      "checked_at": "2026-09-13T16:23:43.853750Z",
       "records": 707
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-13T11:58:09.626077Z",
+      "checked_at": "2026-09-13T16:23:43.853750Z",
       "records": 888
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-13T11:58:09.626077Z",
-      "records": 46
+      "checked_at": "2026-09-13T16:23:43.853750Z",
+      "records": 45
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-13T11:58:09.626077Z",
+      "checked_at": "2026-09-13T16:23:43.853750Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-13T11:58:09.626077Z",
+      "checked_at": "2026-09-13T16:23:43.853750Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-13T11:58:09.626077Z",
+      "checked_at": "2026-09-13T16:23:43.853750Z",
       "records": 0
     }
   },
@@ -6135,20 +6135,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-post-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Spanish Grand Prix - Race",
-      "event_year": 2026,
-      "event_date": "2026-09-13",
-      "event_time": "2026-09-13T13:00:00Z",
-      "event_date_label": "13 Sep 2026 13:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/14/#race",
       "state": "scheduled",
       "health": "indexed"
     },
