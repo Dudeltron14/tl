@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T05:06:05.573928Z",
+  "generated_at": "2026-09-14T12:55:45.056818Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-14T05:06:05.573928Z",
+      "checked_at": "2026-09-14T12:55:45.056818Z",
       "records": 118
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-14T05:06:05.573928Z",
+      "checked_at": "2026-09-14T12:55:45.056818Z",
       "records": 707
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-14T05:06:05.573928Z",
+      "checked_at": "2026-09-14T12:55:45.056818Z",
       "records": 888
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-14T05:06:05.573928Z",
+      "checked_at": "2026-09-14T12:55:45.056818Z",
       "records": 45
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-14T05:06:05.573928Z",
+      "checked_at": "2026-09-14T12:55:45.056818Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-14T05:06:05.573928Z",
+      "checked_at": "2026-09-14T12:55:45.056818Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-14T05:06:05.573928Z",
+      "checked_at": "2026-09-14T12:55:45.056818Z",
       "records": 0
     }
   },
@@ -103,6 +103,34 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Spanish Grand Prix 2026 - Race",
+      "event_year": 2026,
+      "event_date": "2026-09-13",
+      "event_date_label": "11 SEP - 13 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-race",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Spanish Grand Prix 2026 - Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-09-13",
+      "event_date_label": "11 SEP - 13 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "OvertakeFans",
@@ -6062,34 +6090,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-weekend-warm-up",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Spanish Grand Prix 2026 - Race",
-      "event_year": 2026,
-      "event_date": "2026-09-13",
-      "event_date_label": "11 SEP - 13 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-race",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Spanish Grand Prix 2026 - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-09-13",
-      "event_date_label": "11 SEP - 13 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-qualifying",
       "state": "unavailable",
       "health": "indexed"
     },
