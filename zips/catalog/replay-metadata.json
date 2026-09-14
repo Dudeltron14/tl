@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13T20:53:53.394488Z",
+  "generated_at": "2026-09-14T00:14:34.210343Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-13T20:53:53.394488Z",
+      "checked_at": "2026-09-14T00:14:34.210343Z",
       "records": 117
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-13T20:53:53.394488Z",
+      "checked_at": "2026-09-14T00:14:34.210343Z",
       "records": 707
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-13T20:53:53.394488Z",
+      "checked_at": "2026-09-14T00:14:34.210343Z",
       "records": 888
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-13T20:53:53.394488Z",
+      "checked_at": "2026-09-14T00:14:34.210343Z",
       "records": 45
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-13T20:53:53.394488Z",
+      "checked_at": "2026-09-14T00:14:34.210343Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-13T20:53:53.394488Z",
+      "checked_at": "2026-09-14T00:14:34.210343Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-13T20:53:53.394488Z",
+      "checked_at": "2026-09-14T00:14:34.210343Z",
       "records": 0
     }
   },
@@ -65,11 +65,33 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-09-13",
+      "event_date": "2026-09-14",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-09-14",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-09-14",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "OvertakeFans",
@@ -142,17 +164,6 @@
       "health": "indexed"
     },
     {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-09-13",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
       "provider": "NontonX",
       "series": "MotoGP",
       "title": "MOTOGP Sprint San Marino",
@@ -162,17 +173,6 @@
       "page_url": "https://replay.nontonx.com/2026/09/siaran-ulang-motogp-sprint-san-marino.html",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-09-13",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "FullRaces",
@@ -6051,7 +6051,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-weekend-warm-up",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6065,7 +6065,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-race",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6079,7 +6079,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-formula-1-qualifying",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6093,7 +6093,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-pre-race-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6107,7 +6107,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6121,7 +6121,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-post-race-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6135,7 +6135,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(7).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-spanish-grand-prix-post-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
