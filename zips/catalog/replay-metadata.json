@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T21:25:35.448712Z",
+  "generated_at": "2026-09-16T00:25:41.311346Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-15T21:25:35.448712Z",
+      "checked_at": "2026-09-16T00:25:41.311346Z",
       "records": 118
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-15T21:25:35.448712Z",
+      "checked_at": "2026-09-16T00:25:41.311346Z",
       "records": 709
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-15T21:25:35.448712Z",
+      "checked_at": "2026-09-16T00:25:41.311346Z",
       "records": 904
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-15T21:25:35.448712Z",
+      "checked_at": "2026-09-16T00:25:41.311346Z",
       "records": 45
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-15T21:25:35.448712Z",
+      "checked_at": "2026-09-16T00:25:41.311346Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-15T21:25:35.448712Z",
+      "checked_at": "2026-09-16T00:25:41.311346Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-15T21:25:35.448712Z",
+      "checked_at": "2026-09-16T00:25:41.311346Z",
       "records": 0
     }
   },
@@ -65,11 +65,33 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-09-15",
+      "event_date": "2026-09-16",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-09-16",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-09-16",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "FullRaces",
@@ -81,28 +103,6 @@
       "page_url": "https://fullraces.com/nascar-enjoy-illinois-300-full-race-replay-september-13-2026",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-09-15",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-09-15",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
