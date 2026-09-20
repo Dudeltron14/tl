@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T11:30:41.148301Z",
+  "generated_at": "2026-09-20T16:11:56.445480Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-20T11:30:41.148301Z",
-      "records": 119
+      "checked_at": "2026-09-20T16:11:56.445480Z",
+      "records": 120
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-20T11:30:41.148301Z",
+      "checked_at": "2026-09-20T16:11:56.445480Z",
       "records": 710
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-20T11:30:41.148301Z",
+      "checked_at": "2026-09-20T16:11:56.445480Z",
       "records": 904
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-20T11:30:41.148301Z",
+      "checked_at": "2026-09-20T16:11:56.445480Z",
       "records": 45
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-20T11:30:41.148301Z",
+      "checked_at": "2026-09-20T16:11:56.445480Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-20T11:30:41.148301Z",
+      "checked_at": "2026-09-20T16:11:56.445480Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-20T11:30:41.148301Z",
+      "checked_at": "2026-09-20T16:11:56.445480Z",
       "records": 0
     }
   },
@@ -90,6 +90,17 @@
       "event_date": "2026-09-20",
       "last_modified": "2026-09-20T04:46:58Z",
       "page_url": "https://replay.nontonx.com/2026/09/siaran-ulang-motogp-sprint-austria-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Race Austria 2026",
+      "event_year": 2026,
+      "event_date": "2026-09-20",
+      "last_modified": "2026-09-20T15:49:17Z",
+      "page_url": "https://replay.nontonx.com/2026/09/siaran-ulang-motogp-race-austria-2026.html",
       "state": "replay_available",
       "health": "indexed"
     },
