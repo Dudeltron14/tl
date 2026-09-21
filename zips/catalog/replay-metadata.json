@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-21T05:02:40.862628Z",
+  "generated_at": "2026-09-21T12:55:24.384524Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-21T05:02:40.862628Z",
+      "checked_at": "2026-09-21T12:55:24.384524Z",
       "records": 120
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-21T05:02:40.862628Z",
-      "records": 710
+      "checked_at": "2026-09-21T12:55:24.384524Z",
+      "records": 711
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-21T05:02:40.862628Z",
+      "checked_at": "2026-09-21T12:55:24.384524Z",
       "records": 904
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-21T05:02:40.862628Z",
+      "checked_at": "2026-09-21T12:55:24.384524Z",
       "records": 45
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-21T05:02:40.862628Z",
+      "checked_at": "2026-09-21T12:55:24.384524Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-21T05:02:40.862628Z",
+      "checked_at": "2026-09-21T12:55:24.384524Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-21T05:02:40.862628Z",
+      "checked_at": "2026-09-21T12:55:24.384524Z",
       "records": 0
     }
   },
@@ -94,6 +94,17 @@
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
+      "provider": "FullRaces",
+      "series": "NASCAR",
+      "title": "NASCAR Bass Pro Shops Night Race Full Race Replay September 19 2026",
+      "event_year": 2026,
+      "event_date": "2026-09-20",
+      "last_modified": "2026-09-20T15:14:29+03:00",
+      "page_url": "https://fullraces.com/nascar-bass-pro-shops-night-race-full-race-replay-september-19-2026",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
       "provider": "NontonX",
       "series": "MotoGP",
       "title": "MOTOGP Sprint Austria 2026",
@@ -120,8 +131,8 @@
       "series": "MotoGP",
       "title": "MOTOGP Grand Prix Of Austria 2026 Full Race Replay",
       "event_year": 2026,
-      "event_date": "2026-09-19",
-      "last_modified": "2026-09-19T02:10:37+03:00",
+      "event_date": "2026-09-20",
+      "last_modified": "2026-09-20T19:41:32+03:00",
       "page_url": "https://fullraces.com/motogp-grand-prix-of-austria-2026-full-race-replay",
       "state": "replay_available",
       "health": "indexed"
