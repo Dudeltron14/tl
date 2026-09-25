@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T00:34:52.913958Z",
+  "generated_at": "2026-09-25T07:54:11.816489Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-25T00:34:52.913958Z",
+      "checked_at": "2026-09-25T07:54:11.816489Z",
       "records": 120
     },
     "FullRaces": {
       "status": "ok",
-      "checked_at": "2026-09-25T00:34:52.913958Z",
-      "records": 711
+      "checked_at": "2026-09-25T07:54:11.816489Z",
+      "records": 716
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-25T00:34:52.913958Z",
+      "checked_at": "2026-09-25T07:54:11.816489Z",
       "records": 906
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-25T00:34:52.913958Z",
+      "checked_at": "2026-09-25T07:54:11.816489Z",
       "records": 43
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-25T00:34:52.913958Z",
+      "checked_at": "2026-09-25T07:54:11.816489Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-25T00:34:52.913958Z",
+      "checked_at": "2026-09-25T07:54:11.816489Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-25T00:34:52.913958Z",
+      "checked_at": "2026-09-25T07:54:11.816489Z",
       "records": 0
     }
   },
@@ -148,6 +148,61 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Paddock Uncut F1 2026 Azerbaijan Grand Prix Full Replay September 23 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-24",
+      "last_modified": "2026-09-24T11:03:40+03:00",
+      "page_url": "https://fullraces.com/paddock-uncut-f1-2026-azerbaijan-grand-prix-full-replay-september-23-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 2",
+      "title": "Formula 2 Azerbaijan Grand Prix Full Race Replay 2026 F2 Championship",
+      "event_year": 2026,
+      "event_date": "2026-09-24",
+      "last_modified": "2026-09-24T15:53:45+03:00",
+      "page_url": "https://fullraces.com/formula-2-azerbaijan-grand-prix-full-race-replay-2026-f2-championship",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "Drivers Press Conference F1 2026 Azerbaijan Grand Prix Full Replay September 23 2026",
+      "event_year": 2026,
+      "event_date": "2026-09-24",
+      "last_modified": "2026-09-24T10:58:39+03:00",
+      "page_url": "https://fullraces.com/drivers-press-conference-f1-2026-azerbaijan-grand-prix-full-replay-september-23-2026",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "2nd Practice F1 2026 Azerbaijan Grand Prix Full Race Replay September 24 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-24",
+      "last_modified": "2026-09-24T18:42:46+03:00",
+      "page_url": "https://fullraces.com/2nd-practice-f1-2026-azerbaijan-grand-prix-full-race-replay-september-24-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "FullRaces",
+      "series": "Formula 1",
+      "title": "1st Practice F1 2026 Azerbaijan Grand Prix Full Race Replay September 24 2026 Formula 1",
+      "event_year": 2026,
+      "event_date": "2026-09-24",
+      "last_modified": "2026-09-24T14:36:11+03:00",
+      "page_url": "https://fullraces.com/1st-practice-f1-2026-azerbaijan-grand-prix-full-race-replay-september-24-2026-formula-1",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "FullRaces",
