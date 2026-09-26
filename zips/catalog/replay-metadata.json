@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T23:19:33.343292Z",
+  "generated_at": "2026-09-26T05:05:26.755592Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,74 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-25T23:19:33.343292Z",
+      "checked_at": "2026-09-26T05:05:26.755592Z",
       "records": 120
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-09-25T23:19:33.343292Z",
+      "checked_at": "2026-09-26T05:05:26.755592Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-25T23:19:33.343292Z",
+      "checked_at": "2026-09-26T05:05:26.755592Z",
       "records": 906
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-25T23:19:33.343292Z",
+      "checked_at": "2026-09-26T05:05:26.755592Z",
       "records": 41
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-25T23:19:33.343292Z",
+      "checked_at": "2026-09-26T05:05:26.755592Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-25T23:19:33.343292Z",
+      "checked_at": "2026-09-26T05:05:26.755592Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-25T23:19:33.343292Z",
+      "checked_at": "2026-09-26T05:05:26.755592Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "NontonX Live",
+      "series": "WorldSBK",
+      "title": "WorldSBK Live",
+      "event_year": 2026,
+      "event_date": "2026-09-26",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-09-26",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-09-26",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
@@ -115,39 +148,6 @@
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-2026-f1-show",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "WorldSBK",
-      "title": "WorldSBK Live",
-      "event_year": 2026,
-      "event_date": "2026-09-25",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-09-25",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-09-25",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
