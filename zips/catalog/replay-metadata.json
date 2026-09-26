@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-26T16:27:38.805398Z",
+  "generated_at": "2026-09-26T21:14:39.952379Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-26T16:27:38.805398Z",
+      "checked_at": "2026-09-26T21:14:39.952379Z",
       "records": 120
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-09-26T16:27:38.805398Z",
+      "checked_at": "2026-09-26T21:14:39.952379Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-26T16:27:38.805398Z",
-      "records": 919
+      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "records": 922
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-26T16:27:38.805398Z",
+      "checked_at": "2026-09-26T21:14:39.952379Z",
       "records": 40
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-26T16:27:38.805398Z",
+      "checked_at": "2026-09-26T21:14:39.952379Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-26T16:27:38.805398Z",
+      "checked_at": "2026-09-26T21:14:39.952379Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-26T16:27:38.805398Z",
+      "checked_at": "2026-09-26T21:14:39.952379Z",
       "records": 0
     }
   },
@@ -92,6 +92,20 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2026 - Teds Race Notebook",
+      "event_year": 2026,
+      "event_date": "2026-09-26",
+      "event_date_label": "24 SEP - 26 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-2026-teds-race-notebook",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "OvertakeFans",
@@ -138,6 +152,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2026 - Pre-Race Buildup",
+      "event_year": 2026,
+      "event_date": "2026-09-26",
+      "event_date_label": "24 SEP - 26 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-2026-pre-race-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Azerbaijan Grand Prix 2026 - Pre-Qualifying Buildup",
       "event_year": 2026,
       "event_date": "2026-09-26",
@@ -146,6 +174,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-2026-pre-qualifying-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2026 - Practice 3",
+      "event_year": 2026,
+      "event_date": "2026-09-26",
+      "event_date_label": "24 SEP - 26 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-formula-1-practice-3",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -174,6 +216,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2026 - Post-Race Analysis",
+      "event_year": 2026,
+      "event_date": "2026-09-26",
+      "event_date_label": "24 SEP - 26 SEP 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-2026-post-race-analysis",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -6013,20 +6069,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Azerbaijan Grand Prix 2026 - Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-09-26",
-      "event_date_label": "24 SEP - 26 SEP 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-formula-1-practice-3",
       "state": "scheduled",
       "health": "indexed"
     },
