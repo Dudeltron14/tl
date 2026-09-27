@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-26T21:14:39.952379Z",
+  "generated_at": "2026-09-27T00:40:25.076354Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "checked_at": "2026-09-27T00:40:25.076354Z",
       "records": 120
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "checked_at": "2026-09-27T00:40:25.076354Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "checked_at": "2026-09-27T00:40:25.076354Z",
       "records": 922
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "checked_at": "2026-09-27T00:40:25.076354Z",
       "records": 40
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "checked_at": "2026-09-27T00:40:25.076354Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "checked_at": "2026-09-27T00:40:25.076354Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-09-26T21:14:39.952379Z",
+      "checked_at": "2026-09-27T00:40:25.076354Z",
       "records": 0
     }
   },
@@ -65,7 +65,7 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-09-26",
+      "event_date": "2026-09-27",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -76,7 +76,7 @@
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-09-26",
+      "event_date": "2026-09-27",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -87,7 +87,7 @@
       "series": "Formula 1",
       "title": "Formula 1 Live",
       "event_year": 2026,
-      "event_date": "2026-09-26",
+      "event_date": "2026-09-27",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -6041,7 +6041,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-weekend-warm-up",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6055,7 +6055,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-pre-race-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6069,7 +6069,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6083,7 +6083,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-post-race-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6097,7 +6097,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-azerbaijan-grand-prix-post-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
