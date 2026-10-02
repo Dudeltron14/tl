@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T23:55:23.055739Z",
+  "generated_at": "2026-10-02T05:45:52.677956Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,47 +25,61 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-01T23:55:23.055739Z",
+      "checked_at": "2026-10-02T05:45:52.677956Z",
       "records": 120
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-01T23:55:23.055739Z",
+      "checked_at": "2026-10-02T05:45:52.677956Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-01T23:55:23.055739Z",
-      "records": 922
+      "checked_at": "2026-10-02T05:45:52.677956Z",
+      "records": 921
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-01T23:55:23.055739Z",
-      "records": 40
+      "checked_at": "2026-10-02T05:45:52.677956Z",
+      "records": 39
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-01T23:55:23.055739Z",
+      "checked_at": "2026-10-02T05:45:52.677956Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-01T23:55:23.055739Z",
+      "checked_at": "2026-10-02T05:45:52.677956Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-01T23:55:23.055739Z",
+      "checked_at": "2026-10-02T05:45:52.677956Z",
       "records": 0
     }
   },
   "items": [
     {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Singapore Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
       "provider": "NontonX Live",
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-10-01",
+      "event_date": "2026-10-02",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -76,7 +90,7 @@
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-10-01",
+      "event_date": "2026-10-02",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -87,7 +101,7 @@
       "series": "Formula 1",
       "title": "Formula 1 Live",
       "event_year": 2026,
-      "event_date": "2026-10-01",
+      "event_date": "2026-10-02",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -5753,20 +5767,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Singapore Grand Prix 2026 - Weekend Warm-Up",
-      "event_year": 2026,
-      "event_date": "2026-10-11",
-      "event_date_label": "9 OCT - 11 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-weekend-warm-up",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Singapore Grand Prix 2026 - Race",
       "event_year": 2026,
       "event_date": "2026-10-11",
@@ -5845,20 +5845,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-formula-1-practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Singapore Grand Prix 2026 - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-10-11",
-      "event_date_label": "9 OCT - 11 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-formula-1-practice-1",
       "state": "scheduled",
       "health": "indexed"
     },
@@ -6013,20 +5999,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/16/#practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Bahrain Grand Prix in Malaysia - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-10-02",
-      "event_time": "2026-10-02T04:30:00Z",
-      "event_date_label": "02 Oct 2026 04:30 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/16/#practice-1",
       "state": "scheduled",
       "health": "indexed"
     },
