@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-03T05:23:39.187270Z",
+  "generated_at": "2026-10-03T11:44:32.677275Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,55 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-03T05:23:39.187270Z",
+      "checked_at": "2026-10-03T11:44:32.677275Z",
       "records": 120
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-03T05:23:39.187270Z",
+      "checked_at": "2026-10-03T11:44:32.677275Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-03T05:23:39.187270Z",
+      "checked_at": "2026-10-03T11:44:32.677275Z",
       "records": 921
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-03T05:23:39.187270Z",
-      "records": 37
+      "checked_at": "2026-10-03T11:44:32.677275Z",
+      "records": 36
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-03T05:23:39.187270Z",
+      "checked_at": "2026-10-03T11:44:32.677275Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-03T05:23:39.187270Z",
+      "checked_at": "2026-10-03T11:44:32.677275Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-03T05:23:39.187270Z",
+      "checked_at": "2026-10-03T11:44:32.677275Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Bahrain Grand Prix 2026 - Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
@@ -5809,20 +5823,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Bahrain Grand Prix 2026 - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-10-11",
-      "event_date_label": "9 OCT - 11 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-formula-1-qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Bahrain Grand Prix 2026 - Pre-Race Show",
       "event_year": 2026,
       "event_date": "2026-10-11",
@@ -5957,20 +5957,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/16/#race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Bahrain Grand Prix in Malaysia - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-10-03",
-      "event_time": "2026-10-03T08:00:00Z",
-      "event_date_label": "03 Oct 2026 08:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/16/#qualifying",
       "state": "scheduled",
       "health": "indexed"
     },
