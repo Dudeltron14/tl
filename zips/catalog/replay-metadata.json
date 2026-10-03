@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-03T11:44:32.677275Z",
+  "generated_at": "2026-10-03T16:26:17.167453Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-03T11:44:32.677275Z",
+      "checked_at": "2026-10-03T16:26:17.167453Z",
       "records": 120
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-03T11:44:32.677275Z",
+      "checked_at": "2026-10-03T16:26:17.167453Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-03T11:44:32.677275Z",
-      "records": 921
+      "checked_at": "2026-10-03T16:26:17.167453Z",
+      "records": 925
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-03T11:44:32.677275Z",
+      "checked_at": "2026-10-03T16:26:17.167453Z",
       "records": 36
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-03T11:44:32.677275Z",
+      "checked_at": "2026-10-03T16:26:17.167453Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-03T11:44:32.677275Z",
+      "checked_at": "2026-10-03T16:26:17.167453Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-03T11:44:32.677275Z",
+      "checked_at": "2026-10-03T16:26:17.167453Z",
       "records": 0
     }
   },
@@ -71,6 +71,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Bahrain Grand Prix 2026 - Pre-Qualifying Buildup",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-2026-pre-qualifying-buildup",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -99,6 +113,48 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Bahrain Grand Prix 2026 - Post-Qualifying Analysis",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-2026-post-qualifying-analysis",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Bahrain Grand Prix 2026 - Paddock Uncut",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-2026-paddock-uncut",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Bahrain Grand Prix 2026 - F1 Show",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-bahrain-grand-prix-2026-f1-show",
       "state": "replay_available",
       "health": "indexed"
     },
