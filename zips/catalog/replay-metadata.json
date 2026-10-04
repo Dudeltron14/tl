@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T00:41:38.896258Z",
+  "generated_at": "2026-10-04T08:30:10.064792Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-04T00:41:38.896258Z",
+      "checked_at": "2026-10-04T08:30:10.064792Z",
       "records": 120
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-04T00:41:38.896258Z",
+      "checked_at": "2026-10-04T08:30:10.064792Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-04T00:41:38.896258Z",
+      "checked_at": "2026-10-04T08:30:10.064792Z",
       "records": 925
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-04T00:41:38.896258Z",
-      "records": 36
+      "checked_at": "2026-10-04T08:30:10.064792Z",
+      "records": 35
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-04T00:41:38.896258Z",
+      "checked_at": "2026-10-04T08:30:10.064792Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-04T00:41:38.896258Z",
+      "checked_at": "2026-10-04T08:30:10.064792Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-04T00:41:38.896258Z",
+      "checked_at": "2026-10-04T08:30:10.064792Z",
       "records": 0
     }
   },
@@ -5999,20 +5999,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/17/#practice-1",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Bahrain Grand Prix in Malaysia - Race",
-      "event_year": 2026,
-      "event_date": "2026-10-04",
-      "event_time": "2026-10-04T07:00:00Z",
-      "event_date_label": "04 Oct 2026 07:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/16/#race",
       "state": "scheduled",
       "health": "indexed"
     },
