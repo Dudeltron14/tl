@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T05:48:16.533566Z",
+  "generated_at": "2026-10-05T14:48:56.742274Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-05T05:48:16.533566Z",
-      "records": 121
+      "checked_at": "2026-10-05T14:48:56.742274Z",
+      "records": 122
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-05T05:48:16.533566Z",
+      "checked_at": "2026-10-05T14:48:56.742274Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-05T05:48:16.533566Z",
+      "checked_at": "2026-10-05T14:48:56.742274Z",
       "records": 938
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-05T05:48:16.533566Z",
+      "checked_at": "2026-10-05T14:48:56.742274Z",
       "records": 35
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-05T05:48:16.533566Z",
+      "checked_at": "2026-10-05T14:48:56.742274Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-05T05:48:16.533566Z",
+      "checked_at": "2026-10-05T14:48:56.742274Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-05T05:48:16.533566Z",
+      "checked_at": "2026-10-05T14:48:56.742274Z",
       "records": 0
     }
   },
@@ -90,6 +90,17 @@
       "event_date": "2026-10-05",
       "last_modified": "2026-10-05T01:37:11Z",
       "page_url": "https://replay.nontonx.com/2026/10/siaran-ulang-motogp-sprint-japan-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Race Japan 2026",
+      "event_year": 2026,
+      "event_date": "2026-10-05",
+      "last_modified": "2026-10-05T07:23:14Z",
+      "page_url": "https://replay.nontonx.com/2026/10/siaran-ulang-motogp-race-japan-2026.html",
       "state": "replay_available",
       "health": "indexed"
     },
