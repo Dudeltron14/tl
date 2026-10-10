@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T05:58:47.164099Z",
+  "generated_at": "2026-10-10T12:38:43.336057Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-10T05:58:47.164099Z",
-      "records": 122
+      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "records": 123
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-10T05:58:47.164099Z",
+      "checked_at": "2026-10-10T12:38:43.336057Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-10T05:58:47.164099Z",
+      "checked_at": "2026-10-10T12:38:43.336057Z",
       "records": 942
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-10T05:58:47.164099Z",
-      "records": 33
+      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "records": 32
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-10T05:58:47.164099Z",
+      "checked_at": "2026-10-10T12:38:43.336057Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-10T05:58:47.164099Z",
+      "checked_at": "2026-10-10T12:38:43.336057Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-10T05:58:47.164099Z",
+      "checked_at": "2026-10-10T12:38:43.336057Z",
       "records": 0
     }
   },
@@ -109,6 +109,17 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Sprint Indonesia",
+      "event_year": 2026,
+      "event_date": "2026-10-10",
+      "last_modified": "2026-10-10T11:35:41Z",
+      "page_url": "https://replay.nontonx.com/2026/10/siaran-ulang-motogp-sprint-indonesia.html",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "NontonX Live",
@@ -6133,20 +6144,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/17/#race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Singapore Grand Prix - Sprint",
-      "event_year": 2026,
-      "event_date": "2026-10-10",
-      "event_time": "2026-10-10T09:00:00Z",
-      "event_date_label": "10 Oct 2026 09:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/17/#sprint",
       "state": "scheduled",
       "health": "indexed"
     },
