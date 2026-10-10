@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T12:38:43.336057Z",
+  "generated_at": "2026-10-10T18:40:15.797291Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "checked_at": "2026-10-10T18:40:15.797291Z",
       "records": 123
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "checked_at": "2026-10-10T18:40:15.797291Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "checked_at": "2026-10-10T18:40:15.797291Z",
       "records": 942
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-10T12:38:43.336057Z",
-      "records": 32
+      "checked_at": "2026-10-10T18:40:15.797291Z",
+      "records": 31
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "checked_at": "2026-10-10T18:40:15.797291Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "checked_at": "2026-10-10T18:40:15.797291Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-10T12:38:43.336057Z",
+      "checked_at": "2026-10-10T18:40:15.797291Z",
       "records": 0
     }
   },
@@ -71,6 +71,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singapore-grand-prix-sprint-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Singarope Grand Prix 2026 - Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singapore-grand-prix-formula-1-qualifying",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -6010,20 +6024,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Singarope Grand Prix 2026 - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-10-11",
-      "event_date_label": "9 OCT - 11 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singapore-grand-prix-formula-1-qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Singarope Grand Prix 2026 - Pre-Sprint Show",
       "event_year": 2026,
       "event_date": "2026-10-11",
@@ -6144,20 +6144,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/17/#race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Singapore Grand Prix - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-10-10",
-      "event_time": "2026-10-10T13:00:00Z",
-      "event_date_label": "10 Oct 2026 13:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/17/#qualifying",
       "state": "scheduled",
       "health": "indexed"
     },
