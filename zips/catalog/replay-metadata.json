@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T23:36:20.219040Z",
+  "generated_at": "2026-10-11T05:54:04.551391Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,52 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-10T23:36:20.219040Z",
+      "checked_at": "2026-10-11T05:54:04.551391Z",
       "records": 123
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-10T23:36:20.219040Z",
+      "checked_at": "2026-10-11T05:54:04.551391Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-10T23:36:20.219040Z",
+      "checked_at": "2026-10-11T05:54:04.551391Z",
       "records": 948
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-10T23:36:20.219040Z",
+      "checked_at": "2026-10-11T05:54:04.551391Z",
       "records": 31
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-10T23:36:20.219040Z",
+      "checked_at": "2026-10-11T05:54:04.551391Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-10T23:36:20.219040Z",
+      "checked_at": "2026-10-11T05:54:04.551391Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-10T23:36:20.219040Z",
+      "checked_at": "2026-10-11T05:54:04.551391Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "NontonX Live",
+      "series": "WorldSBK",
+      "title": "WorldSBK Live",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
@@ -188,25 +199,25 @@
     },
     {
       "provider": "NontonX Live",
-      "series": "WorldSBK",
-      "title": "WorldSBK Live",
-      "event_year": 2026,
-      "event_date": "2026-10-10",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/wsbkplayer1"
-    },
-    {
-      "provider": "NontonX Live",
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-10-10",
+      "event_date": "2026-10-11",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
@@ -218,17 +229,6 @@
       "page_url": "https://replay.nontonx.com/2026/10/siaran-ulang-motogp-sprint-indonesia.html",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-10-10",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
