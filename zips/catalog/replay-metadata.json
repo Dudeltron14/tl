@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T12:57:51.921999Z",
+  "generated_at": "2026-10-11T18:57:55.069850Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-11T12:57:51.921999Z",
-      "records": 123
+      "checked_at": "2026-10-11T18:57:55.069850Z",
+      "records": 124
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-11T12:57:51.921999Z",
+      "checked_at": "2026-10-11T18:57:55.069850Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-11T12:57:51.921999Z",
-      "records": 942
+      "checked_at": "2026-10-11T18:57:55.069850Z",
+      "records": 944
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-11T12:57:51.921999Z",
+      "checked_at": "2026-10-11T18:57:55.069850Z",
       "records": 30
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-11T12:57:51.921999Z",
+      "checked_at": "2026-10-11T18:57:55.069850Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-11T12:57:51.921999Z",
+      "checked_at": "2026-10-11T18:57:55.069850Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-11T12:57:51.921999Z",
+      "checked_at": "2026-10-11T18:57:55.069850Z",
       "records": 0
     }
   },
@@ -102,6 +102,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Singarope Grand Prix 2026 - Race",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singapore-grand-prix-formula-1-race",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Singarope Grand Prix 2026 - Qualifying",
       "event_year": 2026,
       "event_date": "2026-10-11",
@@ -138,6 +152,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singarope-grand-prix-2026-pre-sprint-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Singarope Grand Prix 2026 - Pre-Race Buildup",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singarope-grand-prix-2026-pre-race-buildup",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -200,6 +228,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Singarope Grand Prix 2026 - Post-Race Analysis",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "event_date_label": "9 OCT - 11 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singarope-grand-prix-2026-post-race-analysis",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Singarope Grand Prix 2026 - Post-Qualifying Analysis",
       "event_year": 2026,
       "event_date": "2026-10-11",
@@ -249,6 +291,17 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Race Indonesia 2026",
+      "event_year": 2026,
+      "event_date": "2026-10-11",
+      "last_modified": "2026-10-11T14:56:18Z",
+      "page_url": "https://replay.nontonx.com/2026/10/siaran-ulang-motogp-race-indonesia-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "NontonX Live",
@@ -6088,20 +6141,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/18/#practice-1",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Singarope Grand Prix 2026 - Race",
-      "event_year": 2026,
-      "event_date": "2026-10-11",
-      "event_date_label": "9 OCT - 11 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-singapore-grand-prix-formula-1-race",
       "state": "scheduled",
       "health": "indexed"
     },
