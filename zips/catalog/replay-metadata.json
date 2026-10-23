@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T18:24:50.741675Z",
+  "generated_at": "2026-10-23T23:11:27.932890Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-23T18:24:50.741675Z",
+      "checked_at": "2026-10-23T23:11:27.932890Z",
       "records": 124
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-23T18:24:50.741675Z",
+      "checked_at": "2026-10-23T23:11:27.932890Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-23T18:24:50.741675Z",
+      "checked_at": "2026-10-23T23:11:27.932890Z",
       "records": 954
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-23T18:24:50.741675Z",
-      "records": 29
+      "checked_at": "2026-10-23T23:11:27.932890Z",
+      "records": 28
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-23T18:24:50.741675Z",
+      "checked_at": "2026-10-23T23:11:27.932890Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-23T18:24:50.741675Z",
+      "checked_at": "2026-10-23T23:11:27.932890Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-23T18:24:50.741675Z",
+      "checked_at": "2026-10-23T23:11:27.932890Z",
       "records": 0
     }
   },
@@ -6253,20 +6253,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/18/#practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "United States Grand Prix - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-10-23",
-      "event_time": "2026-10-23T21:00:00Z",
-      "event_date_label": "23 Oct 2026 21:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/18/#practice-2",
       "state": "scheduled",
       "health": "indexed"
     },
