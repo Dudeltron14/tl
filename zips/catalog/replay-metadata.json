@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T18:49:25.559971Z",
+  "generated_at": "2026-10-24T22:31:41.823002Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-24T18:49:25.559971Z",
+      "checked_at": "2026-10-24T22:31:41.823002Z",
       "records": 125
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-24T18:49:25.559971Z",
+      "checked_at": "2026-10-24T22:31:41.823002Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-24T18:49:25.559971Z",
+      "checked_at": "2026-10-24T22:31:41.823002Z",
       "records": 954
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-24T18:49:25.559971Z",
-      "records": 27
+      "checked_at": "2026-10-24T22:31:41.823002Z",
+      "records": 26
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-24T18:49:25.559971Z",
+      "checked_at": "2026-10-24T22:31:41.823002Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-24T18:49:25.559971Z",
+      "checked_at": "2026-10-24T22:31:41.823002Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-24T18:49:25.559971Z",
+      "checked_at": "2026-10-24T22:31:41.823002Z",
       "records": 0
     }
   },
@@ -6236,20 +6236,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/18/#race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "United States Grand Prix - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-10-24",
-      "event_time": "2026-10-24T21:00:00Z",
-      "event_date_label": "24 Oct 2026 21:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/18/#qualifying",
       "state": "scheduled",
       "health": "indexed"
     },
