@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T11:39:07.761761Z",
+  "generated_at": "2026-10-25T16:28:54.915512Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-25T11:39:07.761761Z",
+      "checked_at": "2026-10-25T16:28:54.915512Z",
       "records": 125
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-25T11:39:07.761761Z",
+      "checked_at": "2026-10-25T16:28:54.915512Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-25T11:39:07.761761Z",
-      "records": 954
+      "checked_at": "2026-10-25T16:28:54.915512Z",
+      "records": 959
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-25T11:39:07.761761Z",
+      "checked_at": "2026-10-25T16:28:54.915512Z",
       "records": 26
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-25T11:39:07.761761Z",
+      "checked_at": "2026-10-25T16:28:54.915512Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-25T11:39:07.761761Z",
+      "checked_at": "2026-10-25T16:28:54.915512Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-25T11:39:07.761761Z",
+      "checked_at": "2026-10-25T16:28:54.915512Z",
       "records": 0
     }
   },
@@ -70,6 +70,132 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Teds Qualifying Notebook",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-2026-teds-qualifying-notebook",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Pre-Qualifying Buildup",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-2026-pre-qualifying-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Practice 3",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-practice-3",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Practice 2",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-practice-2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Post-Qualifying Analysis",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-2026-post-qualifying-analysis",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Paddock Uncut",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-2026-paddock-uncut",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - F1 Show",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-2026-f1-show",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "NontonX Live",
@@ -6116,20 +6242,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "United States Grand Prix 2026 - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-10-25",
-      "event_date_label": "23 OCT - 25 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "United States Grand Prix 2026 - Pre-Race Show",
       "event_year": 2026,
       "event_date": "2026-10-25",
@@ -6152,48 +6264,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "United States Grand Prix 2026 - Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-10-25",
-      "event_date_label": "23 OCT - 25 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "United States Grand Prix 2026 - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-10-25",
-      "event_date_label": "23 OCT - 25 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "United States Grand Prix 2026 - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-10-25",
-      "event_date_label": "23 OCT - 25 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-practice-1",
       "state": "scheduled",
       "health": "indexed"
     },
