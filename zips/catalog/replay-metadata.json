@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T20:55:27.930504Z",
+  "generated_at": "2026-10-26T00:25:53.420468Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-25T20:55:27.930504Z",
+      "checked_at": "2026-10-26T00:25:53.420468Z",
       "records": 125
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-25T20:55:27.930504Z",
+      "checked_at": "2026-10-26T00:25:53.420468Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-25T20:55:27.930504Z",
+      "checked_at": "2026-10-26T00:25:53.420468Z",
       "records": 959
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-25T20:55:27.930504Z",
+      "checked_at": "2026-10-26T00:25:53.420468Z",
       "records": 25
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-25T20:55:27.930504Z",
+      "checked_at": "2026-10-26T00:25:53.420468Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-25T20:55:27.930504Z",
+      "checked_at": "2026-10-26T00:25:53.420468Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-25T20:55:27.930504Z",
+      "checked_at": "2026-10-26T00:25:53.420468Z",
       "records": 0
     }
   },
@@ -65,11 +65,33 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-10-25",
+      "event_date": "2026-10-26",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/wsbkplayer1"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "MotoGP",
+      "title": "MotoGP Live",
+      "event_year": 2026,
+      "event_date": "2026-10-26",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-10-26",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "OvertakeFans",
@@ -82,6 +104,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-2026-teds-qualifying-notebook",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "United States Grand Prix 2026 - Race",
+      "event_year": 2026,
+      "event_date": "2026-10-25",
+      "event_date_label": "23 OCT - 25 OCT 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-race",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -196,28 +232,6 @@
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-2026-f1-show",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "MotoGP",
-      "title": "MotoGP Live",
-      "event_year": 2026,
-      "event_date": "2026-10-25",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/mgpplayer2"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-10-25",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
@@ -6222,21 +6236,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-weekend-warm-up",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "United States Grand Prix 2026 - Race",
-      "event_year": 2026,
-      "event_date": "2026-10-25",
-      "event_date_label": "23 OCT - 25 OCT 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-formula-1-race",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6250,7 +6250,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-pre-race-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6264,7 +6264,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6278,7 +6278,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-post-race-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6292,7 +6292,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-post-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
