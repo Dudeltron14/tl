@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T13:03:01.058527Z",
+  "generated_at": "2026-10-30T19:26:34.329350Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-30T13:03:01.058527Z",
+      "checked_at": "2026-10-30T19:26:34.329350Z",
       "records": 125
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-30T13:03:01.058527Z",
+      "checked_at": "2026-10-30T19:26:34.329350Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-30T13:03:01.058527Z",
+      "checked_at": "2026-10-30T19:26:34.329350Z",
       "records": 972
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-30T13:03:01.058527Z",
-      "records": 25
+      "checked_at": "2026-10-30T19:26:34.329350Z",
+      "records": 24
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-30T13:03:01.058527Z",
+      "checked_at": "2026-10-30T19:26:34.329350Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-30T13:03:01.058527Z",
+      "checked_at": "2026-10-30T19:26:34.329350Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-30T13:03:01.058527Z",
+      "checked_at": "2026-10-30T19:26:34.329350Z",
       "records": 0
     }
   },
@@ -6390,20 +6390,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/19/#practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Mexico City Grand Prix - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-10-30",
-      "event_time": "2026-10-30T18:30:00Z",
-      "event_date_label": "30 Oct 2026 18:30 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/19/#practice-1",
       "state": "scheduled",
       "health": "indexed"
     },
