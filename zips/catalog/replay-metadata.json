@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T12:41:00.655968Z",
+  "generated_at": "2026-10-31T18:36:28.050123Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-31T12:41:00.655968Z",
-      "records": 125
+      "checked_at": "2026-10-31T18:36:28.050123Z",
+      "records": 126
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-31T12:41:00.655968Z",
+      "checked_at": "2026-10-31T18:36:28.050123Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-31T12:41:00.655968Z",
+      "checked_at": "2026-10-31T18:36:28.050123Z",
       "records": 973
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-31T12:41:00.655968Z",
-      "records": 23
+      "checked_at": "2026-10-31T18:36:28.050123Z",
+      "records": 22
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-31T12:41:00.655968Z",
+      "checked_at": "2026-10-31T18:36:28.050123Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-31T12:41:00.655968Z",
+      "checked_at": "2026-10-31T18:36:28.050123Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-31T12:41:00.655968Z",
+      "checked_at": "2026-10-31T18:36:28.050123Z",
       "records": 0
     }
   },
@@ -123,6 +123,17 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Sprint Malaysia 2026",
+      "event_year": 2026,
+      "event_date": "2026-10-31",
+      "last_modified": "2026-10-31T13:53:21Z",
+      "page_url": "https://replay.nontonx.com/2026/10/siaran-ulang-motogp-sprint-malaysia-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "NontonX Live",
@@ -6376,20 +6387,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/19/#qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Mexico City Grand Prix - Practice 3",
-      "event_year": 2026,
-      "event_date": "2026-10-31",
-      "event_time": "2026-10-31T17:30:00Z",
-      "event_date_label": "31 Oct 2026 17:30 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/19/#practice-3",
       "state": "scheduled",
       "health": "indexed"
     },
