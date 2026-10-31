@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T05:51:37.289239Z",
+  "generated_at": "2026-10-31T12:41:00.655968Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,55 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-10-31T05:51:37.289239Z",
+      "checked_at": "2026-10-31T12:41:00.655968Z",
       "records": 125
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-10-31T05:51:37.289239Z",
+      "checked_at": "2026-10-31T12:41:00.655968Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-10-31T05:51:37.289239Z",
-      "records": 972
+      "checked_at": "2026-10-31T12:41:00.655968Z",
+      "records": 973
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-10-31T05:51:37.289239Z",
+      "checked_at": "2026-10-31T12:41:00.655968Z",
       "records": 23
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-10-31T05:51:37.289239Z",
+      "checked_at": "2026-10-31T12:41:00.655968Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-10-31T05:51:37.289239Z",
+      "checked_at": "2026-10-31T12:41:00.655968Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-10-31T05:51:37.289239Z",
+      "checked_at": "2026-10-31T12:41:00.655968Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - Practice 2",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-formula-1-practice-2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
@@ -71,6 +85,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - F1 Show",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-2026-f1-show",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -6292,20 +6320,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-formula-1-practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Mexico City Grand Prix 2026 - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-11-01",
-      "event_date_label": "30 OCT - 1 NOV 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-formula-1-practice-2",
       "state": "scheduled",
       "health": "indexed"
     },
