@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T18:58:11.776287Z",
+  "generated_at": "2026-11-01T23:39:39.152542Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-01T18:58:11.776287Z",
+      "checked_at": "2026-11-01T23:39:39.152542Z",
       "records": 127
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-01T18:58:11.776287Z",
+      "checked_at": "2026-11-01T23:39:39.152542Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-01T18:58:11.776287Z",
+      "checked_at": "2026-11-01T23:39:39.152542Z",
       "records": 973
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-01T18:58:11.776287Z",
-      "records": 21
+      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "records": 20
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-01T18:58:11.776287Z",
+      "checked_at": "2026-11-01T23:39:39.152542Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-01T18:58:11.776287Z",
+      "checked_at": "2026-11-01T23:39:39.152542Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-01T18:58:11.776287Z",
+      "checked_at": "2026-11-01T23:39:39.152542Z",
       "records": 0
     }
   },
@@ -6370,20 +6370,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-grand-prix-post-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Mexico City Grand Prix - Race",
-      "event_year": 2026,
-      "event_date": "2026-11-01",
-      "event_time": "2026-11-01T20:00:00Z",
-      "event_date_label": "01 Nov 2026 20:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/19/#race",
       "state": "scheduled",
       "health": "indexed"
     },
