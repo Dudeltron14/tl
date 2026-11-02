@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T23:39:39.152542Z",
+  "generated_at": "2026-11-02T06:17:30.756552Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "checked_at": "2026-11-02T06:17:30.756552Z",
       "records": 127
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "checked_at": "2026-11-02T06:17:30.756552Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "checked_at": "2026-11-02T06:17:30.756552Z",
       "records": 973
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "checked_at": "2026-11-02T06:17:30.756552Z",
       "records": 20
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "checked_at": "2026-11-02T06:17:30.756552Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "checked_at": "2026-11-02T06:17:30.756552Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-01T23:39:39.152542Z",
+      "checked_at": "2026-11-02T06:17:30.756552Z",
       "records": 0
     }
   },
@@ -65,7 +65,7 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-11-01",
+      "event_date": "2026-11-02",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -76,11 +76,22 @@
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-11-01",
+      "event_date": "2026-11-02",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX Live",
+      "series": "Formula 1",
+      "title": "Formula 1 Live",
+      "event_year": 2026,
+      "event_date": "2026-11-02",
+      "event_date_label": "Live channel; event availability varies",
+      "last_modified": "",
+      "state": "live",
+      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "OvertakeFans",
@@ -148,17 +159,6 @@
       "page_url": "https://replay.nontonx.com/2026/11/siaran-ulang-motogp-race-malaysia-2026.html",
       "state": "replay_available",
       "health": "indexed"
-    },
-    {
-      "provider": "NontonX Live",
-      "series": "Formula 1",
-      "title": "Formula 1 Live",
-      "event_year": 2026,
-      "event_date": "2026-11-01",
-      "event_date_label": "Live channel; event availability varies",
-      "last_modified": "",
-      "state": "live",
-      "page_url": "https://esp32.nontonx.com/formulaplayer1"
     },
     {
       "provider": "NontonX",
@@ -6286,7 +6286,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-weekend-warm-up",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6300,7 +6300,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-formula-1-race",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6314,7 +6314,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-grand-prix-pre-race-show-mexico",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6328,7 +6328,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-grand-prix-pre-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6342,7 +6342,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-formula-1-practice-3",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6356,7 +6356,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-grand-prix-post-race-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
@@ -6370,7 +6370,7 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-grand-prix-post-qualifying-show",
-      "state": "scheduled",
+      "state": "unavailable",
       "health": "indexed"
     },
     {
