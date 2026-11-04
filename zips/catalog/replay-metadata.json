@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T16:22:43.552587Z",
+  "generated_at": "2026-11-04T23:44:06.389749Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-04T16:22:43.552587Z",
+      "checked_at": "2026-11-04T23:44:06.389749Z",
       "records": 127
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-04T16:22:43.552587Z",
+      "checked_at": "2026-11-04T23:44:06.389749Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-04T16:22:43.552587Z",
-      "records": 983
+      "checked_at": "2026-11-04T23:44:06.389749Z",
+      "records": 989
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-04T16:22:43.552587Z",
+      "checked_at": "2026-11-04T23:44:06.389749Z",
       "records": 20
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-04T16:22:43.552587Z",
+      "checked_at": "2026-11-04T23:44:06.389749Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-04T16:22:43.552587Z",
+      "checked_at": "2026-11-04T23:44:06.389749Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-04T16:22:43.552587Z",
+      "checked_at": "2026-11-04T23:44:06.389749Z",
       "records": 0
     }
   },
@@ -96,6 +96,34 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - Teds Race Notebook",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-2026-teds-race-notebook",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - Teds Qualifying Notebook",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-2026-teds-qualifying-notebook",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Mexico City Grand Prix 2026 - Race",
       "event_year": 2026,
       "event_date": "2026-11-01",
@@ -124,6 +152,34 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - Pre-Race Buildup",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-2026-pre-race-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - Pre-Qualifying Buildup",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-2026-pre-qualifying-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Mexico City Grand Prix 2026 - Practice 2",
       "event_year": 2026,
       "event_date": "2026-11-01",
@@ -146,6 +202,34 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - Post-Race Analysis",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-2026-post-race-analysis",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Mexico City Grand Prix 2026 - Post-Qualifying Analysis",
+      "event_year": 2026,
+      "event_date": "2026-11-01",
+      "event_date_label": "30 OCT - 1 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(21).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-mexico-city-grand-prix-2026-post-qualifying-analysis",
       "state": "replay_available",
       "health": "indexed"
     },
