@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T01:28:15.868797Z",
+  "generated_at": "2026-11-08T09:04:23.867440Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-08T01:28:15.868797Z",
-      "records": 127
+      "checked_at": "2026-11-08T09:04:23.867440Z",
+      "records": 128
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-08T01:28:15.868797Z",
+      "checked_at": "2026-11-08T09:04:23.867440Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-08T01:28:15.868797Z",
+      "checked_at": "2026-11-08T09:04:23.867440Z",
       "records": 989
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-08T01:28:15.868797Z",
+      "checked_at": "2026-11-08T09:04:23.867440Z",
       "records": 16
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-08T01:28:15.868797Z",
+      "checked_at": "2026-11-08T09:04:23.867440Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-08T01:28:15.868797Z",
+      "checked_at": "2026-11-08T09:04:23.867440Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-08T01:28:15.868797Z",
+      "checked_at": "2026-11-08T09:04:23.867440Z",
       "records": 0
     }
   },
@@ -123,6 +123,17 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Sprint Qatar 2026",
+      "event_year": 2026,
+      "event_date": "2026-11-08",
+      "last_modified": "2026-11-08T05:28:35Z",
+      "page_url": "https://replay.nontonx.com/2026/11/siaran-ulang-motogp-sprint-qatar-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "NontonX Live",
