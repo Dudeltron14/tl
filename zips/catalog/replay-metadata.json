@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T01:45:08.423488Z",
+  "generated_at": "2026-11-09T09:52:52.784750Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-09T01:45:08.423488Z",
+      "checked_at": "2026-11-09T09:52:52.784750Z",
       "records": 128
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-09T01:45:08.423488Z",
+      "checked_at": "2026-11-09T09:52:52.784750Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-09T01:45:08.423488Z",
-      "records": 994
+      "checked_at": "2026-11-09T09:52:52.784750Z",
+      "records": 998
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-09T01:45:08.423488Z",
+      "checked_at": "2026-11-09T09:52:52.784750Z",
       "records": 15
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-09T01:45:08.423488Z",
+      "checked_at": "2026-11-09T09:52:52.784750Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-09T01:45:08.423488Z",
+      "checked_at": "2026-11-09T09:52:52.784750Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-09T01:45:08.423488Z",
+      "checked_at": "2026-11-09T09:52:52.784750Z",
       "records": 0
     }
   },
@@ -96,6 +96,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "S\u00e3o Paulo Grand Prix 2026 - Teds Race Notebook",
+      "event_year": 2026,
+      "event_date": "2026-11-08",
+      "event_date_label": "6 NOV - 8 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(22).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-so-paulo-grand-prix-2026-teds-race-notebook",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "S\u00e3o Paulo Grand Prix 2026 - Teds Qualifying Notebook",
       "event_year": 2026,
       "event_date": "2026-11-08",
@@ -132,6 +146,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(22).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-so-paulo-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "S\u00e3o Paulo Grand Prix 2026 - Pre-Race Buildup",
+      "event_year": 2026,
+      "event_date": "2026-11-08",
+      "event_date_label": "6 NOV - 8 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(22).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-so-paulo-grand-prix-2026-pre-race-buildup",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -194,6 +222,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "S\u00e3o Paulo Grand Prix 2026 - Post-Race Analysis",
+      "event_year": 2026,
+      "event_date": "2026-11-08",
+      "event_date_label": "6 NOV - 8 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(22).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-so-paulo-grand-prix-2026-post-race-analysis",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "S\u00e3o Paulo Grand Prix 2026 - Post-Qualifying Analysis",
       "event_year": 2026,
       "event_date": "2026-11-08",
@@ -216,6 +258,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(22).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-so-paulo-grand-prix-2026-paddock-uncut",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "S\u00e3o Paulo Grand Prix 2026 - F1 Show",
+      "event_year": 2026,
+      "event_date": "2026-11-08",
+      "event_date_label": "6 NOV - 8 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(22).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-so-paulo-grand-prix-2026-f1-show",
       "state": "replay_available",
       "health": "indexed"
     },
