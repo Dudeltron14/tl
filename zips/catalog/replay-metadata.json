@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T12:43:13.219268Z",
+  "generated_at": "2026-11-10T20:51:48.393303Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-10T12:43:13.219268Z",
+      "checked_at": "2026-11-10T20:51:48.393303Z",
       "records": 128
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-10T12:43:13.219268Z",
+      "checked_at": "2026-11-10T20:51:48.393303Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-10T12:43:13.219268Z",
+      "checked_at": "2026-11-10T20:51:48.393303Z",
       "records": 998
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-10T12:43:13.219268Z",
+      "checked_at": "2026-11-10T20:51:48.393303Z",
       "records": 15
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-10T12:43:13.219268Z",
+      "checked_at": "2026-11-10T20:51:48.393303Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-10T12:43:13.219268Z",
+      "checked_at": "2026-11-10T20:51:48.393303Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-10T12:43:13.219268Z",
+      "checked_at": "2026-11-10T20:51:48.393303Z",
       "records": 0
     }
   },
