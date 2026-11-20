@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T03:25:00.763796Z",
+  "generated_at": "2026-11-20T13:00:09.207916Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,83 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-20T03:25:00.763796Z",
+      "checked_at": "2026-11-20T13:00:09.207916Z",
       "records": 128
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-20T03:25:00.763796Z",
+      "checked_at": "2026-11-20T13:00:09.207916Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-20T03:25:00.763796Z",
-      "records": 999
+      "checked_at": "2026-11-20T13:00:09.207916Z",
+      "records": 1000
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-20T03:25:00.763796Z",
-      "records": 14
+      "checked_at": "2026-11-20T13:00:09.207916Z",
+      "records": 13
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-20T03:25:00.763796Z",
+      "checked_at": "2026-11-20T13:00:09.207916Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-20T03:25:00.763796Z",
+      "checked_at": "2026-11-20T13:00:09.207916Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-20T03:25:00.763796Z",
+      "checked_at": "2026-11-20T13:00:09.207916Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - Practice 2",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-practice-2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - Paddock Uncut",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-2026-paddock-uncut",
+      "state": "replay_available",
+      "health": "indexed"
+    },
     {
       "provider": "NontonX Live",
       "series": "WorldSBK",
@@ -6527,34 +6569,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Las Vegas Grand Prix 2026 - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-11-21",
-      "event_date_label": "19 NOV - 21 NOV 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Las Vegas Grand Prix 2026 - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-11-21",
-      "event_date_label": "19 NOV - 21 NOV 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-practice-1",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Las Vegas Grand Prix 2026 - Post-Race Show",
       "event_year": 2026,
       "event_date": "2026-11-21",
@@ -6605,20 +6619,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/21/#practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Las Vegas Grand Prix - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-11-20",
-      "event_time": "2026-11-20T04:00:00Z",
-      "event_date_label": "20 Nov 2026 04:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/21/#practice-2",
       "state": "scheduled",
       "health": "indexed"
     },
