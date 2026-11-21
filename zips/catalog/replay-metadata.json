@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T03:15:07.530459Z",
+  "generated_at": "2026-11-21T12:44:04.421074Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-21T03:15:07.530459Z",
+      "checked_at": "2026-11-21T12:44:04.421074Z",
       "records": 128
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-21T03:15:07.530459Z",
+      "checked_at": "2026-11-21T12:44:04.421074Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-21T03:15:07.530459Z",
-      "records": 1000
+      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "records": 1016
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-21T03:15:07.530459Z",
-      "records": 12
+      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "records": 11
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-21T03:15:07.530459Z",
+      "checked_at": "2026-11-21T12:44:04.421074Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-21T03:15:07.530459Z",
+      "checked_at": "2026-11-21T12:44:04.421074Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-21T03:15:07.530459Z",
+      "checked_at": "2026-11-21T12:44:04.421074Z",
       "records": 0
     }
   },
@@ -81,6 +81,20 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "OvertakeFans",
@@ -6527,20 +6541,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Las Vegas Grand Prix 2026 - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-11-21",
-      "event_date_label": "19 NOV - 21 NOV 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-qualifying",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Las Vegas Grand Prix 2026 - Pre-Race Show",
       "event_year": 2026,
       "event_date": "2026-11-21",
@@ -6591,20 +6591,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-united-states-grand-prix-post-qualifying-show",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Las Vegas Grand Prix - Qualifying",
-      "event_year": 2026,
-      "event_date": "2026-11-21",
-      "event_time": "2026-11-21T04:00:00Z",
-      "event_date_label": "21 Nov 2026 04:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/21/#qualifying",
       "state": "scheduled",
       "health": "indexed"
     },
@@ -10200,6 +10186,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Singapore Grand Prix 2025 - Teds Race Notebook",
+      "event_year": 2025,
+      "event_date": "2025-10-05",
+      "event_date_label": "3 OCT - 5 OCT 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-singapore-grand-prix-2025-teds-race-notebook",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Singapore Grand Prix 2025 - Race",
       "event_year": 2025,
       "event_date": "2025-10-05",
@@ -10222,6 +10222,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-singapore-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Singapore Grand Prix 2025 - Pre-Race Buildup",
+      "event_year": 2025,
+      "event_date": "2025-10-05",
+      "event_date_label": "3 OCT - 5 OCT 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-singapore-grand-prix-2025-pre-race-buildup",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -10278,6 +10292,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-singapore-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Singapore Grand Prix 2025 - Post-Race Analysis",
+      "event_year": 2025,
+      "event_date": "2025-10-05",
+      "event_date_label": "3 OCT - 5 OCT 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-singapore-grand-prix-2025-post-race-analysis",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -10481,6 +10509,34 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2025 - Pre-Race Buildup",
+      "event_year": 2025,
+      "event_date": "2025-09-21",
+      "event_date_label": "19 SEP - 21 SEP 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-azerbaijan-grand-prix-2025-pre-race-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2025 - Pre-Qualifying Buildup",
+      "event_year": 2025,
+      "event_date": "2025-09-21",
+      "event_date_label": "19 SEP - 21 SEP 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-azerbaijan-grand-prix-2025-pre-qualifying-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Azerbaijan Grand Prix 2025 - Practice 3",
       "event_year": 2025,
       "event_date": "2025-09-21",
@@ -10517,6 +10573,34 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-azerbaijan-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2025 - Post-Race Analysis",
+      "event_year": 2025,
+      "event_date": "2025-09-21",
+      "event_date_label": "19 SEP - 21 SEP 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-azerbaijan-grand-prix-2025-post-race-analysis",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Azerbaijan Grand Prix 2025 - Post-Qualifying Analysis",
+      "event_year": 2025,
+      "event_date": "2025-09-21",
+      "event_date_label": "19 SEP - 21 SEP 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(9).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-azerbaijan-grand-prix-2025-post-qualifying-analysis",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -11217,6 +11301,48 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Hungarian Grand Prix 2025 - Practice 3",
+      "event_year": 2025,
+      "event_date": "2025-08-03",
+      "event_date_label": "1 AUG - 3 AUG 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(14).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-hungarian-grand-prix-formula-1-practice-3",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Hungarian Grand Prix 2025 - Practice 2",
+      "event_year": 2025,
+      "event_date": "2025-08-03",
+      "event_date_label": "1 AUG - 3 AUG 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(14).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-hungarian-grand-prix-formula-1-practice-2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Hungarian Grand Prix 2025 - Practice 1",
+      "event_year": 2025,
+      "event_date": "2025-08-03",
+      "event_date_label": "1 AUG - 3 AUG 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(14).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-hungarian-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Hungarian Grand Prix 2025 - Post-Race Analysis",
       "event_year": 2025,
       "event_date": "2025-08-03",
@@ -11448,6 +11574,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(15).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-belgium-grand-prix-2025-pre-qualifying-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Belgium Grand Prix 2025 - Practice 1",
+      "event_year": 2025,
+      "event_date": "2025-07-27",
+      "event_date_label": "25 JUL - 27 JUL 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(15).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-belgian-grand-prix-formula-1-practice-1",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -14778,6 +14918,90 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Pre-Season Bahrain Testing 2025 - Day3 Session2",
+      "event_year": 2025,
+      "event_date": "2025-02-28",
+      "event_date_label": "26 - 28 FEB 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(1).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-pre-season-bahrain-testing-2025-day3-session2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Pre-Season Bahrain Testing 2025 - Day3 Session1",
+      "event_year": 2025,
+      "event_date": "2025-02-28",
+      "event_date_label": "26 - 28 FEB 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(1).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-pre-season-bahrain-testing-2025-day3-session1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Pre-Season Bahrain Testing 2025 - Day2 Session2",
+      "event_year": 2025,
+      "event_date": "2025-02-28",
+      "event_date_label": "26 - 28 FEB 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(1).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-pre-season-bahrain-testing-2025-day2-session2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Pre-Season Bahrain Testing 2025 - Day2 Session1",
+      "event_year": 2025,
+      "event_date": "2025-02-28",
+      "event_date_label": "26 - 28 FEB 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(1).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-pre-season-bahrain-testing-2025-day2-session1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Pre-Season Bahrain Testing 2025 - Day1 Session2",
+      "event_year": 2025,
+      "event_date": "2025-02-28",
+      "event_date_label": "26 - 28 FEB 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(1).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-pre-season-bahrain-testing-2025-day1-session2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Pre-Season Bahrain Testing 2025 - Day1 Session1",
+      "event_year": 2025,
+      "event_date": "2025-02-28",
+      "event_date_label": "26 - 28 FEB 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(1).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-pre-season-bahrain-testing-2025-day1-session1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Pre-Season Bahrain Testing 2025 - Day 3, Session 2",
       "event_year": 2025,
       "event_date": "2025-02-28",
@@ -14965,6 +15189,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Chinese Grand Prix 2025 - Pre-Sprint Qualifying Buildup",
+      "event_year": 2025,
+      "event_date": "",
+      "event_date_label": "21-23 Mar 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/39166c6a79c3eb53eaff04bd425c0151.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-chinese-grand-prix-2025-pre-sprint-qualifying-buildup",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Chinese Grand Prix 2025 - Pre-Race Buildup",
       "event_year": 2025,
       "event_date": "",
@@ -15001,6 +15239,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/39166c6a79c3eb53eaff04bd425c0151.jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-chinese-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Chinese Grand Prix 2025 - Post-Sprint Qualifying Analysis",
+      "event_year": 2025,
+      "event_date": "",
+      "event_date_label": "21-23 Mar 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/39166c6a79c3eb53eaff04bd425c0151.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-chinese-grand-prix-2025-post-sprint-qualifying-analysis",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -15259,6 +15511,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Australian Grand Prix 2025 - F1 Show",
+      "event_year": 2025,
+      "event_date": "",
+      "event_date_label": "14-16 Mar 2025",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(4).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-australian-grand-prix-2025-f1-show",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Australian Grand Prix 2025 - Drivers Press Conference",
       "event_year": 2025,
       "event_date": "",
@@ -15421,62 +15687,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(18).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-singapore-grand-prix-post-race-show",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Hungarian Grand Prix 2025 - Practice 3",
-      "event_year": 2025,
-      "event_date": "2025-08-03",
-      "event_date_label": "1 AUG - 3 AUG 2025",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(14).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-hungarian-grand-prix-formula-1-practice-3",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Hungarian Grand Prix 2025 - Practice 2",
-      "event_year": 2025,
-      "event_date": "2025-08-03",
-      "event_date_label": "1 AUG - 3 AUG 2025",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(14).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-hungarian-grand-prix-formula-1-practice-2",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Hungarian Grand Prix 2025 - Practice 1",
-      "event_year": 2025,
-      "event_date": "2025-08-03",
-      "event_date_label": "1 AUG - 3 AUG 2025",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(14).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-hungarian-grand-prix-formula-1-practice-1",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Belgium Grand Prix 2025 - Practice 1",
-      "event_year": 2025,
-      "event_date": "2025-07-27",
-      "event_date_label": "25 JUL - 27 JUL 2025",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(15).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2025-belgian-grand-prix-formula-1-practice-1",
       "state": "unavailable",
       "health": "indexed"
     },
