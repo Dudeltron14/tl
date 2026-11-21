@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T12:44:04.421074Z",
+  "generated_at": "2026-11-21T20:33:42.435206Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "checked_at": "2026-11-21T20:33:42.435206Z",
       "records": 128
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "checked_at": "2026-11-21T20:33:42.435206Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-21T12:44:04.421074Z",
-      "records": 1016
+      "checked_at": "2026-11-21T20:33:42.435206Z",
+      "records": 1019
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "checked_at": "2026-11-21T20:33:42.435206Z",
       "records": 11
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "checked_at": "2026-11-21T20:33:42.435206Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "checked_at": "2026-11-21T20:33:42.435206Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-21T12:44:04.421074Z",
+      "checked_at": "2026-11-21T20:33:42.435206Z",
       "records": 0
     }
   },
@@ -93,6 +93,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-qualifying",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - Pre-Qualifying Buildup",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-2026-pre-qualifying-buildup",
       "state": "replay_available",
       "health": "indexed"
     },
@@ -141,6 +155,20 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - Post-Qualifying Analysis",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-2026-post-qualifying-analysis",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
       "title": "Las Vegas Grand Prix 2026 - Paddock Uncut",
       "event_year": 2026,
       "event_date": "2026-11-21",
@@ -149,6 +177,20 @@
       "available": true,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-2026-paddock-uncut",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - F1 Show",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-2026-f1-show",
       "state": "replay_available",
       "health": "indexed"
     },
