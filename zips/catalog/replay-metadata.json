@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T02:17:40.697744Z",
+  "generated_at": "2026-11-22T12:38:50.803934Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-22T02:17:40.697744Z",
+      "checked_at": "2026-11-22T12:38:50.803934Z",
       "records": 128
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-22T02:17:40.697744Z",
+      "checked_at": "2026-11-22T12:38:50.803934Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-22T02:17:40.697744Z",
-      "records": 1019
+      "checked_at": "2026-11-22T12:38:50.803934Z",
+      "records": 1034
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-22T02:17:40.697744Z",
-      "records": 11
+      "checked_at": "2026-11-22T12:38:50.803934Z",
+      "records": 10
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-22T02:17:40.697744Z",
+      "checked_at": "2026-11-22T12:38:50.803934Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-22T02:17:40.697744Z",
+      "checked_at": "2026-11-22T12:38:50.803934Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-22T02:17:40.697744Z",
+      "checked_at": "2026-11-22T12:38:50.803934Z",
       "records": 0
     }
   },
@@ -92,6 +92,20 @@
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/formulaplayer1"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Las Vegas Grand Prix 2026 - Race",
+      "event_year": 2026,
+      "event_date": "2026-11-21",
+      "event_date_label": "19 NOV - 21 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-race",
+      "state": "replay_available",
+      "health": "indexed"
     },
     {
       "provider": "OvertakeFans",
@@ -6469,6 +6483,216 @@
       "health": "indexed"
     },
     {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Weekend Warm-Up",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-weekend-warm-up",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Race",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-race",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-qualifying",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Pre-Race Show",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-pre-race-show",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Pre-Qualifying Show",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-pre-qualifying-show",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Practice 3",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-practice-3",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Practice 2",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-practice-2",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-practice-1",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Post-Race Show",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-post-race-show",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Post-Qualifying Show",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-post-qualifying-show",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - F2 Sprint Race",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-2-sprint-race",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - F2 Qualifying",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-2-qualifying",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - F2 Practice",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-2-practice",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - F2 Feature Race",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-2-feature-race",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - F1 Kids",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": false,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-formula-1-kids",
+      "state": "scheduled",
+      "health": "indexed"
+    },
+    {
       "provider": "Jolpica F1",
       "series": "Formula 1",
       "title": "Qatar Grand Prix - Race",
@@ -6539,20 +6763,6 @@
       "health": "indexed"
     },
     {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Las Vegas Grand Prix - Race",
-      "event_year": 2026,
-      "event_date": "2026-11-22",
-      "event_time": "2026-11-22T04:00:00Z",
-      "event_date_label": "22 Nov 2026 04:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/21/#race",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
       "provider": "OvertakeFans",
       "series": "Formula 1",
       "title": "Las Vegas Grand Prix 2026 - Weekend Warm-Up",
@@ -6563,20 +6773,6 @@
       "available": false,
       "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
       "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-weekend-warm-up",
-      "state": "unavailable",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Las Vegas Grand Prix 2026 - Race",
-      "event_year": 2026,
-      "event_date": "2026-11-21",
-      "event_date_label": "19 NOV - 21 NOV 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/image(20).jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-las-vegas-grand-prix-formula-1-race",
       "state": "unavailable",
       "health": "indexed"
     },
