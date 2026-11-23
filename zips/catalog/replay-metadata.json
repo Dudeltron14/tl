@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T20:44:46.756038Z",
+  "generated_at": "2026-11-23T02:51:26.750217Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,37 +25,37 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-22T20:44:46.756038Z",
-      "records": 128
+      "checked_at": "2026-11-23T02:51:26.750217Z",
+      "records": 129
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-22T20:44:46.756038Z",
+      "checked_at": "2026-11-23T02:51:26.750217Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-22T20:44:46.756038Z",
+      "checked_at": "2026-11-23T02:51:26.750217Z",
       "records": 1034
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-22T20:44:46.756038Z",
+      "checked_at": "2026-11-23T02:51:26.750217Z",
       "records": 10
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-22T20:44:46.756038Z",
+      "checked_at": "2026-11-23T02:51:26.750217Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-22T20:44:46.756038Z",
+      "checked_at": "2026-11-23T02:51:26.750217Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-22T20:44:46.756038Z",
+      "checked_at": "2026-11-23T02:51:26.750217Z",
       "records": 0
     }
   },
@@ -65,7 +65,7 @@
       "series": "WorldSBK",
       "title": "WorldSBK Live",
       "event_year": 2026,
-      "event_date": "2026-11-22",
+      "event_date": "2026-11-23",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
@@ -76,18 +76,29 @@
       "series": "MotoGP",
       "title": "MotoGP Live",
       "event_year": 2026,
-      "event_date": "2026-11-22",
+      "event_date": "2026-11-23",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
       "page_url": "https://esp32.nontonx.com/mgpplayer2"
     },
     {
+      "provider": "NontonX",
+      "series": "MotoGP",
+      "title": "MOTOGP Race Portugal 2026",
+      "event_year": 2026,
+      "event_date": "2026-11-23",
+      "last_modified": "2026-11-23T02:13:58Z",
+      "page_url": "https://replay.nontonx.com/2026/11/siaran-ulang-motogp-race-portugal-2026.html",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
       "provider": "NontonX Live",
       "series": "Formula 1",
       "title": "Formula 1 Live",
       "event_year": 2026,
-      "event_date": "2026-11-22",
+      "event_date": "2026-11-23",
       "event_date_label": "Live channel; event availability varies",
       "last_modified": "",
       "state": "live",
