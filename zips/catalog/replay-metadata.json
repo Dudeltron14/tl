@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T08:42:55.049300Z",
+  "generated_at": "2026-11-27T19:29:54.804635Z",
   "since_year": 2024,
   "scope": "Public catalog metadata only; no embed or media URLs.",
   "sources": {
@@ -25,41 +25,69 @@
   "source_health": {
     "NontonX": {
       "status": "ok",
-      "checked_at": "2026-11-27T08:42:55.049300Z",
+      "checked_at": "2026-11-27T19:29:54.804635Z",
       "records": 129
     },
     "FullRaces": {
       "status": "stale",
-      "checked_at": "2026-11-27T08:42:55.049300Z",
+      "checked_at": "2026-11-27T19:29:54.804635Z",
       "records": 670
     },
     "OvertakeFans": {
       "status": "ok",
-      "checked_at": "2026-11-27T08:42:55.049300Z",
+      "checked_at": "2026-11-27T19:29:54.804635Z",
       "records": 1036
     },
     "Jolpica F1": {
       "status": "ok",
-      "checked_at": "2026-11-27T08:42:55.049300Z",
-      "records": 10
+      "checked_at": "2026-11-27T19:29:54.804635Z",
+      "records": 8
     },
     "NontonX Live": {
       "status": "ok",
-      "checked_at": "2026-11-27T08:42:55.049300Z",
+      "checked_at": "2026-11-27T19:29:54.804635Z",
       "records": 3
     },
     "Aces Live": {
       "status": "stale",
-      "checked_at": "2026-11-27T08:42:55.049300Z",
+      "checked_at": "2026-11-27T19:29:54.804635Z",
       "records": 0
     },
     "PitSport Live": {
       "status": "stale",
-      "checked_at": "2026-11-27T08:42:55.049300Z",
+      "checked_at": "2026-11-27T19:29:54.804635Z",
       "records": 0
     }
   },
   "items": [
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Practice 2",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-practice-2",
+      "state": "replay_available",
+      "health": "indexed"
+    },
+    {
+      "provider": "OvertakeFans",
+      "series": "Formula 1",
+      "title": "Qatar Grand Prix 2026 - Practice 1",
+      "event_year": 2026,
+      "event_date": "2026-11-29",
+      "event_date_label": "27 NOV - 29 NOV 2026",
+      "last_modified": "",
+      "available": true,
+      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
+      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-practice-1",
+      "state": "replay_available",
+      "health": "indexed"
+    },
     {
       "provider": "NontonX Live",
       "series": "WorldSBK",
@@ -6608,34 +6636,6 @@
     {
       "provider": "OvertakeFans",
       "series": "Formula 1",
-      "title": "Qatar Grand Prix 2026 - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-11-29",
-      "event_date_label": "27 NOV - 29 NOV 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
-      "title": "Qatar Grand Prix 2026 - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-11-29",
-      "event_date_label": "27 NOV - 29 NOV 2026",
-      "last_modified": "",
-      "available": false,
-      "thumbnail": "https://overtakefans.com/f1-race-archive/data/img/be9a1defd357f29e3a213d691194cf2c.jpg",
-      "page_url": "https://overtakefans.com/f1-race-archive/watch/index.php?race=2026-qatar-grand-prix-formula-1-practice-1",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "OvertakeFans",
-      "series": "Formula 1",
       "title": "Qatar Grand Prix 2026 - Post-Race Show",
       "event_year": 2026,
       "event_date": "2026-11-29",
@@ -6770,34 +6770,6 @@
       "last_modified": "",
       "available": false,
       "page_url": "https://api.jolpi.ca/ergast/f1/2026/22/#practice-3",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Qatar Grand Prix - Practice 2",
-      "event_year": 2026,
-      "event_date": "2026-11-27",
-      "event_time": "2026-11-27T17:00:00Z",
-      "event_date_label": "27 Nov 2026 17:00 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/22/#practice-2",
-      "state": "scheduled",
-      "health": "indexed"
-    },
-    {
-      "provider": "Jolpica F1",
-      "series": "Formula 1",
-      "title": "Qatar Grand Prix - Practice 1",
-      "event_year": 2026,
-      "event_date": "2026-11-27",
-      "event_time": "2026-11-27T13:30:00Z",
-      "event_date_label": "27 Nov 2026 13:30 UTC",
-      "last_modified": "",
-      "available": false,
-      "page_url": "https://api.jolpi.ca/ergast/f1/2026/22/#practice-1",
       "state": "scheduled",
       "health": "indexed"
     },
